@@ -1,0 +1,23 @@
+---
+title: ''
+contentType: prose
+---
+
+Jde stařeček, vlasy jak sníh, je bílý,
+
+> ze sladkých míst, kde věk svůj naplnil,  
+> od rodinky, které jen strach už zbyl,  
+> když vidí, jak odchází otec milý.
+
+> Proč klopýtá, věkem už pokročilý,  
+> přes krajní dny, v nichž život završil?  
+> Ctným chtěním pomáhá si ze všech sil,  
+> zlomený lety, znaven poutí k cíli.
+
+> Do Říma přijde, jak ho vede přání  
+> uvidět podobu, již obtisk Ten,  
+> s nímž, doufá, se tam na nebesích shledá.
+
+> Tak, pokud je to možné, chodím, paní,  
+> já hledat v obličejích jiných žen  
+> vaši tvář vytouženou, pravou, běda!
