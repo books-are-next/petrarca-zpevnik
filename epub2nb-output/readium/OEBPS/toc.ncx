@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Zpěvník</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Francesco PetrarcaPotomkům</text>
+      </navLabel>
+      <content src="Text/zpevnik_006.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>ZPĚVNÍK</text>
+      </navLabel>
+      <content src="Text/zpevnik_008.xhtml#_idParaDest-54"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Na život paní Laury</text>
+        </navLabel>
+        <content src="Text/zpevnik_008.xhtml#_idParaDest-54"/>
+        <navPoint id="navPoint-4" playOrder="4">
+          <navLabel>
+            <text>Voi ch‘ ascoltate in rime sparse i</text>
+          </navLabel>
+          <content src="Text/zpevnik_009.xhtml#zpevnik_vybor_poesie-4"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+          <navLabel>
+            <text>Čtenáři, až v mých rýmech zaskechneš</text>
+          </navLabel>
+          <content src="Text/zpevnik_010.xhtml#zpevnik_vybor_poesie-5"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+          <navLabel>
+            <text>Odhalit závoj v slunci nebo v stínu</text>
+          </navLabel>
+          <content src="Text/zpevnik_012.xhtml#_idParaDest-3"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+          <navLabel>
+            <text>Ubohé oči, otáčím vás zpět</text>
+          </navLabel>
+          <content src="Text/zpevnik_013.xhtml#_idParaDest-4"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+          <navLabel>
+            <text>Jde stařeček, vlasy jak sníh, je bílý,</text>
+          </navLabel>
+          <content src="Text/zpevnik_014.xhtml#_idParaDest-5"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+          <navLabel>
+            <text>Pro všecky tvory, které hostí země</text>
+          </navLabel>
+          <content src="Text/zpevnik_016.xhtml#_idParaDest-6"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+          <navLabel>
+            <text>Čím spěji blíž k chvíli, kdy krajní den</text>
+          </navLabel>
+          <content src="Text/zpevnik_017.xhtml#_idParaDest-7"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+          <navLabel>
+            <text>V nejpustších polích sám jdu v myšlenkách.</text>
+          </navLabel>
+          <content src="Text/zpevnik_018.xhtml#_idParaDest-8"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+          <navLabel>
+            <text>Diana milenci se nelíbila</text>
+          </navLabel>
+          <content src="Text/zpevnik_020.xhtml#_idParaDest-9"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>Vznešený duchu, který řídíš údy,</text>
+          </navLabel>
+          <content src="Text/zpevnik_021.xhtml#_idParaDest-10"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+          <navLabel>
+            <text>Nebeský Otče, po ztracených dnech,</text>
+          </navLabel>
+          <content src="Text/zpevnik_023.xhtml#_idParaDest-11"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+          <navLabel>
+            <text>Zrak jste k mé nové barvě obrátila,</text>
+          </navLabel>
+          <content src="Text/zpevnik_024.xhtml#_idParaDest-12"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+          <navLabel>
+            <text>Vzduch plný par a dotěravá mlha,</text>
+          </navLabel>
+          <content src="Text/zpevnik_026.xhtml#_idParaDest-13"/>
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+          <navLabel>
+            <text>Že kratičké je žití</text>
+          </navLabel>
+          <content src="Text/zpevnik_028.xhtml#_idParaDest-14"/>
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+          <navLabel>
+            <text>Vidím, má vzácná paní,</text>
+          </navLabel>
+          <content src="Text/zpevnik_030.xhtml#_idParaDest-15"/>
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+          <navLabel>
+            <text>Když údělem mých slok</text>
+          </navLabel>
+          <content src="Text/zpevnik_032.xhtml#_idParaDest-16"/>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+          <navLabel>
+            <text>Toho, kdo pevně rozhod se hnát život</text>
+          </navLabel>
+          <content src="Text/zpevnik_034.xhtml#_idParaDest-17"/>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+          <navLabel>
+            <text>Pod tíží dávných pout už tak jsem zmdlel</text>
+          </navLabel>
+          <content src="Text/zpevnik_036.xhtml#_idParaDest-18"/>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+          <navLabel>
+            <text>Rozvíval kdysi vánek zlaté vlasy</text>
+          </navLabel>
+          <content src="Text/zpevnik_038.xhtml#_idParaDest-19"/>
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+          <navLabel>
+            <text>Překrásná žena, jižs tak miloval,</text>
+          </navLabel>
+          <content src="Text/zpevnik_039.xhtml#_idParaDest-20"/>
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+          <navLabel>
+            <text>To okno, v kterém jedno slunce svítí,</text>
+          </navLabel>
+          <content src="Text/zpevnik_041.xhtml#_idParaDest-21"/>
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+          <navLabel>
+            <text>Hannibal zvítězil a nedoved</text>
+          </navLabel>
+          <content src="Text/zpevnik_042.xhtml#_idParaDest-22"/>
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+          <navLabel>
+            <text>Jak nový andílek se obezřelá</text>
+          </navLabel>
+          <content src="Text/zpevnik_044.xhtml#_idParaDest-23"/>
+        </navPoint>
+        <navPoint id="navPoint-27" playOrder="27">
+          <navLabel>
+            <text>Teď vidíš, Amore: mladinká paní</text>
+          </navLabel>
+          <content src="Text/zpevnik_045.xhtml#_idParaDest-24"/>
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+          <navLabel>
+            <text>Svite svěžích sladkých vod,</text>
+          </navLabel>
+          <content src="Text/zpevnik_046.xhtml#_idParaDest-25"/>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+          <navLabel>
+            <text>Má Itálie, třeba slova marná</text>
+          </navLabel>
+          <content src="Text/zpevnik_048.xhtml#_idParaDest-26"/>
+        </navPoint>
+        <navPoint id="navPoint-30" playOrder="30">
+          <navLabel>
+            <text>Z myšlenky k myšlence, z hor k horám sám</text>
+          </navLabel>
+          <content src="Text/zpevnik_050.xhtml#_idParaDest-27"/>
+        </navPoint>
+        <navPoint id="navPoint-31" playOrder="31">
+          <navLabel>
+            <text>Mír nenacházím, k válce síla není.</text>
+          </navLabel>
+          <content src="Text/zpevnik_051.xhtml#_idParaDest-28"/>
+        </navPoint>
+        <navPoint id="navPoint-32" playOrder="32">
+          <navLabel>
+            <text>Dští oheň z nebes, děvko, na tvůj vlas.</text>
+          </navLabel>
+          <content src="Text/zpevnik_052.xhtml#_idParaDest-29"/>
+        </navPoint>
+        <navPoint id="navPoint-33" playOrder="33">
+          <navLabel>
+            <text>Lakotný Bábel pytel zlořádu,</text>
+          </navLabel>
+          <content src="Text/zpevnik_053.xhtml#_idParaDest-30"/>
+        </navPoint>
+        <navPoint id="navPoint-34" playOrder="34">
+          <navLabel>
+            <text>Studnice bolesti, hospodo zlosti,</text>
+          </navLabel>
+          <content src="Text/zpevnik_054.xhtml#_idParaDest-31"/>
+        </navPoint>
+        <navPoint id="navPoint-35" playOrder="35">
+          <navLabel>
+            <text>Čas od času není tak odmítavá</text>
+          </navLabel>
+          <content src="Text/zpevnik_056.xhtml#_idParaDest-32"/>
+        </navPoint>
+        <navPoint id="navPoint-36" playOrder="36">
+          <navLabel>
+            <text>Co přijde, duše? Mluv, abych to znal!</text>
+          </navLabel>
+          <content src="Text/zpevnik_057.xhtml#_idParaDest-33"/>
+        </navPoint>
+        <navPoint id="navPoint-37" playOrder="37">
+          <navLabel>
+            <text>Nyní, kdy mlčí vítr, nebe, zem</text>
+          </navLabel>
+          <content src="Text/zpevnik_058.xhtml#_idParaDest-34"/>
+        </navPoint>
+        <navPoint id="navPoint-38" playOrder="38">
+          <navLabel>
+            <text>Jakmile bílá noha v svěží trávě</text>
+          </navLabel>
+          <content src="Text/zpevnik_060.xhtml#_idParaDest-35"/>
+        </navPoint>
+        <navPoint id="navPoint-39" playOrder="39">
+          <navLabel>
+            <text>Jdu v nehostinném, divokém, zlém lese,</text>
+          </navLabel>
+          <content src="Text/zpevnik_061.xhtml#_idParaDest-36"/>
+        </navPoint>
+        <navPoint id="navPoint-40" playOrder="40">
+          <navLabel>
+            <text>Má loď zapomenutí plná pluje</text>
+          </navLabel>
+          <content src="Text/zpevnik_063.xhtml#_idParaDest-37"/>
+        </navPoint>
+        <navPoint id="navPoint-41" playOrder="41">
+          <navLabel>
+            <text>Komůrko, tys mě kdysi uchránila</text>
+          </navLabel>
+          <content src="Text/zpevnik_064.xhtml#_idParaDest-38"/>
+        </navPoint>
+        <navPoint id="navPoint-42" playOrder="42">
+          <navLabel>
+            <text>Neznají tolik tvorů mořské vlny</text>
+          </navLabel>
+          <content src="Text/zpevnik_065.xhtml#_idParaDest-39"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Na smrt paní Laury</text>
+        </navLabel>
+        <content src="Text/zpevnik_067.xhtml#_idParaDest-40"/>
+        <navPoint id="navPoint-44" playOrder="44">
+          <navLabel>
+            <text>Co já mám dělat? Co teď, lásko má?</text>
+          </navLabel>
+          <content src="Text/zpevnik_069.xhtml#zpevnik_vybor_poesie-43"/>
+        </navPoint>
+        <navPoint id="navPoint-45" playOrder="45">
+          <navLabel>
+            <text>Zlomen laur svěží i sloup kolonád,</text>
+          </navLabel>
+          <content src="Text/zpevnik_070.xhtml#_idParaDest-41"/>
+        </navPoint>
+        <navPoint id="navPoint-46" playOrder="46">
+          <navLabel>
+            <text>Život nám utíká a nezastaví</text>
+          </navLabel>
+          <content src="Text/zpevnik_071.xhtml#_idParaDest-42"/>
+        </navPoint>
+        <navPoint id="navPoint-47" playOrder="47">
+          <navLabel>
+            <text>Když nářek ptáků nebo sladký šum</text>
+          </navLabel>
+          <content src="Text/zpevnik_073.xhtml#_idParaDest-43"/>
+        </navPoint>
+        <navPoint id="navPoint-48" playOrder="48">
+          <navLabel>
+            <text>Ty oči, o nichž jsem tak vroucné psal,</text>
+          </navLabel>
+          <content src="Text/zpevnik_074.xhtml#_idParaDest-44"/>
+        </navPoint>
+        <navPoint id="navPoint-49" playOrder="49">
+          <navLabel>
+            <text>Vznesla mě mysl tam, kde ona byla,</text>
+          </navLabel>
+          <content src="Text/zpevnik_075.xhtml#_idParaDest-45"/>
+        </navPoint>
+        <navPoint id="navPoint-50" playOrder="50">
+          <navLabel>
+            <text>Ten slavíček tak sladce oplakává</text>
+          </navLabel>
+          <content src="Text/zpevnik_077.xhtml#_idParaDest-46"/>
+        </navPoint>
+        <navPoint id="navPoint-51" playOrder="51">
+          <navLabel>
+            <text>Lásko, když ve mně kvetla</text>
+          </navLabel>
+          <content src="Text/zpevnik_079.xhtml#_idParaDest-47"/>
+        </navPoint>
+        <navPoint id="navPoint-52" playOrder="52">
+          <navLabel>
+            <text>Amor mě držel jednadvacet let,</text>
+          </navLabel>
+          <content src="Text/zpevnik_080.xhtml#_idParaDest-48"/>
+        </navPoint>
+        <navPoint id="navPoint-53" playOrder="53">
+          <navLabel>
+            <text>Jdu, oplakávám svoje prošlé časy.</text>
+          </navLabel>
+          <content src="Text/zpevnik_081.xhtml#_idParaDest-49"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>TRIUMFY</text>
+      </navLabel>
+      <content src="Text/zpevnik_083.xhtml#_idParaDest-50"/>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Triumf smrti ( První kapitola)</text>
+        </navLabel>
+        <content src="Text/zpevnik_083.xhtml#_idParaDest-50"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Trium času (Závěr)</text>
+        </navLabel>
+        <content src="Text/zpevnik_086.xhtml#_idParaDest-55"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>Ediční poznámka</text>
+      </navLabel>
+      <content src="Text/zpevnik_089.xhtml#_idParaDest-51"/>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>Vysvětlivky</text>
+      </navLabel>
+      <content src="Text/zpevnik_090.xhtml#_idParaDest-52"/>
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>Doslov</text>
+      </navLabel>
+      <content src="Text/zpevnik_091.xhtml#_idParaDest-53"/>
+    </navPoint>
+  </navMap>
+</ncx>

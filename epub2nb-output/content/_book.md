@@ -1,0 +1,118 @@
+---
+outputs: meta
+slug: book
+contentType: prose
+languageCode: en
+meta:
+  title: Zpěvník
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: Francesco Petrarca
+  publisher: Městská knihovna v Praze
+  modified: '2021-06-08T00:00:00.000Z'
+readingOrder:
+  - promo.html
+  - zpevnik_001.html
+  - zpevnik_002.html
+  - zpevnik_003.html
+  - zpevnik_004.html
+  - zpevnik_005.html
+  - zpevnik_006.html
+  - zpevnik_007.html
+  - zpevnik_008.html
+  - zpevnik_009.html
+  - zpevnik_010.html
+  - zpevnik_011.html
+  - zpevnik_012.html
+  - zpevnik_013.html
+  - zpevnik_014.html
+  - zpevnik_015.html
+  - zpevnik_016.html
+  - zpevnik_017.html
+  - zpevnik_018.html
+  - zpevnik_019.html
+  - zpevnik_020.html
+  - zpevnik_021.html
+  - zpevnik_022.html
+  - zpevnik_023.html
+  - zpevnik_024.html
+  - zpevnik_025.html
+  - zpevnik_026.html
+  - zpevnik_027.html
+  - zpevnik_028.html
+  - zpevnik_029.html
+  - zpevnik_030.html
+  - zpevnik_031.html
+  - zpevnik_032.html
+  - zpevnik_033.html
+  - zpevnik_034.html
+  - zpevnik_035.html
+  - zpevnik_036.html
+  - zpevnik_037.html
+  - zpevnik_038.html
+  - zpevnik_039.html
+  - zpevnik_040.html
+  - zpevnik_041.html
+  - zpevnik_042.html
+  - zpevnik_043.html
+  - zpevnik_044.html
+  - zpevnik_045.html
+  - zpevnik_046.html
+  - zpevnik_047.html
+  - zpevnik_048.html
+  - zpevnik_049.html
+  - zpevnik_050.html
+  - zpevnik_051.html
+  - zpevnik_052.html
+  - zpevnik_053.html
+  - zpevnik_054.html
+  - zpevnik_055.html
+  - zpevnik_056.html
+  - zpevnik_057.html
+  - zpevnik_058.html
+  - zpevnik_059.html
+  - zpevnik_060.html
+  - zpevnik_061.html
+  - zpevnik_062.html
+  - zpevnik_063.html
+  - zpevnik_064.html
+  - zpevnik_065.html
+  - zpevnik_066.html
+  - zpevnik_067.html
+  - zpevnik_068.html
+  - zpevnik_069.html
+  - zpevnik_070.html
+  - zpevnik_071.html
+  - zpevnik_072.html
+  - zpevnik_073.html
+  - zpevnik_074.html
+  - zpevnik_075.html
+  - zpevnik_076.html
+  - zpevnik_077.html
+  - zpevnik_078.html
+  - zpevnik_079.html
+  - zpevnik_080.html
+  - zpevnik_081.html
+  - zpevnik_082.html
+  - zpevnik_083.html
+  - zpevnik_084.html
+  - zpevnik_085.html
+  - zpevnik_086.html
+  - zpevnik_087.html
+  - zpevnik_088.html
+  - zpevnik_089.html
+  - zpevnik_090.html
+  - zpevnik_091.html
+  - zpevnik_092.html
+tocBase:
+  - id: section-1
+    children: []
+    isSection: true
+static:
+  - style
+  - scripts
+  - title
+  - fonts
+  - resources
+  - template-images
+  - favicon.png
+---
