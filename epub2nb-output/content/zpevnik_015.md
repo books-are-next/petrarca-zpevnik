@@ -3,18 +3,14 @@ title: ''
 contentType: prose
 ---
 
-  
-
-  
-
-Jak poutník z Charvátska snad, který stojí,  
+_Jak poutník z Charvátska snad, který stojí,  
 an k Veronice přišel povznést hledy,  
-když pověst dávná už ho neukojí,
+když pověst dávná už ho neukojí,_
 
-si říká, když ji vidí naposledy:  
+_si říká, když ji vidí naposledy:  
 „Můj pane Isukrste, Bože pravý,  
-taková tvářnost tvoje byla tedy?“
+taková tvářnost tvoje byla tedy?“_
 
-— DANTE  
-Ráj, zpěv XXXI., v. 103–108,  
-přeložil O. F. Babler
+> — DANTE  
+> Ráj, _zpěv XXXI., v. 103–108,  
+> přel__ožil O. F. Babler_

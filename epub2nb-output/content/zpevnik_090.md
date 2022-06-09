@@ -3,9 +3,7 @@ title: Vysvětlivky
 contentType: prose
 ---
 
-Francesco Petrarca – potomkům
-
-  
+**Francesco Petrarca – potomkům**
 
 Dopis není zařazen do žádného ze tří souborů Petrarkových latinských listů. Původní znění textu vzniklo kolem r. 1351, ale koncem života Petrarca list přepisoval, jak dosvědčují narážky na události z let 1368–70, zvl. na smrt papeže Urbana V. (13. prosince 1370 v Avignonu). List zůstal nedokončen a jsou v něm nápadné mezery, pokud jde o události padesátých a šedesátých let. Básník se nezmiňuje o svých významných veřejných posláních. Když se vrátil r. 1353 do Itálie, zadržel ho u sebe arcibiskup Giovanni Visconti, pán Milána. Z pověření jeho nástupce Galeazza (od r. 1354) pod­nikl Petrarca diplomatické cesty do Prahy (1356), do Paříže (1360) a několikrát do Benátek (1366–1373).
 
@@ -15,19 +13,13 @@ _Apiciovi následovníci_ – Marcus Gavius Apicius byl pověstný římský bo
 
 Zpěvník (Na život paní Laury)
 
-  
-
 Voi ch‘ ascoltate in rime sparse il suono
-
-  
 
 – vstupní sonet Zpěvníku je podle Carducciho „úvod, a měl by to být epilog, protože byl napsán až v posledních letech, kdy Petrarca uspořádával sbírku svých veršů“. Jiní – méně pravděpodobně – jej datují rokem 1348 nebo 1349.
 
 _Di me medesmo meco mi vergogno_ – řečnická figura, kterou od antických předchůdců s oblibou přejímali středověcí autoři. Petrarca aliterací na „m“ vytváří zvukomalbu pláče.
 
-Jde stařeček, vlasy jak sníh, je bílý
-
-  
+**Jde stařeček, vlasy jak sníh, je bílý**
 
 – sonet svědčící o básníkově odloučení od Laury; značně pravděpodobné, ne však prokázané výklady kladou vznik básně mezi konec r. 1336 a srpen 1337, kdy byl Petrarca poprvé v Římě. U obrazu „vlasy jak sníh, je bílý“ není jasné, jde-li o básnickou figuru, tautologii, nebo má-li slovo „bílý“ znamenat starcovu bledost.
 
@@ -35,21 +27,15 @@ _jak odchází otec milý_ – dvojvýznam jako v ostatních verších: odchod
 
 _uvidět podobu, již obtisk Ten_ – podle dávného podání se v Římě zachovala Kristova pravá podoba na osušce, kterou mu podala svatá Veronika – tzv. veraikon.
 
-Pro všecky tvory, které hostí země
-
-  
+**Pro všecky tvory, které hostí země**
 
 – poslední sloka sestiny před posláním je jazyková a mytologická hříčka: Laura – laur s narážkou na řecký mýtus o nymfě Dafné (řecky dafné – vavřín), které se chtěl zmocnit Apollón; Dafné se mu na útěku změnila ve vavřín (viz Ovidiovy Proměny, první knihu).
 
-Diana milenci se nelíbila
-
-  
+**Diana milenci se nelíbila**
 
 – úvodní verš madrigalu je narážkou na řecký mýtus o lovci Aktaióno­vi, který spatřil bohyni Artemidu (Dianu) nahou v lázni.
 
-Vznešený duchu, který řídíš údy
-
-  
+**Vznešený duchu, který řídíš údy**
 
 – Petrarca sám nikdy nenapsal, koho kancóna-apostrofa oslovuje. Z komentátorů až r. 1523 Vellutello uvedl, že adresátem je Cola di Rienzi, který v květnu 1347 obsadil v čele římského lidu Kapitol a neúspěšně se pokusil obnovit úřad a pravomoci starořímského tribuna lidu; Petrarca byl jeho přívržencem. Toho výkladu se drží většina dalších komentátorů. Ale již koncem čtrnáctého století zaznamenává Antonio da Tempo, že báseň byla prý určena římskému senátoru. R. 1764 uvedl de Sade, že to byl Stefano Colonna mladší, který se stal r. 1335 římským senátorem; později se objevila i další možná jména. V estetickém hodnocení básně se rozcházejí i nejvýznačnější posuzovatelé. Leopardi a Carducci mluví o básni „výmluvné lyriky“, De Sanctis v ní nachází rétoriku, ale ne poezii.
 
@@ -79,17 +65,13 @@ _Nad skálou Tarp__ejskou_ – Tarpejská skála tvoří svah Kapitolu.
 
 _Muž, jenž tě nevidí dnes zblízka_ – tj. Petrarca, toho času mimo Řím.
 
-Nebeský otče, po ztracených dnech
-
-  
+**Nebeský otče, po ztracených dnech**
 
 – sonet-modlitba. Slova o „jedenáctém roku“ a závěrečné „jak bys na kříži byl dneska!“ datují vznik básně: jedenácté výročí Petrarkova zamilování; podle církevní tradice byl Kristus ukřižován 6. dubna 34.
 
 _můj zlý sok_ – podle jedněch výkladů je míněn Amor, podle jiných ďábel.
 
 Vzduch plný par a dotěravá mlha
-
-  
 
 – sestina líčí zimní přírodu ve Vaucluse.
 
@@ -98,8 +80,6 @@ _strastiplné větry_ – vzdechy.
 _zde mezi dvě řeky_ – Sorgu a Durenzu.
 
 Že kratičké je žití
-
-  
 
 – první z triptychu kancón o Lauřiných očích.
 
@@ -123,15 +103,11 @@ _Z hvězd by se v kruz__ích netočily žádné_ – podle tehdejší zeměst�
 
 Toho, kdo pevně rozhod se hnát život
 
-  
-
 – Petrarca často opakuje ve svých verších podobenství lidského života jako lodi na moři.
 
 _v lauru doufal_ – obvyklá Petrarkova slovní hříčka: Laura – laur.
 
 Pod tíží dávných pout už tak jsem zmdlel
-
-  
 
 – sonet je parafrází různých míst Bible.
 
@@ -141,13 +117,9 @@ _Zprostit mě tíhy velký přítel šel_ – vykupitel.
 
 Rozvíval kdysi vánek zlaté vlasy
 
-  
-
 – konfrontace už starší a snad i nemocné Laury s někdejší mladou; konfrontace snu a reality a zároveň víra v sílu básnické představy. Podle nejstarších komentátorů jistá význačná osobnost (uvádí se i jméno neapolského krále Roberta) při návštěvě v Avignonu r. 1342 vyslovila po setkání s Laurou pochybnost o tom, byla-li tak krásná, a Petrarca napsal tento sonet jako odpověď.
 
 Překrásná žena, jižs tak miloval
-
-  
 
 – příležitostné verše příteli, kterému zemřela milenka; podle některých vykladačů byl adresátem Petrarkův bratr Gherardo, který se pak r. 1343 stal mnichem.
 
@@ -159,21 +131,15 @@ _strastným průsmykem_ – smrtí.
 
 To okno, v kterém jedno slunce svítí
 
-  
-
 – Lauřino okno; jedno slunce je Laura, druhé, které svítí za poledne, je přirozené slunce.
 
 _a to, jež – sotva severák se zvedne v krátkých dnech_ – protilehlé, severní okno domu.
 
 Hannibal zvítězil a nedoved
 
-  
-
 – sonet adresovaný Stefanovi Colonnovi. V bojích mezi aristokratickými rody Colonnů, jejichž přívržencem byl Petrarca, a Orsiniů (italsky orso – medvěd, odtud jako narážka medvědice v básni) o nadvládu nad Římem došlo 22. května 1333 k srážce mezi tlupami obou stran. Skončila vítězně pro Colonny. První verš sonetu parafrázuje Plútarchův životopis Hannibala, podle něhož řekl Maharbal nejslavnějšímu kartaginskému vojevůdci v punských válkách: „Umíš zvítězit, Hannibale, ale neumíš využít vítězství.“
 
 Má Itálie, třeba slova marná
-
-  
 
 – básníkova reakce na některou z lokálních válek mezi italskými velmoži, kdy o osudu země často rozhodovali cizí žoldnéři. Tento stav trval po celou dobu básníkova života.
 
@@ -187,15 +153,11 @@ _bavorské proradnosti_ – připomínka Ludvíka Bavora, který svého času s
 
 Z myšlenky k myšlence, z hor k horám sám
 
-  
-
 – kancóna byla najisto napsána v Itálii, místem vzniku je Selva piana; komentáře ji datují rokem 1343 nebo 1345.
 
 _Léda_ – manželka spartského krále Tyndarea a matka Heleny; Helenu podle pověsti zplodil s Lédou Zeus, proměněný v labuť.
 
 Mír nenecházím, k válce síla není
-
-  
 
 – krajní protiklady, sevřené do rozměru jednoho verše, nejsou v dobové poetice neobvyklé. Srovnej ještě o sto let později Villonovu baladu: „Já u pramene jsem a žízní hynu, horký jak oheň, zuby drkotám...“
 
@@ -203,15 +165,11 @@ _Vězní, kdo neotevř__e, nezamkne mi_ – Laura.
 
 Dští oheň z nebes, děvko, na tvůj vlas
 
-  
-
 – v intonaci biblické Apokalypsy (kap. 17.); báseň spolu s následujícími dvěma tvoří trojici protiavignonských sonetů.
 
 _když křepčí s ohněm, s měchem, se zr__cadly_ – s měchem, aby roz­dmýchával neřesti, se zrcadly, aby se v nich obrážely.
 
 Lakotný Bábel pytel zlořádu
-
-  
 
 – v Petrarkových polemikách s papežským panstvím je Babylónem míněn papežský dvůr, Bagdádem Řím, sultánem papež. Petrarca očekává příchod nového papeže, který opět nastolí řádnou vládu.
 
@@ -223,15 +181,11 @@ _stráž, sama zlá, se_ _zvenčí dočká zlého_ – strážci opevnění bud
 
 Studnice bolesti, hospodo zlosti
 
-  
-
 – Řím symbolizuje starořímské ctnosti jako protiklad Babylónu (tedy: Avignonu), obrazu všech neřestí.
 
 _Konstantin nemůže se vrátit již_ – podle tehdy rozšířeného přesvědčení římský císař Konstantin dal papeži údělem území Vatikánu, a tím založil světské panství papežů; ve skutečnosti tato tzv. Konstantinova donace byl historický falzifikát až z doby kolem r. 800, odhalený teprve po staletích.
 
 Co přijde, duše? Mluv, abych to znal!
-
-  
 
 – forma sonetu-dialogu, v Itálii velmi oblíbená.
 
@@ -241,15 +195,11 @@ _Uklidnit mysl se ti nepodaří_ – podle některých vykladačů jsou Petrar�
 
 Jdu v nehostinném, divokém, zlém lese
 
-  
-
 – ohlas Petrarkovy cesty z Německa do Francie v červnu 1333 přes Ardenský les, kde vedli drobnou místní válku brabantský vévoda a flanderský hrabě.
 
 _Slunce_ – vzpomínka na Lauru.
 
 Má loď zapomenutí plná pluje
-
-  
 
 – pravzorem mnoha pozdějším básníkům byly Alkaiovy verše o lodi v bouři; u starořeckého autora jde především o politickou alegorii.
 
@@ -261,17 +211,13 @@ _Skrývá se zrak dvou hvězd_ – Lauřiných očí.
 
 Neznají tolik tvorů mořské vlny
 
-  
-
 – Petrarca vychází z dobového (a již starověkého) astronomického názoru: Středem světa je Země, obklopená devíti nebi (nebo nebeskými okruhy) – nebem Luny, nebem Merkura, nebem Venuše, nebem Slunce, nebem Marta, nebem Jupitera, nebem Saturna, hvězdným nebem zvěrokruhu a krystalovým nebem „prvním hybným“, nad nímž teprve je klidné nebe – ráj.
 
 _Ach kdybych já teď s milencem té luny_ – narážka na starořeckou báji o pastýři Endymiónovi, milenci bohyně luny Seléné.
 
-Zpěvník (Na smrt paní Laury)
+**Zpěvník (Na smrt paní Laury)**
 
-Co já mám dělat? Co teď, lásko má?
-
-  
+_Co já mám dělat? Co teď, lásko má?_
 
 – první kancóna na Lauřinu smrt je zachována ve dvou variantách, z r. 1349 a z r. 1356.
 
@@ -281,33 +227,23 @@ _v pravdě tam_ – u Boha, pramene vší pravdy.
 
 Zlomen laur svěží i sloup kolonád
 
-  
-
 – obvyklé Petrarkovy slovní hříčky se jménem Laura a laurem (vavřínem), stejně tak jako se jménem rodu Colonnů (Sloupů). Laura zemřela 6. dubna, kardinál Giovanni Colonna 3. července 1348.
 
 Vznesla mě mysl tam, kde ona byla
-
-  
 
 – do třetího okruhu nebe, nebe Venuše, sféry milenců.
 
 Amor mě držel jednadvacet let
 
-  
-
 – sonet-modlitba, jeden z mála, u kterého komentátoři uvádějí přesnou dataci textu (1358); příležitostně čteme i den (6. dubna).
 
 Jdu, oplakávám svoje prošlé časy
 
-  
-
 – poslední sonet Zpěvníku.
-
-  
 
 TRIUMFY
 
-Triumf smrti /První kapitola/
+**Triumf smrti /První kapitola/**
 
 _v zeleném poli_ – zelená barva je symbolem mládí.
 
@@ -319,7 +255,7 @@ _Projdeš ten vchod_ – průsmyk mezi životem a smrtí.
 
 _Všichni se vrátíte k své matce věcné_ – k zemi.
 
-Triumf času /Závěr/
+**Triumf času /Závěr/**
 
 _„Nejistá zima, letmý jasný vzhled…“_ – Petrarca neuvádí, o jaký pomyslný hlas jde.
 

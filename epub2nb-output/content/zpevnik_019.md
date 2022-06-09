@@ -3,22 +3,22 @@ title: ''
 contentType: prose
 ---
 
-  
+> 
 
-  
+> 
 
-  
+> 
 
-… Tak bych já mohl dobře zít daleko v odlehlých lesích,
+> _… Tak bych já mohl dobře zít daleko v odlehlých lesích,_
 
-tam, kde jedinou z cest nešlapal lidský krok.
+> _tam, kde jedinou z cest nešlapal lidský krok._
 
-— TIBULLUS  
-Elegie, IV., 13
+> — TIBULLUS  
+> Elegie, IV., 13
 
-Stále jen utíkám před davem, po polích bloudím,
+> _Stále jen utíkám před davem, po polích bloudím,_
 
-utíkám ke břehu, naznak uléhám v měkké trávě…
+> _utíkám ke břehu, naznak uléhám v měkké trávě…_
 
-— PETRARCA  
-Latinské metrické dopisy, II., 27
+> — PETRARCA  
+> _Latinské metrické dopisy, II., 27_
