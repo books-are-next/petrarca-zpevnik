@@ -3,8 +3,6 @@ title: Francesco PetrarcaPotomkům
 contentType: prose
 ---
 
-  
-
 Zaslechneš o mně možná něco (ačkoliv je pochybné, zda nepatrné a neznámé jméno může překonat vzdálenost míst a časů) a budeš chtít vědět, jaký jsem byl člověk a jaký osud měla moje díla – především ta, o nichž se dovíš nebo jejichž ubohé jméno zaslechneš. O tom prvním budou lidé mluvit různě. Každý totiž říká obvykle to, k čemu ho vede ne pravda, nýbrž osobní potěšení. Chvála ani hana nemají pravidla.
 
 Byl jsem jeden z vašeho houfu, smrtelný človíček, nepříliš vznešeného ani nízkého rodu. Ze starobylé rodiny, jak o sobě říkal Augus­tus Caesar. Příroda mi nedala ani špatnou, ani nestoudnou povahu. Uškodily mi spíše špatné návyky. Oklamalo mě dětství, strhlo mládí a napravilo stáří, když mě vlastní zkušenost naučila, že pravda je to, co jsem četl dávno předtím: Mládí a rozkoše jsou plané věci. Nebo spíše napravil mě tvůrce všech věků a časů, který dopouštívá, že ubozí smrtelníci, kteří se nebojí ničeho, sejdou z pravé cesty, aby si pak třebas pozdě uvědomili svá provinění a poznali sebe samy.

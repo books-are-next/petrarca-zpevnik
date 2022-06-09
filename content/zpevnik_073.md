@@ -5,19 +5,19 @@ contentType: prose
 
 Když nářek ptáků nebo sladký šum
 
-> haluzí, jimiž letní vánek kývá,  
-> je slyšet a když z řeky ke břehům  
-> zurčení průzračných vln tiše zpívá,
+_haluzí, jimiž letní vánek kývá,  
+je slyšet a když z řeky ke břehům  
+zurčení průzračných vln tiše zpívá,_
 
-> sednu psát slova lásky zádumčivá.  
-> Co nebe zjevilo, zem skryla snům;  
-> paní — teď vidím, slyším, chápu — živá  
-> odpovídá z dálky mým povzdechům.
+_sednu psát slova lásky zádumčivá.  
+Co nebe zjevilo, zem skryla snům;  
+paní — teď vidím, slyším, chápu — živá  
+odpovídá z dálky mým povzdechům._
 
-> „Proč před svým koncem stravuješ se sám?“  
-> slitovně řekla. „Jde ti z očí celá  
-> bolestná řeka. Já pláč nežádám.
+_„Proč před svým koncem stravuješ se sám?“  
+slitovně řekla. „Jde ti z očí celá  
+bolestná řeka. Já pláč nežádám._
 
-> Mé dny se staly věčné smrtí těla.  
-> Tady jsem oči zavřela a tam,  
-> ve vnitřním světle, jsem je otevřela.“
+_Mé dny se staly věčné smrtí těla.  
+Tady jsem oči zavřela a tam,  
+ve vnitřním světle, jsem je otevřela.“_
