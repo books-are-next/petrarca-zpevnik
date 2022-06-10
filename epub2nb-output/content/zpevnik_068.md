@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 _Co já mám dělat? Co teď, lásko má?_
 
 _K smrti je právě čas  
@@ -16,6 +18,10 @@ když všecka radost moje
 se jejím odchodem v pláč obrátila  
 a sladkost života mi vzata byla._
 
+</section>
+
+<section>
+
 _Cítíš, proč, Lásko, s tebou truchlím dnes,  
 jak krutá ztráta pálí,  
 a vím, že tíží, bolí tě mé zlo —  
@@ -27,6 +33,10 @@ se najde, rovný strasti, jež mě hněte?
 Nevděčný, slepý světe!  
 Až příliš proč máš se mnou naříkat:  
 S ní ztratils, cos tu krásného měl rád._
+
+</section>
+
+<section>
 
 _Padla tvá sláva, tys to nepostřeh.  
 A nebyls hoden, když  
@@ -40,6 +50,10 @@ V pláči ji volám zpět;
 to vpřed mě pobízí sty nadějemi  
 a to jen drží ještě na té zemi._
 
+</section>
+
+<section>
+
 _Žel, v zem se ta tvář krásná proměnila,  
 jež svědectví nám svoje  
 o nebi, blahu na výsostech dala  
@@ -51,6 +65,10 @@ pak jindy a už nesvlékla jej více,
 až božskou tím víc skvít se  
 ji spatříme, čím více hodnot hostí  
 před krásou smrtelnou ta na věčnosti._
+
+</section>
+
+<section>
 
 _Líbeznější, krásnější než kdy paní  
 vrací se ke mně zase  
@@ -64,6 +82,10 @@ když ona v květu žila.
 Ví Láska, čím se stanu, spoléhám —  
 uvidí snad i ta teď v pravdě tam._
 
+</section>
+
+<section>
+
 _Měly jste, ženy, krásu před očima,  
 a jak andělsky žila,  
 nebesky na zemi se chovala.  
@@ -75,6 +97,10 @@ jiná dlaň nadlouho pouť za ní znova,
 jen Láska, její slova  
 mě drží, abych uzel nerozťal.  
 Leč ona uvnitř tak rozpráví dál:_
+
+</section>
+
+<section>
 
 _„Dej uzdu strastem, jež tě přemáhají!  
 Když žádost přepíná se,  
@@ -88,8 +114,14 @@ prosí, ať není veta —
 spíš ať s tím jménem zjasní hlas a sílí,  
 jestli ti sladké oči šperkem byly.“_
 
+</section>
+
+<section>
+
 _Zeleni, jasu prchni,  
 tam, kde je smích a zpěv, se nepřibliž,  
 písni — pláč hledej spíš!  
 Nesluší se ti s radostnými stát tu,  
 ty, bezradostná vdova v černém šatu._
+
+</section>

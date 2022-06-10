@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Diana milenci se nelíbila
 
 _víc, když ji nečekaně viděl stát  
@@ -13,6 +15,12 @@ dál auře[1](./resources/undefined) plavé vlasy zavírat:
 že jim teď mne, když nebe žhne v té záři,  
 milostným mrazením rozchvět se daří._
 
+</section>
+
+<section>
+
 * * *
 
 _[1](./resources/undefined) Rozuměj: dá Lauře._
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 > 
 
 > 
@@ -14,3 +16,5 @@ contentType: prose
 > — GEORG WILHELM FRIEDRICH HEGEL  
 > _Estetika, třetí díl,  
 > třetí část, kap. I., 3.,_ _1835_
+
+</section>

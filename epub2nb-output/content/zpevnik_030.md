@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Vidím, má vzácná paní,
 
 _ve vašich očích sladký svit se chvět  
@@ -20,6 +22,10 @@ ať v dnech, kdy zima rozhazuje jíní,
 ať zjara, kdy rok novým mládím vzlít.  
 Tak poznal kdysi první strast můj cit…_
 
+</section>
+
+<section>
+
 _Jestli tam v nebesích,  
 kde v práci shledal věčný hýbatel  
 hvězd, že ji zemi ukázat je vhod,  
@@ -35,6 +41,10 @@ byl jsem si na obtíž;
 v ten den sám sobě jsem se zalíbil:  
 ctnou, sladkou myšlenkou naplnil již  
 hruď, k níž klíč v krásných očích uvidíš._
+
+</section>
+
+<section>
 
 _Nepřály jaktěživy  
 víc radosti Láska a Štěstí vratké  
@@ -52,6 +62,10 @@ tak z prsou uniká mi
 kdekterá jiná myšlenka a sami  
 zbudem: vy oči, Láska a já s vámi._
 
+</section>
+
+<section>
+
 _Sladkost, již našli věrní  
 milenci šťastně na jediném místě  
 — v svých srdcích — někdy v hojnosti, nic není  
@@ -67,6 +81,10 @@ mezi můj skvostný květ
 radosti a mé oči: V noci, ve dne  
 pláč mi dme hruď a cit se mění hned  
 v ní tak, jak oči paní mění vzhled._
+
+</section>
+
+<section>
 
 _Vidím, a líto je mi,  
 že z vrozených darů nic nepomáhá:  
@@ -84,6 +102,12 @@ ke konci — nic víc srdce nehledá si —
 až se v těch očích jiskra zachvěje.  
 Víc dvorný ctitel nemá naděje._
 
+</section>
+
+<section>
+
 _Kancóno, jedna sestra předchází tě  
 a druhá, cítím, že se v téže skrýši  
 už objevuje. Tím víc listů píši._
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 > 
 
 > 
@@ -16,3 +18,5 @@ contentType: prose
 
 > — ŽALM 38,5  
 > _kralický překlad_
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Svite svěžích sladkých vod,
 
 _kam ta, krom níž neuznám  
@@ -18,12 +20,20 @@ v němž cit krása očí vznítila,
 poskytněte spolu  
 sluch mým slovům nejzazšího bolu!_
 
+</section>
+
+<section>
+
 _Když los takový je,  
 k němuž nebe žene,  
 aby Amor oči v slzách zhas,  
 k vám ať milost skryje  
 tělo zubožené —  
 nahá duše k nebi vzlétne zas._
+
+</section>
+
+<section>
 
 _Méně krutou smrt mi čas  
 dá, když jdu s tou nadějí  
@@ -32,6 +42,10 @@ kde by našel zmdlený duch
 přístav klidu jistěji:  
 hrob, kam v poklidnosti  
 složí maso zmořené a kosti._
+
+</section>
+
+<section>
 
 _V budoucnu snad přece jen  
 krásná šelma krotká  
@@ -47,6 +61,10 @@ líbezný, že milost dosáhne mi,
 nebem pootočí;  
 krásný závoj osuší pak oči._
 
+</section>
+
+<section>
+
 _Z krásných větví padala  
 (sladce vzpomíná se)  
 prška květů — na klín déšť jí pad.  
@@ -60,6 +78,10 @@ perly tenkrát viděl jsem —
 ten kles na zem, ten po vlnách plave,  
 v kruzích zmámen padne  
 jiný, jak by řek: Zde Láska vládne._
+
+</section>
+
+<section>
 
 _Často v ohromení  
 řek jsem o paní:  
@@ -75,6 +97,12 @@ V nebi cítil se — ne, kde jsem byl.
 Dodnes zalíbení  
 mám v té trávě, že klid pro mne není._
 
+</section>
+
+<section>
+
 _Mít ozdob jako ctižádosti, písni,  
 odvahu bys mohla mít  
 opustit les, mezi lidi jít._
+
+</section>

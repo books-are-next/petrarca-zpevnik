@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Má Itálie, třeba slova marná
 
 _jsou na smrtelné rány,  
@@ -21,6 +23,10 @@ otevři lásce, učiň přístupnými
 a pravda tvá ať zpívá  
 (ač nehoden jsem) jasně ústy mými!_
 
+</section>
+
+<section>
+
 _Vy, jimž tu otěž vlády po vůkolí  
 Štěstěna v dlaně vtiskla,  
 vás úzkost nesvírá, když v zemi tolik  
@@ -37,6 +43,10 @@ bůhvízkad, z divočiny,
 přívalem ničí naše sladké nivy!  
 To z vlastní, z vaší viny;  
 leč nikdo z vás teď zemi neoživí?_
+
+</section>
+
+<section>
 
 _Už příroda nás zajistila stráží,  
 když štíty Alp jak hráze  
@@ -55,6 +65,10 @@ a paměť toho činu dodnes žije,
 jak žízniv, unavený  
 chtěl z řeky pít a zřel, jen krev že pije._
 
+</section>
+
+<section>
+
 _A Caesar zbarvil jejich krví kvítí  
 všech strání do nachova,  
 jak prýštila, kde s ním jsme v poli stáli.  
@@ -71,6 +85,10 @@ si shánět, šťastní celí,
 že za groš cedí krev a duši prodá!  
 To říc mi pravda velí,  
 ne zlolajnost či zášť že ve mně hlodá._
+
+</section>
+
+<section>
 
 _Po všech těch zkouškách nejste ještě syti  
 bavorské proradnosti,  
@@ -89,6 +107,10 @@ císařství — prázdný pojem!
 náš důvtip přemoh bojem,  
 to náš je hřích, ne samosebou věru!_
 
+</section>
+
+<section>
+
 _Zde první krůčky nosila zem sladká,  
 zde rodné hnízdo stálo,  
 zde od dětství zdroj životodárný je,  
@@ -105,6 +127,10 @@ lítosti hne teď vámi,
 vyrazí v boj — a krátký bude, skvělý:  
 vždyť naše dávné ctnosti  
 v italském srdci ještě nevymřely!_
+
+</section>
+
+<section>
 
 _Čas letí, pánové, a prchne záhy,  
 a život prchá, páni,  
@@ -123,6 +149,10 @@ jež hodny mužů jsou a hodny času:
 kdo tak si vede, páni,  
 už zde si zaslouží svou příští spásu!_
 
+</section>
+
+<section>
+
 _Já nabádám tě, písni,  
 uctivě vyřiď poslání mé vřelé:  
 vždyť k cizím cesta do světa tě vede,  
@@ -133,3 +163,5 @@ Zkus u pár ušlechtilých,
 co dobru přejí, prosit o zastání:  
 „Kdo z vás mi dodá síly?“  
 Já jdu a křičím: „Mír, mír, mír už, páni!“_
+
+</section>

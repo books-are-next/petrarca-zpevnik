@@ -3,10 +3,16 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Lásko, když ve mně kvetla
 
 _naděje v milost, víra vrchovatá,  
 ta, v kterou doufal jsem, mi byla vzata._
+
+</section>
+
+<section>
 
 _Život je zlý. Smrt nezná slitování.  
 Přinesla trápení  
@@ -17,3 +23,5 @@ jež od nás odešla, mi nepřeje.
 A přece stále je  
 uprostřed mého srdce Ona svatá  
 a vidí, jak a kam můj život chvátá._
+
+</section>

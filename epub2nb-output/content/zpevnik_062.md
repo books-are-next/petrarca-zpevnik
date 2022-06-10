@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 > 
 
 > 
@@ -13,3 +15,5 @@ contentType: prose
 
 > _— List kardinálu Giovannimu Colonn__ovi  
 > 9\. srpna 1333 z Lyonu_
+
+</section>

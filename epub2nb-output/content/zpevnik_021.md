@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Vznešený duchu, který řídíš údy,
 
 _do nichž se vtělil k zemské pouti host  
@@ -17,6 +19,10 @@ netečná, zdá se, k strastem docela,
 zlínělá, zvetšelá.  
 Nikdo ji nevzbudí? Má věčně spát?  
 Kdybych ji za vlasy moh zatahat!_
+
+</section>
+
+<section>
 
 _Nevěřím, že v té mdlobě čelem hnout  
 svede, ať volat kdo se jak chce snaží,  
@@ -33,6 +39,10 @@ Jestli lid Martův zas
 k své vlastní velikosti oči zdvihne,  
 jen v tvých dnech — jindy přízeň nezastihne._
 
+</section>
+
+<section>
+
 _Pradávné zdi, jež v bázni, v lásce ctí  
 svět dál a chvěje se, když vzpomene  
 na prošlý čas a obrátí se zpět,  
@@ -47,6 +57,10 @@ zvěst potěší vás, dojde-li k vám dolů.
 I Fabricius spolu  
 se rozradostní novým poselstvím  
 a řekne: „Krásný bude zas můj Řím!“_
+
+</section>
+
+<section>
 
 _Jestli chce nebe zemi v péči mít,  
 duše, jež domovem jsou na výsosti  
@@ -63,6 +77,10 @@ V činech jen zvrhlost zbyla.
 A zvony dneska do útoku velí,  
 ač z výše Bohu díky vzdávat měly._
 
+</section>
+
+<section>
+
 _Plačící ženy, houfy bezbranné  
 něžného věku, znavení starci bledí  
 (nenávidící sebe i svůj věk)  
@@ -77,6 +95,10 @@ jenž celý hoří dnes! Pár jisker zhas,
 a klidné budou zas  
 ty vášně, jež se jeví dnes tak žhavé,  
 a v nebi dojde chvály dílo pravé._
+
+</section>
+
+<section>
 
 _Medvědi, vlci, orli, lvi a had  
 mramorovému sloupu kolonády  
@@ -93,6 +115,10 @@ Manžel a otec ty jsi.
 Doufáme v tebe, že nás vzkřísíš znova  
 nejvyšší otec jiné plány chová._
 
+</section>
+
+<section>
+
 _Při velkých podnicích jen zřídka vztek  
 zlolajné Štěstěny se nevzepřel —  
 ta s ničím odvážným se neshoduje.  
@@ -108,6 +134,10 @@ K tvé slávě potom všady
 řeknou: předci Řím mladý, plný sil  
 zvedli — tys smrt od něho odvrátil._
 
+</section>
+
+<section>
+
 _Nad skálou Tarpejskou uvidíš, písni,  
 rytíře — ctí ho celá Itálie.  
 Víc nad cizím než nad svým zlem si stýská.  
@@ -116,3 +146,5 @@ a jenom láskou ke tvé slávě žije,
 říká: Řím bolestí je  
 sklíčený, v očích pláč a naříkání.  
 Z všech sedmi pahorků zní — slitování!“_
+
+</section>
