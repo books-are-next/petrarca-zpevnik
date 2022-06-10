@@ -3,6 +3,8 @@ title: Doslov
 contentType: prose
 ---
 
+<section>
+
 > _Při vyslovení jména Francesco Petrarca se čtenáři téměř auto­maticky vybaví jméno opěvované Laury a obraz básníka se redukuje na tuto jedinou představu. Je to věky zakořeněná pověra. Petrarca byl víc než to, a jeho vztah kLauře byl složitější, než jak jej mechanickým, statickým způsobem kreslí učebnice._
 
 > _Básník byl zároveň – a svým současníkům především – učenec a jeho „vysoká“ (podle tehdejších měřítek) tvorba prózou i veršem patří ne italské, ale latinské středověké literatuře. Latina byla výsostný jazyk, italština v dobové hierarchii stála mnohem níž. Byla to lidová mluva, volgare. Petrarca si získal slávu latinskými filozofickými spisy. Psal neúnavně listy, i nejvýznačnějším současníkům, „svým blízkým“, léta tyto listy shromažďoval a redigoval, až posléze je shrnul do dvaceti čtyř knih (tyto Ad familiares vyšly dvakrát již za jeho života, pochopitelně v manuskriptech; kromě nich jsou ještě dochovány dva soubory listů z pozdních básníkových let). Dějiny evropské vzdělanosti podtrhují zvláště význam Petrarky-obnovitele antic­kých studií. Nemůžeme říci „zakladatele“, protože humanisté ve skutečnosti antiku neobjevili, opírali se o autory vzdělancům běžně známé už dříve. Výrazným dokladem toho je v Itálii Dante. Moment vývojového zvratu je Petrarkovi přičítán z odlišných důvodů. Věnoval se antice soustavně jako nikdo před ním. Měřil současnost velkými příklady z minulosti a důsledně prosazoval posuny v hierarchii hodnot, zděděných po předcházejících stoletích. V tom ho pak následovali další. Bojoval o znovunastolení staré římské velikosti – ta ústřední myšlenka zní nad jiné silně v jeho politických verších. Byl jí tak posedlý, že ho vedla až ke krajním nedůslednostem: nejprve spoléhal na římský lid a jeho tribuna Colu di Rienzi, ale po ztroskotání Colova revolučního hnutí hledal uskutečnění svých ideálů právě u těch, kteří Colu dali popravit, u velmožů. Dodejme, že teoretik byl zároveň politickým praktikem v mnoha významných diplomatických posláních._
@@ -26,3 +28,5 @@ contentType: prose
 > _Učený básník, a nadto diplomat, byl časem rétor. K jeho silným stránkám patří invektivy v první osobě proti mocným Itálie, nadšené apostrofy Coly di Rienzi (údajně), útoky na avignonskou kurii a podobně. Slabiny se objevují tam, kde se ve vyjádření intimního citu ozvou příliš silně rétorika a učenost. Nezáleží však na stavebních kamenech, nýbrž na výsledné budově, na skladbě prvků v novém významovém celku. Je věcí dnešního čtenáře, aby si po svém, bez ohledu na historická studia, vybral, co z autora ještě žije._
 
 > Jaroslav Pokorný
+
+</section>

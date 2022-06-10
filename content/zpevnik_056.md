@@ -3,11 +3,17 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Čas od času není tak odmítavá
 
 _andělská postava — i sladký smích:  
 v očích a v líbezných  
 tvářích se paní méně přísnou stává._
+
+</section>
+
+<section>
 
 _Kam žene mě teď všechno vzdychání,  
 jež zrodil trpký cit,  
@@ -21,3 +27,5 @@ Vím, že boj nechce ještě utichnout —
 srdce klid v žádném stavu nedosáhne.  
 Tím větší touhou prahne,  
 čím více odvahy naděje dává._
+
+</section>

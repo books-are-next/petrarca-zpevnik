@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Když údělem mých slok
 
 _je mluvit, jak mě nutí touha žhavá,  
@@ -20,6 +22,10 @@ neutlumí ten požár v myšlenkách.
 Ne — v zvuku slov div už jsem neroztál,  
 jako by člověk z ledu v slunci stál._
 
+</section>
+
+<section>
+
 _Zprvu jsem uvěřil,  
 že v slovech najde moje neskonalá  
 touha snad krátký klid, příměří časem.  
@@ -35,6 +41,10 @@ Kéž Láska aspoň dá mi
 tak mluvit, aby — dojde-li můj hlas  
 kdy k uším sladké nepřítelky, paní —  
 ne mně je naklonil, leč slitování._
+
+</section>
+
+<section>
 
 _Pravím: Jestliže kdysi,  
 když oheň pravé cti žhnul myslemi,  
@@ -52,6 +62,10 @@ vždy jsou mi ve všem spásným pramenem.
 V stavu, kdy předčasně si sám smrt přeji,  
 jen u nich hledám pomoc v beznaději._
 
+</section>
+
+<section>
+
 _Jak v noci hlavu stočí  
 lodivod vysílený vichřicí  
 za dvěma světly, jež vždy z pólu svítí,  
@@ -65,9 +79,17 @@ Pro vše, čím jsem, já malý,
 jen v nich svou míru ustavičně mám.  
 Od prvních popatření_
 
+</section>
+
+<section>
+
 _krok k dobrému nenajdu bez nich sám.  
 Vznes jsem je nad všecko, co duše cení;  
 má vlastní hodnota mi ničím není._
+
+</section>
+
+<section>
 
 _Nikdy bych nedoved  
 představit si ten účinek, říc jasně,  
@@ -85,6 +107,10 @@ Z hvězd by se v kruzích netočily žádné,
 na nic bych včetně sebe nemyslel,  
 hleděl a víčky téměř nezachvěl!_
 
+</section>
+
+<section>
+
 _Než to, co lze, chci spíš  
 — běda! — to, čeho srdce nedosáhne,  
 a žiji touhou bez naděje dál.  
@@ -101,6 +127,12 @@ a nevím sám, kde moje krev se schová,
 a nezůstanu, čím jsem byl, a vím:  
 Amor mě zabil tímhle zraněním._
 
+</section>
+
+<section>
+
 _Kancóno, cítím, zemdlévá mi pero  
 dlouhým a sladkým rozprávěním; vím,  
 že já v své samomluvě nezemdlím._
+
+</section>

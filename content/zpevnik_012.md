@@ -3,11 +3,17 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Odhalit závoj v slunci nebo v stínu
 
 _neviděl jsem vás, paní,  
 sotva jste postřehla mé horování,  
 pro něž vše další uvnitř sebe minu._
+
+</section>
+
+<section>
 
 _Když krásné myšlenky jsem nosil skryté  
 a zbylým touha v srdci zemřít dala,  
@@ -19,3 +25,5 @@ Má velká touha ztratila svůj cíl.
 Tak zle mi závoj vládne,  
 když stíní mi — ať žár či mráz je za dne —  
 svit vašich sladkých očí, že tím hynu._
+
+</section>

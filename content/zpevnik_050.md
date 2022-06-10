@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Z myšlenky k myšlence, z hor k horám sám
 
 _jdu veden Láskou; cestou prošlapanou  
@@ -18,6 +20,10 @@ v témž tvaru setrvá jen krátký čas.
 Kdo v takovém životě zkušený je,  
 řek by: žhne, neví, v jakém stavu žije._
 
+</section>
+
+<section>
+
 _V srázech hor, v drsných hvozdech nalézám  
 klid krátko; každý obydlený kout  
 mým očím je smrtelný nepřítel.  
@@ -31,6 +37,10 @@ snad v lepším živobytí.
 Sobě nic nejsi, jí jsi možná drahý.“  
 A zatím běh myšlenek zavzdychá si:  
 Mohla by to být pravda? Jak? Kdy asi?_
+
+</section>
+
+<section>
 
 _Kam vrch či velká pinie stín vrhla,  
 stanu, a přec už v prvním kameni  
@@ -46,6 +56,10 @@ Lásku… Ten klam uklidní duši hned.
 Ze všech stran ji tak krásnou vidí cit,  
 že kdyby trval klam, víc nechci mít._
 
+</section>
+
+<section>
+
 _Já tolikrát (kdo v tom dnes pravdu shledá?)  
 ji v čiré vodě, na zelené trávě,  
 v pni buku živou před očima měl,  
@@ -59,6 +73,10 @@ Pak, když ty sladké klamy
 odvane pravda, sednu si zas chladný,  
 sám, mrtvý kámen v kameni, jenž dýše —  
 já, člověk, který myslí, pláče, píše._
+
+</section>
+
+<section>
 
 _Na hřeben nejvyšší, kam nepokročí  
 stín jiné hory, odkud vidím vpřed  
@@ -74,6 +92,10 @@ Tichoučce hlas pak zvednu:
 ona si vzdychá, že jsi v dálce kdesi.“  
 Tím pomyšlením duše oddychne si._
 
+</section>
+
+<section>
+
 _Kancóno, za tím horstvem,  
 kde nebe jasnější a radostné je,  
 mě spatříš nad potokem, který běží  
@@ -81,3 +103,5 @@ tam, kde je cítit svěží,
 vonný háj lauru, z něhož vánek věje.  
 Tam je mé srdce, ta, jež bere mi je;  
 tady jen bezduché mé tělo žije._
+
+</section>

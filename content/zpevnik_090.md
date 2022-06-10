@@ -3,6 +3,8 @@ title: Vysvětlivky
 contentType: prose
 ---
 
+<section>
+
 **Francesco Petrarca – potomkům**
 
 Dopis není zařazen do žádného ze tří souborů Petrarkových latinských listů. Původní znění textu vzniklo kolem r. 1351, ale koncem života Petrarca list přepisoval, jak dosvědčují narážky na události z let 1368–70, zvl. na smrt papeže Urbana V. (13. prosince 1370 v Avignonu). List zůstal nedokončen a jsou v něm nápadné mezery, pokud jde o události padesátých a šedesátých let. Básník se nezmiňuje o svých významných veřejných posláních. Když se vrátil r. 1353 do Itálie, zadržel ho u sebe arcibiskup Giovanni Visconti, pán Milána. Z pověření jeho nástupce Galeazza (od r. 1354) pod­nikl Petrarca diplomatické cesty do Prahy (1356), do Paříže (1360) a několikrát do Benátek (1366–1373).
@@ -260,3 +262,5 @@ _Všichni se vrátíte k své matce věcné_ – k zemi.
 _„Nejistá zima, letmý jasný vzhled…“_ – Petrarca neuvádí, o jaký pomyslný hlas jde.
 
 _Kdosi řek: „Šťastny, kdo se nenarodí!“_ – větu „Mnozí soudili, že nejlepší je nenarodit se“ čteme v dopisech Plinia mladšího. Zároveň je Petrarkova úvaha zřetelným ohlasem Knihy Kazatel: „Protož já chválil jsem mrtvé, kteříž již zemřeli, více nežli živé, kteříž jsou živi až podnes. / Nýbrž nad oba tyto šťastnější jest ten, kterýž ještě nebyl, a neviděl skutku zlého, dějícího se pod sluncem.“ (Kap. 4., v. 2., 3., kralický překlad.)
+
+</section>

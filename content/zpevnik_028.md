@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Že kratičké je žití
 
 _a duch před plánem básně v rozechvění,  
@@ -20,6 +22,10 @@ zvedám se nad vším nízkým myšlením,
 vzpínám je a jdu říci, co mi sídlí  
 v srdci — a už v něm dávno v skrytu bydlí._
 
+</section>
+
+<section>
+
 _Já postřeh dobře: Skrovná  
 slova mé chvály nepostačí vám;  
 nejsem však v ničem schopen odpírat  
@@ -35,6 +41,10 @@ Ta bázeň kdyby z čiv
 žár nevyhnala, když mě příliš pálí,  
 rád zhynu. Když jsem u vás, kdykoliv,  
 spíš bych chtěl zemřít než být bez vás živ._
+
+</section>
+
+<section>
 
 _Nerozmělním se v prach —  
 pro mocný oheň předmět příliš křehký?  
@@ -52,6 +62,10 @@ mě nebrzdil, po konci bez prodlení
 bych odhodlaně sáh v zlých útrapách:  
 a vinna je ta, která nedbá, ach!_
 
+</section>
+
+<section>
+
 _Strázně, proč svádíte  
 z cesty můj krok, že co říct nechci, říkám?  
 Pusťte mě, kam mě žene moje přání!  
@@ -67,6 +81,10 @@ Blažené, šťastné tak…
 Jen škoda, že se nevidíte samy!  
 Leč jak se na mne soustředí váš zrak,  
 čím jste, vy na mně poznáváte pak._
+
+</section>
+
+<section>
 
 _Kdyby vám známé byly  
 ty vaše neuvěřitelné krásy,  
@@ -84,6 +102,10 @@ Proč nic nevede vás
 A proč mi odnímáte zas a zas  
 dobro, jež někdy duši znát dá čas?_
 
+</section>
+
+<section>
+
 _Říkám, že leckdy vaší  
 milostí v duši, v jejích kořenech  
 neobvyklou a novou sladkost cítím.  
@@ -99,6 +121,10 @@ Leč takový je svět:
 Největším smíchem chví chuť pláče stálá.  
 Odvraťte se už, oči, zhaste vznět,  
 ať mohu sám o sobě přemýšlet!_
+
+</section>
+
+<section>
 
 _Myšlenka láskyplná,  
 již nosím v srdci, se mi odhalila  
@@ -116,6 +142,12 @@ krásný plod zrodit, ve vás klíčí sémě.
 Jsem téměř zprahlá půda sebou sám.  
 Vy pěstíte — zásluha patří vám._
 
+</section>
+
+<section>
+
 _Kancóno, netišíš, leč vzněcuješ  
 řeč o nich, jež mi duši odnímají.  
 Buď jistá však: Další zpěv se v ní tají._
+
+</section>

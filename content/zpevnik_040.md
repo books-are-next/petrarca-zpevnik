@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 > 
 
 > 
@@ -13,3 +15,5 @@ contentType: prose
 
 > _— FRIEDRICH SCHILLER  
 > _O naivním a citovém básnictví,_ _1795__
+
+</section>
