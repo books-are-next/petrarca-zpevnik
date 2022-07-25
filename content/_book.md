@@ -274,7 +274,7 @@ tocBase:
           - link: zpevnik_081.html
             title: Jdu, oplakávám svoje prošlé časy.
             hiddenTitle: true
-        listType: plain
+        listType: bulleted
       - link: zpevnik_083.html
         title: TRIUMFY — TRIUMF SMRTI
         hiddenTitle: false
@@ -288,7 +288,7 @@ tocBase:
           - link: zpevnik_087.html
             title: Triumf času (Závěr)
             hiddenTitle: true
-        listType: plain
+        listType: bulleted
       - link: zpevnik_089.html
         title: Ediční poznámka
         hiddenTitle: false
