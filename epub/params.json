@@ -129,8 +129,8 @@
             "filename": "zpevnik_008.md",
             "xhtml": "zpevnik_008.xhtml",
             "id": 7,
-            "role": "chapter",
-            "listType": "plain",
+            "role": "break",
+            "listType": "bulleted",
             "inToc": true,
             "hungry": false,
             "devoured": false,
@@ -1105,8 +1105,8 @@
             "filename": "zpevnik_083.md",
             "xhtml": "zpevnik_083.xhtml",
             "id": 82,
-            "role": "chapter",
-            "listType": "plain",
+            "role": "break",
+            "listType": "bulleted",
             "inToc": true,
             "hungry": false,
             "devoured": false,
@@ -1893,6 +1893,6 @@
       "user": "books-are-next",
       "repo": "petrarca-zpevnik"
     },
-    "generatedAt": 1658746987370
+    "generatedAt": 1658747633191
   }
 }
