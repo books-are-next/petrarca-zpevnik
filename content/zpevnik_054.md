@@ -1,10 +1,12 @@
 ---
-title: Studnice bolesti, hospodo zlosti,
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Studnice bolesti, hospodo zlosti,
 
 kurie kacířství a omylů sta!  
 Dřív Roma, dnes spoušť Babylónu pustá,  

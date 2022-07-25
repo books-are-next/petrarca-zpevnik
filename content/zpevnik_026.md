@@ -1,10 +1,12 @@
 ---
-title: "Vzduch plný par a\_dotěravá mlha,"
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Vzduch plný par a dotěravá mlha,
 
 již nakupily kolem dravé větry,  
 se náhle promění a přijde déšť:  

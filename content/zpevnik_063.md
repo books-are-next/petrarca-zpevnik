@@ -1,10 +1,12 @@
 ---
-title: Má loď zapomenutí plná pluje
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Má loď zapomenutí plná pluje
 
 po drsném moři zimní půlnocí tu  
 mezi vír Charybdy a Skyllu v skrytu.  

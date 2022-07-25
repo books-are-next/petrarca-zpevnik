@@ -1,10 +1,12 @@
 ---
-title: Pod tíží dávných pout už tak jsem zmdlel
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Pod tíží dávných pout už tak jsem zmdlel
 
 ze všech svých vin a mravů v bezbožnosti,  
 že zmást se v cestě strach mám víc než dosti:  

@@ -1,10 +1,12 @@
 ---
-title: Lakotný Bábel pytel zlořádu,
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Lakotný Bábel pytel zlořádu,
 
 božího hněvu, hříchů zarovnal,  
 až praská. Za bohy si Bakcha vzal  

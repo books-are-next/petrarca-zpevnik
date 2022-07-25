@@ -1,10 +1,12 @@
 ---
-title: Jdu, oplakávám svoje prošlé časy\.
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Jdu, oplakávám svoje prošlé časy.
 
 Pro smrtelnou věc v lásce vyprchaly.  
 Křídla jsem měl a nevzlét, aby daly  

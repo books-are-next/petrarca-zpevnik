@@ -1,10 +1,12 @@
 ---
-title: Vznesla mě mysl tam, kde ona byla,
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Vznesla mě mysl tam, kde ona byla,
 
 již hledám, nenajdu už po vší zemi.  
 Zas jsem ji viděl v třetím kruhu s všemi,  

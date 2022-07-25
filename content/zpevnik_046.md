@@ -1,10 +1,12 @@
 ---
-title: Svite svěžích sladkých vod,
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Svite svěžích sladkých vod,
 
 kam ta, krom níž neuznám  
 paní, krásné údy uchýlila —  

@@ -1,10 +1,12 @@
 ---
-title: Čas od času není tak odmítavá
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Čas od času není tak odmítavá
 
 andělská postava — i sladký smích:  
 v očích a v líbezných  

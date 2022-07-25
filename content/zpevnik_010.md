@@ -1,10 +1,12 @@
 ---
-title: "Čtenáři, až v\_mých rýmech zaslechneš"
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Čtenáři, až v mých rýmech zaslechneš
 
 hlas vzdechů, jež jsem v srdci hřál a střeh  
 v svých pošetilých prvních mladých snech,  

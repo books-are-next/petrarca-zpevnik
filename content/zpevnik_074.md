@@ -1,10 +1,12 @@
 ---
-title: "Ty oči, o\_nichž jsem tak vroucné psal,"
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Ty oči, o nichž jsem tak vroucné psal,
 
 tvář, paže, dlaně, nohy, které v chvíli  
 ode mne moji duši oddělily,  

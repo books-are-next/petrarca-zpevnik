@@ -1,10 +1,12 @@
 ---
-title: Jde stařeček, vlasy jak sníh, je bílý,
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Jde stařeček, vlasy jak sníh, je bílý,
 
 ze sladkých míst, kde věk svůj naplnil,  
 od rodinky, které jen strach už zbyl,  

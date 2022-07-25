@@ -1,10 +1,12 @@
 ---
-title: "Hannibal zvítězil a\_nedoved"
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Hannibal zvítězil a nedoved
 
 využít vítězství dál v boji kdesi.  
 Můj drahý pane, pozor dávejte si,  

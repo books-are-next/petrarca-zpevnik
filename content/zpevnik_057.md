@@ -1,10 +1,12 @@
 ---
-title: „Co přijde, duše? Mluv, abych to znal!
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+„Co přijde, duše? Mluv, abych to znal!
 
 Mír? Příměří? Dál věčná válka v nás?“  
 „Nevím, co bude. Mně řek vnitřní hlas,  

@@ -1,10 +1,12 @@
 ---
-title: Nebeský Otče, po ztracených dnech,
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Nebeský Otče, po ztracených dnech,
 
 nocích, jež v blouzněních jsou promarněné,  
 tou dravou vášní srdce zapálené,  

@@ -1,10 +1,12 @@
 ---
-title: "Jdu v\_nehostinném, divokém, zlém lese,"
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Jdu v nehostinném, divokém, zlém lese,
 
 zrádném i pro korouhve v plné zbrani.  
 A jistě jdu. Strach nic mi nenahání,  

@@ -1,10 +1,12 @@
 ---
-title: Amor mě držel jednadvacet let,
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Amor mě držel jednadvacet let,
 
 já, šťastný v ohni, v bolu naděj nes.  
 Když paní a mé srdce do nebes  

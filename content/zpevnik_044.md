@@ -1,10 +1,12 @@
 ---
-title: Jak nový andílek se obezřelá
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Jak nový andílek se obezřelá
 
 na křídlech snesla na zelený břeh,  
 kam osud procházkou mě zaved právě.  

@@ -1,10 +1,12 @@
 ---
-title: Že kratičké je žití
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Že kratičké je žití
 
 a duch před plánem básně v rozechvění,  
 na ducha, na život bych málo dal;  

@@ -1,10 +1,12 @@
 ---
-title: "Čím spěji blíž k\_chvíli, kdy krajní den"
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Čím spěji blíž k chvíli, kdy krajní den
 
 obvykle všecku lidskou bídu zkrátí,  
 tím víc vidím čas lehký vpřed se hnáti  
