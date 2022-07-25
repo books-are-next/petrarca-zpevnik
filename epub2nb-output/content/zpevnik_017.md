@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Čím spěji blíž k chvíli, kdy krajní den
+_Čím spěji blíž k chvíli, kdy krajní den_
 
 obvykle všecku lidskou bídu zkrátí,  
 tím víc vidím čas lehký vpřed se hnáti  

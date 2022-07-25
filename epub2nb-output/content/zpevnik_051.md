@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Mír nenacházím, k válce síla není.
+_Mír nenacházím, k válce síla není._
 
 A bojím se a doufám, žhnu, jsem led.  
 Nad nebe vzlétám, ležím na té zemi;  

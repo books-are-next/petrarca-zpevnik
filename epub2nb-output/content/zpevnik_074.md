@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Ty oči, o nichž jsem tak vroucné psal,
+_Ty oči, o nichž jsem tak vroucné psal,_
 
 tvář, paže, dlaně, nohy, které v chvíli  
 ode mne moji duši oddělily,  

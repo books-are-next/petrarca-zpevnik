@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Jakmile bílá noha v svěží trávě
+_Jakmile bílá noha v svěží trávě_
 
 počestně vede sladké kroky k cíli,  
 ctnost v kvítí kolem rozpuká a sílí,  

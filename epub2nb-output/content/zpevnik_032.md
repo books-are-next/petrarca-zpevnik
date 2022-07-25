@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Když údělem mých slok
+_Když údělem mých slok_
 
 je mluvit, jak mě nutí touha žhavá,  
 jež nutila mě vzdychat bez ustání,  

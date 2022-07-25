@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Toho, kdo pevně rozhod se hnát život
+_Toho, kdo pevně rozhod se hnát život_
 
 přes proradnou pláň vln a přes útesy,  
 od smrti dělí jenom malá bárka  

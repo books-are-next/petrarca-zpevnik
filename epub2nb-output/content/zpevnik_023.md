@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Nebeský Otče, po ztracených dnech,
+_Nebeský Otče, po ztracených dnech,_
 
 nocích, jež v blouzněních jsou promarněné,  
 tou dravou vášní srdce zapálené,  

@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Má Itálie, třeba slova marná
+_Má Itálie, třeba slova marná_
 
 jsou na smrtelné rány,  
 jichž sta z tvých krásných údů na mne zírá,  

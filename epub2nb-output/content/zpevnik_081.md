@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Jdu, oplakávám svoje prošlé časy.
+_Jdu, oplakávám svoje prošlé časy._
 
 Pro smrtelnou věc v lásce vyprchaly.  
 Křídla jsem měl a nevzlét, aby daly  

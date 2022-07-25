@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Dští oheň z nebes, děvko, na tvůj vlas.
+_Dští oheň z nebes, děvko, na tvůj vlas._
 
 Jedla jsi bukvice, z řek vodu pila —  
 a teď sis lesk a zisky naloupila,  

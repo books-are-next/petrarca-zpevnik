@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Vzduch plný par a dotěravá mlha,
+_Vzduch plný par a dotěravá mlha,_
 
 již nakupily kolem dravé větry,  
 se náhle promění a přijde déšť:  

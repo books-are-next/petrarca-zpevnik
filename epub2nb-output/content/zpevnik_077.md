@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Ten slavíček tak sladce oplakává
+_Ten slavíček tak sladce oplakává_
 
 snad mládata, snad družku drahou vším,  
 až kraj i nebe plní píseň lkavá  

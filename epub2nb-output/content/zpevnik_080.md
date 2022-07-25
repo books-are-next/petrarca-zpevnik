@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Amor mě držel jednadvacet let,
+_Amor mě držel jednadvacet let,_
 
 já, šťastný v ohni, v bolu naděj nes.  
 Když paní a mé srdce do nebes  

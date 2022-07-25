@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-„Co přijde, duše? Mluv, abych to znal!
+_„Co přijde, duše? Mluv, abych to znal!_
 
 Mír? Příměří? Dál věčná válka v nás?“  
 „Nevím, co bude. Mně řek vnitřní hlas,  

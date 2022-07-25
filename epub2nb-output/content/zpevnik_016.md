@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Pro všecky tvory, které hostí země
+_Pro všecky tvory, které hostí země_
 
 — krom některých, co nenávidí slunce —  
 čas hmoždit se je, dokavad je den.  

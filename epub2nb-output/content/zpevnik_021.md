@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Vznešený duchu, který řídíš údy,
+_Vznešený duchu, který řídíš údy,_
 
 do nichž se vtělil k zemské pouti host  
 nad jiné platný — bystrý, moudrý muž,  

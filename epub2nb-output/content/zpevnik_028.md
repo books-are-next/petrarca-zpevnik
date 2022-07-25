@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Že kratičké je žití
+_Že kratičké je žití_
 
 a duch před plánem básně v rozechvění,  
 na ducha, na život bych málo dal;  

@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Zrak jste k mé nové barvě obrátila,
+_Zrak jste k mé nové barvě obrátila,_
 
 k té, která smrt nám připomíná všem.  
 Soucit vás jal. Blažícím pozdravem  

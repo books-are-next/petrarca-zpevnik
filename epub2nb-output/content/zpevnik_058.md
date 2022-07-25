@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Nyní, kdy mlčí vítr, nebe, zem
+_Nyní, kdy mlčí vítr, nebe, zem_
 
 a zvěř a ptáky na uzdě má sen,  
 noc hvězdný vůz posílá kroužit ven  

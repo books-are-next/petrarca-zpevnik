@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Ubohé oči, otáčím vás zpět
+_Ubohé oči, otáčím vás zpět_
 
 k tváři, jež vám vše další zabila.  
 Láska vám hodila  

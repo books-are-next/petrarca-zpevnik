@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Zlomen laur svěží i sloup kolonád,
+_Zlomen laur svěží i sloup kolonád,_
 
 jež skýtaly mdlé mysli stín a klid.  
 Nedoufám, že mi může nahradit  

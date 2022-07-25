@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Odhalit závoj v slunci nebo v stínu
+_Odhalit závoj v slunci nebo v stínu_
 
 neviděl jsem vás, paní,  
 sotva jste postřehla mé horování,  

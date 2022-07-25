@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Lakotný Bábel pytel zlořádu,
+_Lakotný Bábel pytel zlořádu,_
 
 božího hněvu, hříchů zarovnal,  
 až praská. Za bohy si Bakcha vzal  

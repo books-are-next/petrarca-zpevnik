@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Čas od času není tak odmítavá
+_Čas od času není tak odmítavá_
 
 andělská postava — i sladký smích:  
 v očích a v líbezných  

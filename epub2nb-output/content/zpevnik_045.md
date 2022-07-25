@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Teď vidíš, Amore: mladinká paní
+_Teď vidíš, Amore: mladinká paní_
 
 tvou vládu nectí, pro mne nemá cit,  
 dva nepřátele má — a cítí klid.

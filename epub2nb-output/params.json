@@ -27,7 +27,7 @@
       "figure": "MLP.obrazky.*\nmlpobrazky",
       "centered": ".*uprostred.*",
       "verse": "MLP.verse.*",
-      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei\nMLP_VERSE_NADPIS_1RADEK ",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
       "remove": "",
       "ignore": ""
@@ -1892,6 +1892,6 @@
       "user": "books-are-next",
       "repo": "petrarca-zpevnik"
     },
-    "generatedAt": 1658746987370
+    "generatedAt": 1658747633191
   }
 }

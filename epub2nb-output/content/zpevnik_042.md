@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Hannibal zvítězil a nedoved
+_Hannibal zvítězil a nedoved_
 
 využít vítězství dál v boji kdesi.  
 Můj drahý pane, pozor dávejte si,  
