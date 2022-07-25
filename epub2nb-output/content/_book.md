@@ -2,13 +2,17 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Zpěvník
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Francesco Petrarca
   publisher: Městská knihovna v Praze
   modified: '2021-06-08T00:00:00.000Z'
+  contentType: poetry
+  publisherShort: mkp
+  edition: Poezie
 readingOrder:
   - promo.html
   - zpevnik_001.html
@@ -105,8 +109,39 @@ readingOrder:
   - zpevnik_092.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: zpevnik_006.html
+        title: Francesco Petrarca Potomkům
+        hiddenTitle: false
+      - link: zpevnik_008.html
+        title: ZPĚVNÍK — Na život paní Laury
+        hiddenTitle: false
+      - link: zpevnik_067.html
+        title: — NA SMRTPANÍ LAURY
+        hiddenTitle: false
+      - link: zpevnik_083.html
+        title: TRIUMFY — TRIUMF SMRTI
+        hiddenTitle: false
+      - link: zpevnik_084.html
+        title: První kapitola
+        hiddenTitle: false
+      - link: zpevnik_086.html
+        title: —TRIUMF ČASU
+        hiddenTitle: false
+      - link: zpevnik_087.html
+        title: Závěr
+        hiddenTitle: false
+      - link: zpevnik_089.html
+        title: Ediční poznámka
+        hiddenTitle: false
+      - link: zpevnik_090.html
+        title: Vysvětlivky
+        hiddenTitle: false
+      - link: zpevnik_091.html
+        title: Doslov
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

@@ -1,39 +1,37 @@
 ---
-title: ''
-contentType: prose
+title: Lakotný Bábel pytel zlořádu,
+contentType: poetry
 ---
 
 <section>
 
-Lakotný Bábel pytel zlořádu,
-
-_božího hněvu, hříchů zarovnal,  
+božího hněvu, hříchů zarovnal,  
 až praská. Za bohy si Bakcha vzal  
-a Venuši — ne Dia, Palladu._
+a Venuši — ne Dia, Palladu.
 
 </section>
 
 <section>
 
-_Na právo čekám, zemdlen k úpadu.  
+Na právo čekám, zemdlen k úpadu.  
 A přece nový sultán — vidím dál —  
 jde, leč ne včas, tak jak bych to si přál,  
-jeden trůn vztyčit. Kéž je v Bagdádu._
+jeden trůn vztyčit. Kéž je v Bagdádu.
 
 </section>
 
 <section>
 
-_V prach padnou modly sídla zlotřilého  
+V prach padnou modly sídla zlotřilého  
 a zpupné věže, bašty bezbožnosti;  
-stráž, sama zlá, se zvenčí dočká zlého._
+stráž, sama zlá, se zvenčí dočká zlého.
 
 </section>
 
 <section>
 
-_A krásné duše, přítelkyně ctnosti,  
+A krásné duše, přítelkyně ctnosti,  
 budou mít svět. Pak povstat uzříte ho  
-zlatý a plný dávné velikosti._
+zlatý a plný dávné velikosti.
 
 </section>

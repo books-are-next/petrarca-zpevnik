@@ -1,21 +1,19 @@
 ---
-title: ''
-contentType: prose
+title: Čas od času není tak odmítavá
+contentType: poetry
 ---
 
 <section>
 
-Čas od času není tak odmítavá
-
-_andělská postava — i sladký smích:  
+andělská postava — i sladký smích:  
 v očích a v líbezných  
-tvářích se paní méně přísnou stává._
+tvářích se paní méně přísnou stává.
 
 </section>
 
 <section>
 
-_Kam žene mě teď všechno vzdychání,  
+Kam žene mě teď všechno vzdychání,  
 jež zrodil trpký cit,  
 že všem jde vyjevit  
 životní úzkost, zoufalou mou pouť?  
@@ -26,6 +24,6 @@ Lásku při obhajovat na můj soud.
 Vím, že boj nechce ještě utichnout —  
 srdce klid v žádném stavu nedosáhne.  
 Tím větší touhou prahne,  
-čím více odvahy naděje dává._
+čím více odvahy naděje dává.
 
 </section>

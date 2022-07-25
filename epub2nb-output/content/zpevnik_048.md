@@ -1,13 +1,11 @@
 ---
-title: ''
-contentType: prose
+title: Má Itálie, třeba slova marná
+contentType: poetry
 ---
 
 <section>
 
-Má Itálie, třeba slova marná
-
-_jsou na smrtelné rány,  
+jsou na smrtelné rány,  
 jichž sta z tvých krásných údů na mne zírá,  
 chci aspoň lítost pět, jak čeká na ni  
 kraj Tiberu, kraj Arna,  
@@ -21,13 +19,13 @@ A srdce okoralá,
 surová, zprahlá, divá  
 otevři lásce, učiň přístupnými  
 a pravda tvá ať zpívá  
-(ač nehoden jsem) jasně ústy mými!_
+(ač nehoden jsem) jasně ústy mými!
 
 </section>
 
 <section>
 
-_Vy, jimž tu otěž vlády po vůkolí  
+Vy, jimž tu otěž vlády po vůkolí  
 Štěstěna v dlaně vtiskla,  
 vás úzkost nesvírá, když v zemi tolik  
 žoldnéřů cizáckých nám zbraní blýská?  
@@ -42,13 +40,13 @@ Jde potopa a kati
 bůhvízkad, z divočiny,  
 přívalem ničí naše sladké nivy!  
 To z vlastní, z vaší viny;  
-leč nikdo z vás teď zemi neoživí?_
+leč nikdo z vás teď zemi neoživí?
 
 </section>
 
 <section>
 
-_Už příroda nás zajistila stráží,  
+Už příroda nás zajistila stráží,  
 když štíty Alp jak hráze  
 vztyčila mezi nás a Němce rvavé;  
 váš slepý chtíč však sám si vaz teď sráží,  
@@ -63,13 +61,13 @@ co o nich čtem, že řady
 jich Marius smet k zemi —  
 a paměť toho činu dodnes žije,  
 jak žízniv, unavený  
-chtěl z řeky pít a zřel, jen krev že pije._
+chtěl z řeky pít a zřel, jen krev že pije.
 
 </section>
 
 <section>
 
-_A Caesar zbarvil jejich krví kvítí  
+A Caesar zbarvil jejich krví kvítí  
 všech strání do nachova,  
 jak prýštila, kde s ním jsme v poli stáli.  
 Dnes asi nepříznivé hvězdy svítí,  
@@ -84,13 +82,13 @@ a roty cizí láje
 si shánět, šťastní celí,  
 že za groš cedí krev a duši prodá!  
 To říc mi pravda velí,  
-ne zlolajnost či zášť že ve mně hlodá._
+ne zlolajnost či zášť že ve mně hlodá.
 
 </section>
 
 <section>
 
-_Po všech těch zkouškách nejste ještě syti  
+Po všech těch zkouškách nejste ještě syti  
 bavorské proradnosti,  
 jež s vámi hrá a smrt jak zvíře dráždí?  
 Hůř, myslím, pro smích být než škodu míti.  
@@ -105,13 +103,13 @@ nezbožňuj idol planý,
 císařství — prázdný pojem!  
 Že vztek té hrubé hordy ze severu  
 náš důvtip přemoh bojem,  
-to náš je hřích, ne samosebou věru!_
+to náš je hřích, ne samosebou věru!
 
 </section>
 
 <section>
 
-_Zde první krůčky nosila zem sladká,  
+Zde první krůčky nosila zem sladká,  
 zde rodné hnízdo stálo,  
 zde od dětství zdroj životodárný je,  
 zde otčina, jíž srdce přísahalo,  
@@ -126,13 +124,13 @@ lítosti hne teď vámi,
 čest proti zběsilosti  
 vyrazí v boj — a krátký bude, skvělý:  
 vždyť naše dávné ctnosti  
-v italském srdci ještě nevymřely!_
+v italském srdci ještě nevymřely!
 
 </section>
 
 <section>
 
-_Čas letí, pánové, a prchne záhy,  
+Čas letí, pánové, a prchne záhy,  
 a život prchá, páni,  
 rok střídá rok, za zády smrt nám čeká;  
 dneska jsi zde — leč jenom do skonání.  
@@ -147,13 +145,13 @@ leč naplnit jej činy,
 ať myšlenkou či zbraní,  
 jež hodny mužů jsou a hodny času:  
 kdo tak si vede, páni,  
-už zde si zaslouží svou příští spásu!_
+už zde si zaslouží svou příští spásu!
 
 </section>
 
 <section>
 
-_Já nabádám tě, písni,  
+Já nabádám tě, písni,  
 uctivě vyřiď poslání mé vřelé:  
 vždyť k cizím cesta do světa tě vede,  
 kde mysli záštím bledé,  
@@ -162,6 +160,6 @@ a pravdy nepřátelé.
 Zkus u pár ušlechtilých,  
 co dobru přejí, prosit o zastání:  
 „Kdo z vás mi dodá síly?“  
-Já jdu a křičím: „Mír, mír, mír už, páni!“_
+Já jdu a křičím: „Mír, mír, mír už, páni!“
 
 </section>

@@ -1,14 +1,18 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Zpěvník",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Francesco Petrarca",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-06-08T00:00:00.000Z"
+      "modified": "2021-06-08T00:00:00.000Z",
+      "contentType": "poetry",
+      "publisherShort": "mkp",
+      "edition": "Poezie"
     },
     "elements": {
-      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL\nMLP_VERSE_NADPIS_1RADEK",
       "subtitle": "",
       "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
       "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
@@ -20,11 +24,11 @@
       "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
-      "centered": ".*uprostred.*",
       "figure": "MLP.obrazky.*\nmlpobrazky",
-      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
-      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "centered": ".*uprostred.*",
       "verse": "MLP.verse.*",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
       "remove": "",
       "ignore": ""
     },
@@ -32,6 +36,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "zpevnik_001.md",
@@ -97,7 +102,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "title": "Francesco Petrarca Potomkům"
           },
           {
             "filename": "zpevnik_007.md",
@@ -119,7 +125,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "title": "ZPĚVNÍK — Na život paní Laury"
           },
           {
             "filename": "zpevnik_009.md",
@@ -768,7 +775,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "title": "— NA SMRTPANÍ LAURY"
           },
           {
             "filename": "zpevnik_068.md",
@@ -944,7 +952,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "title": "TRIUMFY — TRIUMF SMRTI"
           },
           {
             "filename": "zpevnik_084.md",
@@ -955,7 +964,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "title": "První kapitola"
           },
           {
             "filename": "zpevnik_085.md",
@@ -977,7 +987,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "title": "—TRIUMF ČASU"
           },
           {
             "filename": "zpevnik_087.md",
@@ -988,7 +999,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "title": "Závěr"
           },
           {
             "filename": "zpevnik_088.md",
@@ -1010,7 +1022,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "title": "Ediční poznámka"
           },
           {
             "filename": "zpevnik_090.md",
@@ -1021,7 +1034,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "title": "Vysvětlivky"
           },
           {
             "filename": "zpevnik_091.md",
@@ -1032,7 +1046,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "title": "Doslov"
           },
           {
             "filename": "zpevnik_092.md",
@@ -1113,7 +1128,7 @@
         "xhtml": "zpevnik_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čtenáři, až v mých rýmech zaslechneš",
         "subtitleSuggest": "",
         "filename": "zpevnik_010.md",
         "xhtml": "zpevnik_010.xhtml"
@@ -1125,19 +1140,19 @@
         "xhtml": "zpevnik_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Odhalit závoj v slunci nebo v stínu",
         "subtitleSuggest": "",
         "filename": "zpevnik_012.md",
         "xhtml": "zpevnik_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ubohé oči, otáčím vás zpět",
         "subtitleSuggest": "",
         "filename": "zpevnik_013.md",
         "xhtml": "zpevnik_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jde stařeček, vlasy jak sníh, je bílý,",
         "subtitleSuggest": "",
         "filename": "zpevnik_014.md",
         "xhtml": "zpevnik_014.xhtml"
@@ -1149,19 +1164,19 @@
         "xhtml": "zpevnik_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pro všecky tvory, které hostí země",
         "subtitleSuggest": "",
         "filename": "zpevnik_016.md",
         "xhtml": "zpevnik_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čím spěji blíž k chvíli, kdy krajní den",
         "subtitleSuggest": "",
         "filename": "zpevnik_017.md",
         "xhtml": "zpevnik_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V nejpustších polích sám jdu v myšlenkách\\.",
         "subtitleSuggest": "",
         "filename": "zpevnik_018.md",
         "xhtml": "zpevnik_018.xhtml"
@@ -1173,13 +1188,13 @@
         "xhtml": "zpevnik_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Diana milenci se nelíbila",
         "subtitleSuggest": "",
         "filename": "zpevnik_020.md",
         "xhtml": "zpevnik_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vznešený duchu, který řídíš údy,",
         "subtitleSuggest": "",
         "filename": "zpevnik_021.md",
         "xhtml": "zpevnik_021.xhtml"
@@ -1191,13 +1206,13 @@
         "xhtml": "zpevnik_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nebeský Otče, po ztracených dnech,",
         "subtitleSuggest": "",
         "filename": "zpevnik_023.md",
         "xhtml": "zpevnik_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zrak jste k mé nové barvě obrátila,",
         "subtitleSuggest": "",
         "filename": "zpevnik_024.md",
         "xhtml": "zpevnik_024.xhtml"
@@ -1209,7 +1224,7 @@
         "xhtml": "zpevnik_025.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vzduch plný par a dotěravá mlha,",
         "subtitleSuggest": "",
         "filename": "zpevnik_026.md",
         "xhtml": "zpevnik_026.xhtml"
@@ -1221,7 +1236,7 @@
         "xhtml": "zpevnik_027.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Že kratičké je žití",
         "subtitleSuggest": "",
         "filename": "zpevnik_028.md",
         "xhtml": "zpevnik_028.xhtml"
@@ -1233,7 +1248,7 @@
         "xhtml": "zpevnik_029.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vidím, má vzácná paní,",
         "subtitleSuggest": "",
         "filename": "zpevnik_030.md",
         "xhtml": "zpevnik_030.xhtml"
@@ -1245,7 +1260,7 @@
         "xhtml": "zpevnik_031.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Když údělem mých slok",
         "subtitleSuggest": "",
         "filename": "zpevnik_032.md",
         "xhtml": "zpevnik_032.xhtml"
@@ -1257,7 +1272,7 @@
         "xhtml": "zpevnik_033.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Toho, kdo pevně rozhod se hnát život",
         "subtitleSuggest": "",
         "filename": "zpevnik_034.md",
         "xhtml": "zpevnik_034.xhtml"
@@ -1269,7 +1284,7 @@
         "xhtml": "zpevnik_035.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pod tíží dávných pout už tak jsem zmdlel",
         "subtitleSuggest": "",
         "filename": "zpevnik_036.md",
         "xhtml": "zpevnik_036.xhtml"
@@ -1281,13 +1296,13 @@
         "xhtml": "zpevnik_037.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Rozvíval kdysi vánek zlaté vlasy",
         "subtitleSuggest": "",
         "filename": "zpevnik_038.md",
         "xhtml": "zpevnik_038.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Překrásná žena, jižs tak miloval,",
         "subtitleSuggest": "",
         "filename": "zpevnik_039.md",
         "xhtml": "zpevnik_039.xhtml"
@@ -1299,13 +1314,13 @@
         "xhtml": "zpevnik_040.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "To okno, v kterém jedno slunce svítí,",
         "subtitleSuggest": "",
         "filename": "zpevnik_041.md",
         "xhtml": "zpevnik_041.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hannibal zvítězil a nedoved",
         "subtitleSuggest": "",
         "filename": "zpevnik_042.md",
         "xhtml": "zpevnik_042.xhtml"
@@ -1317,19 +1332,19 @@
         "xhtml": "zpevnik_043.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jak nový andílek se obezřelá",
         "subtitleSuggest": "",
         "filename": "zpevnik_044.md",
         "xhtml": "zpevnik_044.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Teď vidíš, Amore: mladinká paní",
         "subtitleSuggest": "",
         "filename": "zpevnik_045.md",
         "xhtml": "zpevnik_045.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Svite svěžích sladkých vod,",
         "subtitleSuggest": "",
         "filename": "zpevnik_046.md",
         "xhtml": "zpevnik_046.xhtml"
@@ -1341,7 +1356,7 @@
         "xhtml": "zpevnik_047.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Má Itálie, třeba slova marná",
         "subtitleSuggest": "",
         "filename": "zpevnik_048.md",
         "xhtml": "zpevnik_048.xhtml"
@@ -1353,31 +1368,31 @@
         "xhtml": "zpevnik_049.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Z myšlenky k myšlence, z hor k horám sám",
         "subtitleSuggest": "",
         "filename": "zpevnik_050.md",
         "xhtml": "zpevnik_050.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Mír nenacházím, k válce síla není\\.",
         "subtitleSuggest": "",
         "filename": "zpevnik_051.md",
         "xhtml": "zpevnik_051.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dští oheň z nebes, děvko, na tvůj vlas\\.",
         "subtitleSuggest": "",
         "filename": "zpevnik_052.md",
         "xhtml": "zpevnik_052.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Lakotný Bábel pytel zlořádu,",
         "subtitleSuggest": "",
         "filename": "zpevnik_053.md",
         "xhtml": "zpevnik_053.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Studnice bolesti, hospodo zlosti,",
         "subtitleSuggest": "",
         "filename": "zpevnik_054.md",
         "xhtml": "zpevnik_054.xhtml"
@@ -1389,19 +1404,19 @@
         "xhtml": "zpevnik_055.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čas od času není tak odmítavá",
         "subtitleSuggest": "",
         "filename": "zpevnik_056.md",
         "xhtml": "zpevnik_056.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "„Co přijde, duše? Mluv, abych to znal!",
         "subtitleSuggest": "",
         "filename": "zpevnik_057.md",
         "xhtml": "zpevnik_057.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nyní, kdy mlčí vítr, nebe, zem",
         "subtitleSuggest": "",
         "filename": "zpevnik_058.md",
         "xhtml": "zpevnik_058.xhtml"
@@ -1413,13 +1428,13 @@
         "xhtml": "zpevnik_059.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jakmile bílá noha v svěží trávě",
         "subtitleSuggest": "",
         "filename": "zpevnik_060.md",
         "xhtml": "zpevnik_060.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jdu v nehostinném, divokém, zlém lese,",
         "subtitleSuggest": "",
         "filename": "zpevnik_061.md",
         "xhtml": "zpevnik_061.xhtml"
@@ -1431,19 +1446,19 @@
         "xhtml": "zpevnik_062.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Má loď zapomenutí plná pluje",
         "subtitleSuggest": "",
         "filename": "zpevnik_063.md",
         "xhtml": "zpevnik_063.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Komůrko, tys mě kdysi uchránila",
         "subtitleSuggest": "",
         "filename": "zpevnik_064.md",
         "xhtml": "zpevnik_064.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Neznají tolik tvorů mořské vlny",
         "subtitleSuggest": "",
         "filename": "zpevnik_065.md",
         "xhtml": "zpevnik_065.xhtml"
@@ -1473,13 +1488,13 @@
         "xhtml": "zpevnik_069.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zlomen laur svěží i sloup kolonád,",
         "subtitleSuggest": "",
         "filename": "zpevnik_070.md",
         "xhtml": "zpevnik_070.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Život nám utíká a nezastaví",
         "subtitleSuggest": "",
         "filename": "zpevnik_071.md",
         "xhtml": "zpevnik_071.xhtml"
@@ -1491,19 +1506,19 @@
         "xhtml": "zpevnik_072.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Když nářek ptáků nebo sladký šum",
         "subtitleSuggest": "",
         "filename": "zpevnik_073.md",
         "xhtml": "zpevnik_073.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ty oči, o nichž jsem tak vroucné psal,",
         "subtitleSuggest": "",
         "filename": "zpevnik_074.md",
         "xhtml": "zpevnik_074.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vznesla mě mysl tam, kde ona byla,",
         "subtitleSuggest": "",
         "filename": "zpevnik_075.md",
         "xhtml": "zpevnik_075.xhtml"
@@ -1515,7 +1530,7 @@
         "xhtml": "zpevnik_076.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ten slavíček tak sladce oplakává",
         "subtitleSuggest": "",
         "filename": "zpevnik_077.md",
         "xhtml": "zpevnik_077.xhtml"
@@ -1527,19 +1542,19 @@
         "xhtml": "zpevnik_078.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Lásko, když ve mně kvetla",
         "subtitleSuggest": "",
         "filename": "zpevnik_079.md",
         "xhtml": "zpevnik_079.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Amor mě držel jednadvacet let,",
         "subtitleSuggest": "",
         "filename": "zpevnik_080.md",
         "xhtml": "zpevnik_080.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jdu, oplakávám svoje prošlé časy\\.",
         "subtitleSuggest": "",
         "filename": "zpevnik_081.md",
         "xhtml": "zpevnik_081.xhtml"
@@ -1706,6 +1721,6 @@
       "user": "books-are-next",
       "repo": "petrarca-zpevnik"
     },
-    "generatedAt": 1658413434765
+    "generatedAt": 1658739010513
   }
 }

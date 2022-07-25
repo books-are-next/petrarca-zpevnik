@@ -1,6 +1,6 @@
 ---
 title: TRIUMFY—TRIUMF SMRTI
-contentType: prose
+contentType: poetry
 ---
 
 

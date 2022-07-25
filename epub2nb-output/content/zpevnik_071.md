@@ -1,39 +1,37 @@
 ---
-title: ''
-contentType: prose
+title: "Život nám utíká a\_nezastaví"
+contentType: poetry
 ---
 
 <section>
 
-Život nám utíká a nezastaví
-
-_se hodinku. Smrt kráčí bez ustání,  
+se hodinku. Smrt kráčí bez ustání,  
 dnešek a včerejšek jsou věčné štvaní  
-do války. Stejně zítřek nedočkavý._
+do války. Stejně zítřek nedočkavý.
 
 </section>
 
 <section>
 
-_Paměť a čekání mi srdce tráví  
+Paměť a čekání mi srdce tráví  
 hned tím, hned oním tak, že nemít ani  
 sám nad příštím své duše slitování,  
-všech myšlenek bych se už dávno zbavil._
+všech myšlenek bych se už dávno zbavil.
 
 </section>
 
 <section>
 
-_Vzpomínám, jestli srdce sladký plod  
+Vzpomínám, jestli srdce sladký plod  
 kdy sklidilo, a cítím z druhé strany  
-v své plavbě vanutí zvichřená, zlá._
+v své plavbě vanutí zvichřená, zlá.
 
 </section>
 
 <section>
 
-_V přístavu vidím bouři. Lodivod  
+V přístavu vidím bouři. Lodivod  
 je unavený, plachty potrhány  
-a světla, k nimž jsem vzhlížel, vyhaslá._
+a světla, k nimž jsem vzhlížel, vyhaslá.
 
 </section>

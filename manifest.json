@@ -1,0 +1,1978 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Zpěvník",
+  "author": "Francesco Petrarca",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "petrarca-zpevnik-fda5045",
+  "revision": "fda5045",
+  "readingOrder": [
+    "promo.html",
+    "zpevnik_001.html",
+    "zpevnik_002.html",
+    "zpevnik_003.html",
+    "zpevnik_004.html",
+    "zpevnik_005.html",
+    "zpevnik_006.html",
+    "zpevnik_007.html",
+    "zpevnik_008.html",
+    "zpevnik_009.html",
+    "zpevnik_010.html",
+    "zpevnik_011.html",
+    "zpevnik_012.html",
+    "zpevnik_013.html",
+    "zpevnik_014.html",
+    "zpevnik_015.html",
+    "zpevnik_016.html",
+    "zpevnik_017.html",
+    "zpevnik_018.html",
+    "zpevnik_019.html",
+    "zpevnik_020.html",
+    "zpevnik_021.html",
+    "zpevnik_022.html",
+    "zpevnik_023.html",
+    "zpevnik_024.html",
+    "zpevnik_025.html",
+    "zpevnik_026.html",
+    "zpevnik_027.html",
+    "zpevnik_028.html",
+    "zpevnik_029.html",
+    "zpevnik_030.html",
+    "zpevnik_031.html",
+    "zpevnik_032.html",
+    "zpevnik_033.html",
+    "zpevnik_034.html",
+    "zpevnik_035.html",
+    "zpevnik_036.html",
+    "zpevnik_037.html",
+    "zpevnik_038.html",
+    "zpevnik_039.html",
+    "zpevnik_040.html",
+    "zpevnik_041.html",
+    "zpevnik_042.html",
+    "zpevnik_043.html",
+    "zpevnik_044.html",
+    "zpevnik_045.html",
+    "zpevnik_046.html",
+    "zpevnik_047.html",
+    "zpevnik_048.html",
+    "zpevnik_049.html",
+    "zpevnik_050.html",
+    "zpevnik_051.html",
+    "zpevnik_052.html",
+    "zpevnik_053.html",
+    "zpevnik_054.html",
+    "zpevnik_055.html",
+    "zpevnik_056.html",
+    "zpevnik_057.html",
+    "zpevnik_058.html",
+    "zpevnik_059.html",
+    "zpevnik_060.html",
+    "zpevnik_061.html",
+    "zpevnik_062.html",
+    "zpevnik_063.html",
+    "zpevnik_064.html",
+    "zpevnik_065.html",
+    "zpevnik_066.html",
+    "zpevnik_067.html",
+    "zpevnik_068.html",
+    "zpevnik_069.html",
+    "zpevnik_070.html",
+    "zpevnik_071.html",
+    "zpevnik_072.html",
+    "zpevnik_073.html",
+    "zpevnik_074.html",
+    "zpevnik_075.html",
+    "zpevnik_076.html",
+    "zpevnik_077.html",
+    "zpevnik_078.html",
+    "zpevnik_079.html",
+    "zpevnik_080.html",
+    "zpevnik_081.html",
+    "zpevnik_082.html",
+    "zpevnik_083.html",
+    "zpevnik_084.html",
+    "zpevnik_085.html",
+    "zpevnik_086.html",
+    "zpevnik_087.html",
+    "zpevnik_088.html",
+    "zpevnik_089.html",
+    "zpevnik_090.html",
+    "zpevnik_091.html",
+    "zpevnik_092.html"
+  ],
+  "generatedAt": {
+    "date": "Mon Jul 25 2022 08:51:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658739094098
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "zpevnik_001.html",
+      "toc": []
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_001.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "zpevnik_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_002.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "zpevnik_001.html",
+      "next": "zpevnik_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_003.html",
+      "words": 9,
+      "chars": 64,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 3,
+      "prev": "zpevnik_002.html",
+      "next": "zpevnik_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_004.html",
+      "words": 89,
+      "chars": 603,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 4,
+      "prev": "zpevnik_003.html",
+      "next": "zpevnik_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_005.html",
+      "words": 67,
+      "chars": 458,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 5,
+      "prev": "zpevnik_004.html",
+      "next": "zpevnik_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Francesco PetrarcaPotomkům",
+      "file": "zpevnik_006.html",
+      "words": 2869,
+      "chars": 16693,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 6,
+      "prev": "zpevnik_005.html",
+      "next": "zpevnik_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Francesco PetrarcaPotomkům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_007.html",
+      "words": 163,
+      "chars": 974,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 7,
+      "prev": "zpevnik_006.html",
+      "next": "zpevnik_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ZPĚVNÍK—Na životpaní Laury",
+      "file": "zpevnik_008.html",
+      "words": 3,
+      "chars": 26,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 8,
+      "prev": "zpevnik_007.html",
+      "next": "zpevnik_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZPĚVNÍK—Na životpaní Laury",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_009.html",
+      "words": 106,
+      "chars": 542,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 9,
+      "prev": "zpevnik_008.html",
+      "next": "zpevnik_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čtenáři, až v mých rýmech zaslechneš",
+      "file": "zpevnik_010.html",
+      "words": 99,
+      "chars": 516,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 10,
+      "prev": "zpevnik_009.html",
+      "next": "zpevnik_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čtenáři, až v mých rýmech zaslechneš",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_011.html",
+      "words": 97,
+      "chars": 634,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 11,
+      "prev": "zpevnik_010.html",
+      "next": "zpevnik_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odhalit závoj v slunci nebo v stínu",
+      "file": "zpevnik_012.html",
+      "words": 91,
+      "chars": 472,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 12,
+      "prev": "zpevnik_011.html",
+      "next": "zpevnik_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Odhalit závoj v slunci nebo v stínu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ubohé oči, otáčím vás zpět",
+      "file": "zpevnik_013.html",
+      "words": 81,
+      "chars": 422,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 13,
+      "prev": "zpevnik_012.html",
+      "next": "zpevnik_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ubohé oči, otáčím vás zpět",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jde stařeček, vlasy jak sníh, je bílý,",
+      "file": "zpevnik_014.html",
+      "words": 90,
+      "chars": 499,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 14,
+      "prev": "zpevnik_013.html",
+      "next": "zpevnik_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jde stařeček, vlasy jak sníh, je bílý,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_015.html",
+      "words": 46,
+      "chars": 264,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 15,
+      "prev": "zpevnik_014.html",
+      "next": "zpevnik_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pro všecky tvory, které hostí země",
+      "file": "zpevnik_016.html",
+      "words": 275,
+      "chars": 1385,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 16,
+      "prev": "zpevnik_015.html",
+      "next": "zpevnik_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pro všecky tvory, které hostí země",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čím spěji blíž k chvíli, kdy krajní den",
+      "file": "zpevnik_017.html",
+      "words": 96,
+      "chars": 504,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 17,
+      "prev": "zpevnik_016.html",
+      "next": "zpevnik_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čím spěji blíž k chvíli, kdy krajní den",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V nejpustších polích sám jdu v myšlenkách.",
+      "file": "zpevnik_018.html",
+      "words": 89,
+      "chars": 485,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 18,
+      "prev": "zpevnik_017.html",
+      "next": "zpevnik_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V nejpustších polích sám jdu v myšlenkách.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_019.html",
+      "words": 47,
+      "chars": 260,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 19,
+      "prev": "zpevnik_018.html",
+      "next": "zpevnik_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Diana milenci se nelíbila",
+      "file": "zpevnik_020.html",
+      "words": 57,
+      "chars": 291,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 20,
+      "prev": "zpevnik_019.html",
+      "next": "zpevnik_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Diana milenci se nelíbila",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vznešený duchu, který řídíš údy,",
+      "file": "zpevnik_021.html",
+      "words": 651,
+      "chars": 3482,
+      "ideas": 105,
+      "role": "chapter",
+      "order": 21,
+      "prev": "zpevnik_020.html",
+      "next": "zpevnik_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vznešený duchu, který řídíš údy,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_022.html",
+      "words": 90,
+      "chars": 592,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 22,
+      "prev": "zpevnik_021.html",
+      "next": "zpevnik_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nebeský Otče, po ztracených dnech,",
+      "file": "zpevnik_023.html",
+      "words": 86,
+      "chars": 493,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 23,
+      "prev": "zpevnik_022.html",
+      "next": "zpevnik_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nebeský Otče, po ztracených dnech,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zrak jste k mé nové barvě obrátila,",
+      "file": "zpevnik_024.html",
+      "words": 94,
+      "chars": 494,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 24,
+      "prev": "zpevnik_023.html",
+      "next": "zpevnik_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zrak jste k mé nové barvě obrátila,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_025.html",
+      "words": 97,
+      "chars": 543,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 25,
+      "prev": "zpevnik_024.html",
+      "next": "zpevnik_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzduch plný par a dotěravá mlha,",
+      "file": "zpevnik_026.html",
+      "words": 255,
+      "chars": 1291,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 26,
+      "prev": "zpevnik_025.html",
+      "next": "zpevnik_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vzduch plný par a dotěravá mlha,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_027.html",
+      "words": 134,
+      "chars": 876,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 27,
+      "prev": "zpevnik_026.html",
+      "next": "zpevnik_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Že kratičké je žití",
+      "file": "zpevnik_028.html",
+      "words": 642,
+      "chars": 3384,
+      "ideas": 108,
+      "role": "chapter",
+      "order": 28,
+      "prev": "zpevnik_027.html",
+      "next": "zpevnik_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Že kratičké je žití",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_029.html",
+      "words": 33,
+      "chars": 171,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 29,
+      "prev": "zpevnik_028.html",
+      "next": "zpevnik_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vidím, má vzácná paní,",
+      "file": "zpevnik_030.html",
+      "words": 470,
+      "chars": 2425,
+      "ideas": 78,
+      "role": "chapter",
+      "order": 30,
+      "prev": "zpevnik_029.html",
+      "next": "zpevnik_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vidím, má vzácná paní,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_031.html",
+      "words": 93,
+      "chars": 505,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 31,
+      "prev": "zpevnik_030.html",
+      "next": "zpevnik_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Když údělem mých slok",
+      "file": "zpevnik_032.html",
+      "words": 549,
+      "chars": 2864,
+      "ideas": 93,
+      "role": "chapter",
+      "order": 32,
+      "prev": "zpevnik_031.html",
+      "next": "zpevnik_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Když údělem mých slok",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_033.html",
+      "words": 503,
+      "chars": 3186,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 33,
+      "prev": "zpevnik_032.html",
+      "next": "zpevnik_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Toho, kdo pevně rozhod se hnát život",
+      "file": "zpevnik_034.html",
+      "words": 268,
+      "chars": 1405,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 34,
+      "prev": "zpevnik_033.html",
+      "next": "zpevnik_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Toho, kdo pevně rozhod se hnát život",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_035.html",
+      "words": 20,
+      "chars": 109,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 35,
+      "prev": "zpevnik_034.html",
+      "next": "zpevnik_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pod tíží dávných pout už tak jsem zmdlel",
+      "file": "zpevnik_036.html",
+      "words": 93,
+      "chars": 506,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 36,
+      "prev": "zpevnik_035.html",
+      "next": "zpevnik_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pod tíží dávných pout už tak jsem zmdlel",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_037.html",
+      "words": 39,
+      "chars": 221,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 37,
+      "prev": "zpevnik_036.html",
+      "next": "zpevnik_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rozvíval kdysi vánek zlaté vlasy",
+      "file": "zpevnik_038.html",
+      "words": 94,
+      "chars": 500,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 38,
+      "prev": "zpevnik_037.html",
+      "next": "zpevnik_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rozvíval kdysi vánek zlaté vlasy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Překrásná žena, jižs tak miloval,",
+      "file": "zpevnik_039.html",
+      "words": 88,
+      "chars": 469,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 39,
+      "prev": "zpevnik_038.html",
+      "next": "zpevnik_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Překrásná žena, jižs tak miloval,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_040.html",
+      "words": 89,
+      "chars": 541,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 40,
+      "prev": "zpevnik_039.html",
+      "next": "zpevnik_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To okno, v kterém jedno slunce svítí,",
+      "file": "zpevnik_041.html",
+      "words": 100,
+      "chars": 497,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 41,
+      "prev": "zpevnik_040.html",
+      "next": "zpevnik_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "To okno, v kterém jedno slunce svítí,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hannibal zvítězil a nedoved",
+      "file": "zpevnik_042.html",
+      "words": 88,
+      "chars": 467,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 42,
+      "prev": "zpevnik_041.html",
+      "next": "zpevnik_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hannibal zvítězil a nedoved",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_043.html",
+      "words": 104,
+      "chars": 615,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 43,
+      "prev": "zpevnik_042.html",
+      "next": "zpevnik_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak nový andílek se obezřelá",
+      "file": "zpevnik_044.html",
+      "words": 47,
+      "chars": 260,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 44,
+      "prev": "zpevnik_043.html",
+      "next": "zpevnik_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak nový andílek se obezřelá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Teď vidíš, Amore: mladinká paní",
+      "file": "zpevnik_045.html",
+      "words": 60,
+      "chars": 305,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 45,
+      "prev": "zpevnik_044.html",
+      "next": "zpevnik_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Teď vidíš, Amore: mladinká paní",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svite svěžích sladkých vod,",
+      "file": "zpevnik_046.html",
+      "words": 322,
+      "chars": 1673,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 46,
+      "prev": "zpevnik_045.html",
+      "next": "zpevnik_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Svite svěžích sladkých vod,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_047.html",
+      "words": 73,
+      "chars": 449,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 47,
+      "prev": "zpevnik_046.html",
+      "next": "zpevnik_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Má Itálie, třeba slova marná",
+      "file": "zpevnik_048.html",
+      "words": 681,
+      "chars": 3594,
+      "ideas": 122,
+      "role": "chapter",
+      "order": 48,
+      "prev": "zpevnik_047.html",
+      "next": "zpevnik_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Má Itálie, třeba slova marná",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_049.html",
+      "words": 208,
+      "chars": 1263,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 49,
+      "prev": "zpevnik_048.html",
+      "next": "zpevnik_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Z myšlenky k myšlence, z hor k horám sám",
+      "file": "zpevnik_050.html",
+      "words": 459,
+      "chars": 2403,
+      "ideas": 72,
+      "role": "chapter",
+      "order": 50,
+      "prev": "zpevnik_049.html",
+      "next": "zpevnik_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Z myšlenky k myšlence, z hor k horám sám",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mír nenacházím, k válce síla není.",
+      "file": "zpevnik_051.html",
+      "words": 93,
+      "chars": 487,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 51,
+      "prev": "zpevnik_050.html",
+      "next": "zpevnik_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mír nenacházím, k válce síla není.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dští oheň z nebes, děvko, na tvůj vlas.",
+      "file": "zpevnik_052.html",
+      "words": 99,
+      "chars": 515,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 52,
+      "prev": "zpevnik_051.html",
+      "next": "zpevnik_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dští oheň z nebes, děvko, na tvůj vlas.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lakotný Bábel pytel zlořádu,",
+      "file": "zpevnik_053.html",
+      "words": 87,
+      "chars": 471,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 53,
+      "prev": "zpevnik_052.html",
+      "next": "zpevnik_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lakotný Bábel pytel zlořádu,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Studnice bolesti, hospodo zlosti,",
+      "file": "zpevnik_054.html",
+      "words": 83,
+      "chars": 481,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 54,
+      "prev": "zpevnik_053.html",
+      "next": "zpevnik_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Studnice bolesti, hospodo zlosti,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_055.html",
+      "words": 201,
+      "chars": 1151,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 55,
+      "prev": "zpevnik_054.html",
+      "next": "zpevnik_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čas od času není tak odmítavá",
+      "file": "zpevnik_056.html",
+      "words": 86,
+      "chars": 461,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 56,
+      "prev": "zpevnik_055.html",
+      "next": "zpevnik_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čas od času není tak odmítavá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "„Co přijde, duše? Mluv, abych to znal!",
+      "file": "zpevnik_057.html",
+      "words": 103,
+      "chars": 500,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 57,
+      "prev": "zpevnik_056.html",
+      "next": "zpevnik_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "„Co přijde, duše? Mluv, abych to znal!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nyní, kdy mlčí vítr, nebe, zem",
+      "file": "zpevnik_058.html",
+      "words": 96,
+      "chars": 480,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 58,
+      "prev": "zpevnik_057.html",
+      "next": "zpevnik_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nyní, kdy mlčí vítr, nebe, zem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_059.html",
+      "words": 71,
+      "chars": 396,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 59,
+      "prev": "zpevnik_058.html",
+      "next": "zpevnik_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jakmile bílá noha v svěží trávě",
+      "file": "zpevnik_060.html",
+      "words": 100,
+      "chars": 502,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 60,
+      "prev": "zpevnik_059.html",
+      "next": "zpevnik_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jakmile bílá noha v svěží trávě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jdu v nehostinném, divokém, zlém lese,",
+      "file": "zpevnik_061.html",
+      "words": 96,
+      "chars": 503,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 61,
+      "prev": "zpevnik_060.html",
+      "next": "zpevnik_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jdu v nehostinném, divokém, zlém lese,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_062.html",
+      "words": 70,
+      "chars": 393,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 62,
+      "prev": "zpevnik_061.html",
+      "next": "zpevnik_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Má loď zapomenutí plná pluje",
+      "file": "zpevnik_063.html",
+      "words": 93,
+      "chars": 500,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 63,
+      "prev": "zpevnik_062.html",
+      "next": "zpevnik_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Má loď zapomenutí plná pluje",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Komůrko, tys mě kdysi uchránila",
+      "file": "zpevnik_064.html",
+      "words": 92,
+      "chars": 500,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 64,
+      "prev": "zpevnik_063.html",
+      "next": "zpevnik_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Komůrko, tys mě kdysi uchránila",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Neznají tolik tvorů mořské vlny",
+      "file": "zpevnik_065.html",
+      "words": 259,
+      "chars": 1335,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 65,
+      "prev": "zpevnik_064.html",
+      "next": "zpevnik_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Neznají tolik tvorů mořské vlny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_066.html",
+      "words": 221,
+      "chars": 1376,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 66,
+      "prev": "zpevnik_065.html",
+      "next": "zpevnik_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "—NA SMRTPANÍ LAURY",
+      "file": "zpevnik_067.html",
+      "words": 3,
+      "chars": 18,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 67,
+      "prev": "zpevnik_066.html",
+      "next": "zpevnik_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "—NA SMRTPANÍ LAURY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_068.html",
+      "words": 482,
+      "chars": 2446,
+      "ideas": 82,
+      "role": "chapter",
+      "order": 68,
+      "prev": "zpevnik_067.html",
+      "next": "zpevnik_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_069.html",
+      "words": 111,
+      "chars": 676,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 69,
+      "prev": "zpevnik_068.html",
+      "next": "zpevnik_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zlomen laur svěží i sloup kolonád,",
+      "file": "zpevnik_070.html",
+      "words": 87,
+      "chars": 475,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 70,
+      "prev": "zpevnik_069.html",
+      "next": "zpevnik_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zlomen laur svěží i sloup kolonád,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Život nám utíká a nezastaví",
+      "file": "zpevnik_071.html",
+      "words": 83,
+      "chars": 476,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 71,
+      "prev": "zpevnik_070.html",
+      "next": "zpevnik_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Život nám utíká a nezastaví",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_072.html",
+      "words": 101,
+      "chars": 620,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 72,
+      "prev": "zpevnik_071.html",
+      "next": "zpevnik_073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Když nářek ptáků nebo sladký šum",
+      "file": "zpevnik_073.html",
+      "words": 86,
+      "chars": 472,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 73,
+      "prev": "zpevnik_072.html",
+      "next": "zpevnik_074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Když nářek ptáků nebo sladký šum",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ty oči, o nichž jsem tak vroucné psal,",
+      "file": "zpevnik_074.html",
+      "words": 96,
+      "chars": 493,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 74,
+      "prev": "zpevnik_073.html",
+      "next": "zpevnik_075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ty oči, o nichž jsem tak vroucné psal,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vznesla mě mysl tam, kde ona byla,",
+      "file": "zpevnik_075.html",
+      "words": 96,
+      "chars": 494,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 75,
+      "prev": "zpevnik_074.html",
+      "next": "zpevnik_076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vznesla mě mysl tam, kde ona byla,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_076.html",
+      "words": 38,
+      "chars": 208,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 76,
+      "prev": "zpevnik_075.html",
+      "next": "zpevnik_077.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ten slavíček tak sladce oplakává",
+      "file": "zpevnik_077.html",
+      "words": 87,
+      "chars": 474,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 77,
+      "prev": "zpevnik_076.html",
+      "next": "zpevnik_078.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ten slavíček tak sladce oplakává",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_078.html",
+      "words": 55,
+      "chars": 307,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 78,
+      "prev": "zpevnik_077.html",
+      "next": "zpevnik_079.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lásko, když ve mně kvetla",
+      "file": "zpevnik_079.html",
+      "words": 63,
+      "chars": 330,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 79,
+      "prev": "zpevnik_078.html",
+      "next": "zpevnik_080.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lásko, když ve mně kvetla",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Amor mě držel jednadvacet let,",
+      "file": "zpevnik_080.html",
+      "words": 97,
+      "chars": 498,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 80,
+      "prev": "zpevnik_079.html",
+      "next": "zpevnik_081.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Amor mě držel jednadvacet let,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jdu, oplakávám svoje prošlé časy.",
+      "file": "zpevnik_081.html",
+      "words": 89,
+      "chars": 492,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 81,
+      "prev": "zpevnik_080.html",
+      "next": "zpevnik_082.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jdu, oplakávám svoje prošlé časy.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_082.html",
+      "words": 314,
+      "chars": 2035,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 82,
+      "prev": "zpevnik_081.html",
+      "next": "zpevnik_083.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TRIUMFY—TRIUMF SMRTI",
+      "file": "zpevnik_083.html",
+      "words": 2,
+      "chars": 20,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 83,
+      "prev": "zpevnik_082.html",
+      "next": "zpevnik_084.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TRIUMFY—TRIUMF SMRTI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "/První kapitola/",
+      "file": "zpevnik_084.html",
+      "words": 1092,
+      "chars": 5887,
+      "ideas": 173,
+      "role": "chapter",
+      "order": 84,
+      "prev": "zpevnik_083.html",
+      "next": "zpevnik_085.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "/První kapitola/",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_085.html",
+      "words": 306,
+      "chars": 1916,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 85,
+      "prev": "zpevnik_084.html",
+      "next": "zpevnik_086.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "—TRIUMF ČASU",
+      "file": "zpevnik_086.html",
+      "words": 2,
+      "chars": 12,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 86,
+      "prev": "zpevnik_085.html",
+      "next": "zpevnik_087.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "—TRIUMF ČASU",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "/Závěr/",
+      "file": "zpevnik_087.html",
+      "words": 251,
+      "chars": 1272,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 87,
+      "prev": "zpevnik_086.html",
+      "next": "zpevnik_088.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "/Závěr/",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_088.html",
+      "words": 73,
+      "chars": 496,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 88,
+      "prev": "zpevnik_087.html",
+      "next": "zpevnik_089.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční poznámka",
+      "file": "zpevnik_089.html",
+      "words": 160,
+      "chars": 1081,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 89,
+      "prev": "zpevnik_088.html",
+      "next": "zpevnik_090.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vysvětlivky",
+      "file": "zpevnik_090.html",
+      "words": 2328,
+      "chars": 14501,
+      "ideas": 130,
+      "role": "chapter",
+      "order": 90,
+      "prev": "zpevnik_089.html",
+      "next": "zpevnik_091.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vysvětlivky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Doslov",
+      "file": "zpevnik_091.html",
+      "words": 1493,
+      "chars": 10016,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 91,
+      "prev": "zpevnik_090.html",
+      "next": "zpevnik_092.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Doslov",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpěvník",
+      "file": "zpevnik_092.html",
+      "words": 57,
+      "chars": 368,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 92,
+      "prev": "zpevnik_091.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 20414,
+      "chars": 116848,
+      "ideas": 1988
+    },
+    "chapters": {
+      "words": 20408,
+      "chars": 116809,
+      "ideas": 1983
+    }
+  }
+}

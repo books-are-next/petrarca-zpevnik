@@ -1,39 +1,37 @@
 ---
-title: ''
-contentType: prose
+title: Rozvíval kdysi vánek zlaté vlasy
+contentType: poetry
 ---
 
 <section>
 
-Rozvíval kdysi vánek zlaté vlasy
-
-_a v tisíc sladkých uzlů zaplétal;  
+a v tisíc sladkých uzlů zaplétal;  
 nad všechnu míru v krásných očích plál  
-líbezný svit, skrovný v nich v dnešní časy._
+líbezný svit, skrovný v nich v dnešní časy.
 
 </section>
 
 <section>
 
-_Zbarvil tvář vskutku soucit, nebo já si  
+Zbarvil tvář vskutku soucit, nebo já si  
 to při pohledu jenom namlouval?  
 V prsou jsem tolik vznětů k lásce hřál:  
-Je to snad div, že vzplanul jsem z té krásy?_
+Je to snad div, že vzplanul jsem z té krásy?
 
 </section>
 
 <section>
 
-_Ona jak smrtelnice nechodila,  
+Ona jak smrtelnice nechodila,  
 šla krokem andělů a její slova  
-znívala jinak, než zní lidský hlas._
+znívala jinak, než zní lidský hlas.
 
 </section>
 
 <section>
 
-_Duch z nebes, živé slunce tenkrát byla,  
+Duch z nebes, živé slunce tenkrát byla,  
 jak jsem ji viděl. Tak ji vidím znova.  
-Vem luku šípy — rána pálí zas._
+Vem luku šípy — rána pálí zas.
 
 </section>

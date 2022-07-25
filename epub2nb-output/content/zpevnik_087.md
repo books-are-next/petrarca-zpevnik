@@ -1,106 +1,106 @@
 ---
 title: /Závěr/
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_„Nejistá zima, letmý jasný vzhled  
+„Nejistá zima, letmý jasný vzhled  
 váš věhlas je — cíp mhy ho zastře zas.  
-Velký Čas — velkým jménům velký jed._
+Velký Čas — velkým jménům velký jed.
 
 </section>
 
 <section>
 
-_Pomine vaše velkost a váš jas,  
+Pomine vaše velkost a váš jas,  
 pominou království, pominou vlády,  
-a co je smrtelného, přerve Čas._
+a co je smrtelného, přerve Čas.
 
 </section>
 
 <section>
 
-_Lepšímu nedá, co dal plným vady.  
+Lepšímu nedá, co dal plným vady.  
 Rozloží vaši výmluvnost, vtip, vzlet —  
-nejen ten vnějšek, tělo, v němž jste tady._
+nejen ten vnějšek, tělo, v němž jste tady.
 
 </section>
 
 <section>
 
-_A tak Čas prchá a tak mění svět,  
+A tak Čas prchá a tak mění svět,  
 nikdy se nevrací a nezastaví,  
-až v hrstku prachu obrátí vás zpět._
+až v hrstku prachu obrátí vás zpět.
 
 </section>
 
 <section>
 
-_Sto rohů slávy mají lidské hlavy:  
+Sto rohů slávy mají lidské hlavy:  
 Když je jde zlomit, žádný div, že tím  
-o něco delší lhůtu Čas pak stráví._
+o něco delší lhůtu Čas pak stráví.
 
 </section>
 
 <section>
 
-_Ať říká plebs, co chce, těm slovutným,  
+Ať říká plebs, co chce, těm slovutným,  
 kdyby náš život nebyl oka mih,  
-brzy bys viděl, jak se mění v dým.“_
+brzy bys viděl, jak se mění v dým.“
 
 </section>
 
 <section>
 
-_Slyšel jsem. A že pravdě byl by hřích  
+Slyšel jsem. A že pravdě byl by hřích  
 odporovat — ne plnou víru mít,  
-spatřil jsem naši slávu: v slunci sníh._
+spatřil jsem naši slávu: v slunci sníh.
 
 </section>
 
 <section>
 
-_A spatřil Čas, jak jde si kořist vzít  
+A spatřil Čas, jak jde si kořist vzít  
 z těch našich jmen. Byla mi pouhé nic.  
-Slepý dav neví, nechce uvěřit,_
+Slepý dav neví, nechce uvěřit,
 
 </section>
 
 <section>
 
-_nadějí do větru má na tisíc  
+nadějí do větru má na tisíc  
 a jen po pastvě smyšlenek se vodí:  
-Smrt v stáří nad smrt v plenkách cení víc._
+Smrt v stáří nad smrt v plenkách cení víc.
 
 </section>
 
 <section>
 
-_Kolébka šťastně mnohé hrobu hodí,  
+Kolébka šťastně mnohé hrobu hodí,  
 stáří zle mnohé v umírání dáví.  
-Kdosi řek: „Šťastný, kdo se nenarodí!“_
+Kdosi řek: „Šťastný, kdo se nenarodí!“
 
 </section>
 
 <section>
 
-_Ať věří velkým bludům zvyklé davy,  
+Ať věří velkým bludům zvyklé davy,  
 že jméno září dál po dlouhý věk!  
-A co je vlastně to, co se tak slaví?_
+A co je vlastně to, co se tak slaví?
 
 </section>
 
 <section>
 
-_Hrabivý Čas vše serve nazpátek.  
+Hrabivý Čas vše serve nazpátek.  
 Říká se věhlas — je to druhý hrob,  
-a na oba dva není žádný lék._
+a na oba dva není žádný lék.
 
 </section>
 
 <section>
 
-_Tak zmáhá Čas jména i svět všech dob._
+Tak zmáhá Čas jména i svět všech dob.
 
 </section>

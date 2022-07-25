@@ -1,6 +1,6 @@
 ---
 title: Vysvětlivky
-contentType: prose
+contentType: poetry
 ---
 
 <section>

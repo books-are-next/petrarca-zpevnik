@@ -1,13 +1,11 @@
 ---
-title: ''
-contentType: prose
+title: "Z\_myšlenky k\_myšlence, z\_hor k\_horám sám"
+contentType: poetry
 ---
 
 <section>
 
-Z myšlenky k myšlence, z hor k horám sám
-
-_jdu veden Láskou; cestou prošlapanou  
+jdu veden Láskou; cestou prošlapanou  
 se odmítám dát pro klid svého žití.  
 Ať pramen, břeh, svah před očima mám,  
 ať údolí, jež v stráních leží stranou,  
@@ -18,13 +16,13 @@ tvář obrací se tam, kam duše hne se;
 chmuří se, zjasňuje se,  
 v témž tvaru setrvá jen krátký čas.  
 Kdo v takovém životě zkušený je,  
-řek by: žhne, neví, v jakém stavu žije._
+řek by: žhne, neví, v jakém stavu žije.
 
 </section>
 
 <section>
 
-_V srázech hor, v drsných hvozdech nalézám  
+V srázech hor, v drsných hvozdech nalézám  
 klid krátko; každý obydlený kout  
 mým očím je smrtelný nepřítel.  
 A novou myšlenku na paní mám  
@@ -36,13 +34,13 @@ svůj sladký — hořký život změnit záhy,
 snad v lepším živobytí.  
 Sobě nic nejsi, jí jsi možná drahý.“  
 A zatím běh myšlenek zavzdychá si:  
-Mohla by to být pravda? Jak? Kdy asi?_
+Mohla by to být pravda? Jak? Kdy asi?
 
 </section>
 
 <section>
 
-_Kam vrch či velká pinie stín vrhla,  
+Kam vrch či velká pinie stín vrhla,  
 stanu, a přec už v prvním kameni  
 tu krásnou tvář v duchu jsem vykreslil.  
 Vracím se k sobě, hruď mi steskem zvlhla,  
@@ -54,13 +52,13 @@ vidět jen ji a ne už sebe sám,
 tu zblízka poznávám  
 Lásku… Ten klam uklidní duši hned.  
 Ze všech stran ji tak krásnou vidí cit,  
-že kdyby trval klam, víc nechci mít._
+že kdyby trval klam, víc nechci mít.
 
 </section>
 
 <section>
 
-_Já tolikrát (kdo v tom dnes pravdu shledá?)  
+Já tolikrát (kdo v tom dnes pravdu shledá?)  
 ji v čiré vodě, na zelené trávě,  
 v pni buku živou před očima měl,  
 a v bílém mráčku, krásnou, že by Léda  
@@ -72,13 +70,13 @@ tím krásnější ji kreslím myšlenkami.
 Pak, když ty sladké klamy  
 odvane pravda, sednu si zas chladný,  
 sám, mrtvý kámen v kameni, jenž dýše —  
-já, člověk, který myslí, pláče, píše._
+já, člověk, který myslí, pláče, píše.
 
 </section>
 
 <section>
 
-_Na hřeben nejvyšší, kam nepokročí  
+Na hřeben nejvyšší, kam nepokročí  
 stín jiné hory, odkud vidím vpřed  
 nejlíp, mě stále prudká touha žene.  
 Mé škody dálkou začnou měřit oči  
@@ -90,18 +88,18 @@ jež je tak blízko a tak v nedohlednu.
 Tichoučce hlas pak zvednu:  
 „Co děláš, ubohý? Tam možná zas  
 ona si vzdychá, že jsi v dálce kdesi.“  
-Tím pomyšlením duše oddychne si._
+Tím pomyšlením duše oddychne si.
 
 </section>
 
 <section>
 
-_Kancóno, za tím horstvem,  
+Kancóno, za tím horstvem,  
 kde nebe jasnější a radostné je,  
 mě spatříš nad potokem, který běží  
 tam, kde je cítit svěží,  
 vonný háj lauru, z něhož vánek věje.  
 Tam je mé srdce, ta, jež bere mi je;  
-tady jen bezduché mé tělo žije._
+tady jen bezduché mé tělo žije.
 
 </section>

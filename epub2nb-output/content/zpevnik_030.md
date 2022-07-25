@@ -1,13 +1,11 @@
 ---
-title: ''
-contentType: prose
+title: Vidím, má vzácná paní,
+contentType: poetry
 ---
 
 <section>
 
-Vidím, má vzácná paní,
-
-_ve vašich očích sladký svit se chvět  
+ve vašich očích sladký svit se chvět  
 a ten mi cestu k nebi ukazuje.  
 Zvykl jsem během let  
 v svém nitru s Láskou sám žít bez ustání;  
@@ -20,13 +18,13 @@ nikdy, co mně dvě božské oči nyní
 dávají pocítit,  
 ať v dnech, kdy zima rozhazuje jíní,  
 ať zjara, kdy rok novým mládím vzlít.  
-Tak poznal kdysi první strast můj cit…_
+Tak poznal kdysi první strast můj cit…
 
 </section>
 
 <section>
 
-_Jestli tam v nebesích,  
+Jestli tam v nebesích,  
 kde v práci shledal věčný hýbatel  
 hvězd, že ji zemi ukázat je vhod,  
 je víc tak krásných děl —  
@@ -40,13 +38,13 @@ pozvedla srdce. Dříve zbaven sil
 byl jsem si na obtíž;  
 v ten den sám sobě jsem se zalíbil:  
 ctnou, sladkou myšlenkou naplnil již  
-hruď, k níž klíč v krásných očích uvidíš._
+hruď, k níž klíč v krásných očích uvidíš.
 
 </section>
 
 <section>
 
-_Nepřály jaktěživy  
+Nepřály jaktěživy  
 víc radosti Láska a Štěstí vratké  
 těm, kterým byly nejvíc nakloněny.  
 Všecko bych dal za krátké  
@@ -60,13 +58,13 @@ a slábne jiný svit ve vašem jase,
 tak z prsou uniká mi  
 — když takový díl sladkosti v ně pad —  
 kdekterá jiná myšlenka a sami  
-zbudem: vy oči, Láska a já s vámi._
+zbudem: vy oči, Láska a já s vámi.
 
 </section>
 
 <section>
 
-_Sladkost, již našli věrní  
+Sladkost, již našli věrní  
 milenci šťastně na jediném místě  
 — v svých srdcích — někdy v hojnosti, nic není  
 proti mé, kdykoli jste  
@@ -80,13 +78,13 @@ dlaň, jež jak záclona se často zvedne
 mezi můj skvostný květ  
 radosti a mé oči: V noci, ve dne  
 pláč mi dme hruď a cit se mění hned  
-v ní tak, jak oči paní mění vzhled._
+v ní tak, jak oči paní mění vzhled.
 
 </section>
 
 <section>
 
-_Vidím, a líto je mi,  
+Vidím, a líto je mi,  
 že z vrozených darů nic nepomáhá:  
 Jsem nehoden být cílem pro ten zrak.  
 Změnit se štve mě snaha —  
@@ -100,14 +98,14 @@ ozvou se o mně blahovolné hlasy.
 Pláč jednou dospěje  
 ke konci — nic víc srdce nehledá si —  
 až se v těch očích jiskra zachvěje.  
-Víc dvorný ctitel nemá naděje._
+Víc dvorný ctitel nemá naděje.
 
 </section>
 
 <section>
 
-_Kancóno, jedna sestra předchází tě  
+Kancóno, jedna sestra předchází tě  
 a druhá, cítím, že se v téže skrýši  
-už objevuje. Tím víc listů píši._
+už objevuje. Tím víc listů píši.
 
 </section>
