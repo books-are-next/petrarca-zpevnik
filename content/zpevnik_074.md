@@ -1,39 +1,37 @@
 ---
-title: ''
-contentType: prose
+title: "Ty oči, o\_nichž jsem tak vroucné psal,"
+contentType: poetry
 ---
 
 <section>
 
-Ty oči, o nichž jsem tak vroucné psal,
-
-_tvář, paže, dlaně, nohy, které v chvíli  
+tvář, paže, dlaně, nohy, které v chvíli  
 ode mne moji duši oddělily,  
-že jiný, než jsou druzí, jsem se stal,_
+že jiný, než jsou druzí, jsem se stal,
 
 </section>
 
 <section>
 
-_vlas, v kterém třpyt ryzího zlata hrál,  
+vlas, v kterém třpyt ryzího zlata hrál,  
 andělské jiskry rtů, jež zasvítily  
 a zem ty úsměvy v ráj proměnily —  
-hrst prachu jsou a necítí nic dál._
+hrst prachu jsou a necítí nic dál.
 
 </section>
 
 <section>
 
-_A já jsem živ! Zkrušený, v žalu plout  
+A já jsem živ! Zkrušený, v žalu plout  
 mám bez světel, jež mi tak drahá byla.  
-Loď odzbrojenou topí v bouři proud._
+Loď odzbrojenou topí v bouři proud.
 
 </section>
 
 <section>
 
-_Zpěv lásky hasne… hodina už bila.  
+Zpěv lásky hasne… hodina už bila.  
 Vyschl zdroj mého nadání, zbyl troud  
-a moje harfa v pláč se obrátila._
+a moje harfa v pláč se obrátila.
 
 </section>

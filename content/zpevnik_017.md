@@ -1,39 +1,37 @@
 ---
-title: ''
-contentType: prose
+title: "Čím spěji blíž k\_chvíli, kdy krajní den"
+contentType: poetry
 ---
 
 <section>
 
-Čím spěji blíž k chvíli, kdy krajní den
-
-_obvykle všecku lidskou bídu zkrátí,  
+obvykle všecku lidskou bídu zkrátí,  
 tím víc vidím čas lehký vpřed se hnáti  
-a v nadějích svých v něj klam, hloupý sen._
+a v nadějích svých v něj klam, hloupý sen.
 
 </section>
 
 <section>
 
-_„Nepůjdem dlouho,“ hloubám zamyšlen,  
+„Nepůjdem dlouho,“ hloubám zamyšlen,  
 „se slovy lásky. Tvrdá, přetěžká ti  
 je zátěž těla. Brzy začne táti  
-jak čerstvý sníh; tím najdem klid už jen,_
+jak čerstvý sníh; tím najdem klid už jen,
 
 </section>
 
 <section>
 
-_neboť s ní padne naděje a zhasne,  
+neboť s ní padne naděje a zhasne,  
 o čem kdo léta bludně horoval,  
-a všechen strach a hněv a pláč a smích._
+a všechen strach a hněv a pláč a smích.
 
 </section>
 
 <section>
 
-_Tak konečně nám bude potom jasné,  
+Tak konečně nám bude potom jasné,  
 za čím vším pochybným se člověk hnal,  
-a kolikrát si pro nic darmo vzdych.“_
+a kolikrát si pro nic darmo vzdych.“
 
 </section>

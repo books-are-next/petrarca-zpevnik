@@ -1,39 +1,37 @@
 ---
-title: ''
-contentType: prose
+title: Překrásná žena, jižs tak miloval,
+contentType: poetry
 ---
 
 <section>
 
-Překrásná žena, jižs tak miloval,
-
-_až překotně se od nás odloučila  
+až překotně se od nás odloučila  
 a na nebe, jak doufám, vystoupila:  
-Vždyť každý její čin jen sladce hřál._
+Vždyť každý její čin jen sladce hřál.
 
 </section>
 
 <section>
 
-_Je čas, abys zas oba klíče vzal,  
+Je čas, abys zas oba klíče vzal,  
 jež k tvému srdci měla, dokud žila.  
 Veď k ní pouť přímou, jež se nestočila —  
-kéž zátěž země netíží tě dál!_
+kéž zátěž země netíží tě dál!
 
 </section>
 
 <section>
 
-_Nejtěžší břemeno je odložené,  
+Nejtěžší břemeno je odložené,  
 ta další můžeš lehce odložit,  
-jak poutník bez tlumoku stoupat sem._
+jak poutník bez tlumoku stoupat sem.
 
 </section>
 
 <section>
 
-_Teď jasně vidíš, jak se k smrti žene  
+Teď jasně vidíš, jak se k smrti žene  
 vše, co je stvořené, jak třeba jít  
-je duši lehké strastným průsmykem._
+je duši lehké strastným průsmykem.
 
 </section>

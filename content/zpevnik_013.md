@@ -1,21 +1,19 @@
 ---
-title: ''
-contentType: prose
+title: Ubohé oči, otáčím vás zpět
+contentType: poetry
 ---
 
 <section>
 
-Ubohé oči, otáčím vás zpět
-
-_k tváři, jež vám vše další zabila.  
+k tváři, jež vám vše další zabila.  
 Láska vám hodila  
-už rukavici… vzdychám jen z těch běd._
+už rukavici… vzdychám jen z těch běd.
 
 </section>
 
 <section>
 
-_Jedině smrt zavře mým myšlenkám  
+Jedině smrt zavře mým myšlenkám  
 tu cestu lásky, po níž dorazit  
 by mohly do přístavu k spáse, k cíli —  
 vám, oči, vaše světlo může skrýt  
@@ -24,6 +22,6 @@ je dáno pevnosti a méně síly.
 Ztrápené oči, dřív než uhodily  
 hodiny pláče, jež už cítím zblízka,  
 konečně smíte získat  
-teď pár chvil útěchy za muka let._
+teď pár chvil útěchy za muka let.
 
 </section>

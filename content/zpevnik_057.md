@@ -1,39 +1,37 @@
 ---
-title: ''
-contentType: prose
+title: „Co přijde, duše? Mluv, abych to znal!
+contentType: poetry
 ---
 
 <section>
 
-„Co přijde, duše? Mluv, abych to znal!
-
-_Mír? Příměří? Dál věčná válka v nás?“  
+Mír? Příměří? Dál věčná válka v nás?“  
 „Nevím, co bude. Mně řek vnitřní hlas,  
-že se těm očím nelíbí náš žal.“_
+že se těm očím nelíbí náš žal.“
 
 </section>
 
 <section>
 
-_„Co jsem z těch krásných očí měl a bral?  
+„Co jsem z těch krásných očí měl a bral?  
 Od ní jen v zimě úpal, v létě mráz.“  
 „Ne od ní. To dal jejich Vládce zas.“  
-„Co s tím, když ona ví a mlčí dál!“_
+„Co s tím, když ona ví a mlčí dál!“
 
 </section>
 
 <section>
 
-_„Tu a tam jazyk mlčí. Srdce, běda,  
+„Tu a tam jazyk mlčí. Srdce, běda,  
 naříká nahlas. Bez slz, úsměv v tváři,  
-pláče tam, kam už nevnik cizí zrak.“_
+pláče tam, kam už nevnik cizí zrak.“
 
 </section>
 
 <section>
 
-_„Uklidnit mysl se ti nepodaří,  
+„Uklidnit mysl se ti nepodaří,  
 když zlomíš strast, jež se v ní kupí, sedá.  
-Jak málo naděje má ubožák!“_
+Jak málo naděje má ubožák!“
 
 </section>

@@ -1,39 +1,37 @@
 ---
-title: ''
-contentType: prose
+title: Pod tíží dávných pout už tak jsem zmdlel
+contentType: poetry
 ---
 
 <section>
 
-Pod tíží dávných pout už tak jsem zmdlel
-
-_ze všech svých vin a mravů v bezbožnosti,  
+ze všech svých vin a mravů v bezbožnosti,  
 že zmást se v cestě strach mám víc než dosti:  
-upadnout v léč, již třímá nepřítel._
+upadnout v léč, již třímá nepřítel.
 
 </section>
 
 <section>
 
-_Zprostit mě tíhy velký přítel šel  
+Zprostit mě tíhy velký přítel šel  
 nejvyšší, nevýslovnou laskavostí.  
 Pak ulét pryč zrakům mé pozornosti.  
-Darmo se štvu, abych ho uviděl._
+Darmo se štvu, abych ho uviděl.
 
 </section>
 
 <section>
 
-_Leč slyším jeho hlas, dál dolů znící:  
+Leč slyším jeho hlas, dál dolů znící:  
 „Zde máte cestu, kdož jste obtíženi,  
-když jiný nezbrání vám, přijďte ke mně!“_
+když jiný nezbrání vám, přijďte ke mně!“
 
 </section>
 
 <section>
 
-_A jaká milost, láska, předurčení  
+A jaká milost, láska, předurčení  
 mi křídla dá tak jako holubici,  
-abych si odpočal — zved se z té země?_
+abych si odpočal — zved se z té země?
 
 </section>

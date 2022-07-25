@@ -1,6 +1,6 @@
 ---
 title: Francesco PetrarcaPotomkům
-contentType: prose
+contentType: poetry
 ---
 
 <section>

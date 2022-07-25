@@ -1,466 +1,466 @@
 ---
 title: /První kapitola/
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ta líbezná a slavná, vzácná paní   
+Ta líbezná a slavná, vzácná paní   
 dnes už jen duch a pozemský prach těla,  
-a dřív všech ctností pilíř svrchovaný —_
+a dřív všech ctností pilíř svrchovaný —
 
 </section>
 
 <section>
 
-_v cti radostná se z války navracela,  
+v cti radostná se z války navracela,  
 když zmohla velikého nepřítele,  
-jenž svými lstmi svět podrobil si zcela._
+jenž svými lstmi svět podrobil si zcela.
 
 </section>
 
 <section>
 
-_Za zbraň jen cudné srdce měla v těle,  
+Za zbraň jen cudné srdce měla v těle,  
 půvabnou tvář, myšlenky zdrženlivé  
-a moudrou řeč, počestnost za přítele._
+a moudrou řeč, počestnost za přítele.
 
 </section>
 
 <section>
 
-_Průvod byl zázrak nevídaný dříve:  
+Průvod byl zázrak nevídaný dříve:  
 zlomené Amorovy šípy, luk  
-a ti, jež zabil i jež zajal živé._
+a ti, jež zabil i jež zajal živé.
 
 </section>
 
 <section>
 
-_Šla paní, s ní vybraných družek shluk,  
+Šla paní, s ní vybraných družek shluk,  
 ze vznešeného vítězství, jak pravá  
-zásluha sšikovala malý pluk._
+zásluha sšikovala malý pluk.
 
 </section>
 
 <section>
 
-_Bylo jich pár — vzácná je ryzí sláva;  
+Bylo jich pár — vzácná je ryzí sláva;  
 leč každá sama všeho hodna byla,  
-co báseň, zpěv a historie dává._
+co báseň, zpěv a historie dává.
 
 </section>
 
 <section>
 
-_Na jejich vlajce, která zvítězila,  
+Na jejich vlajce, která zvítězila,  
 v zeleném poli byl hermelín bílý,  
-zář topasu a zlata šíji kryla._
+zář topasu a zlata šíji kryla.
 
 </section>
 
 <section>
 
-_Ne lidské, ale vskutku božské byly  
+Ne lidské, ale vskutku božské byly  
 ty jejich kroky, slova svatých vět:  
-Blažený, kdo se zrodil k tomu cíli!_
+Blažený, kdo se zrodil k tomu cíli!
 
 </section>
 
 <section>
 
-_Byly jak jasné hvězdy — uprostřed  
+Byly jak jasné hvězdy — uprostřed  
 Slunce; to neztlumí zář, jež z nich blýská,  
-spíš za šperk dá jim z fial, z růže květ._
+spíš za šperk dá jim z fial, z růže květ.
 
 </section>
 
 <section>
 
-_Tak, jak si vzácné srdce čest vždy získá,  
+Tak, jak si vzácné srdce čest vždy získá,  
 přicházela ta četa rozjasněná;  
-vtom temnou, truchlou vlajku zhléd jsem zblízka._
+vtom temnou, truchlou vlajku zhléd jsem zblízka.
 
 </section>
 
 <section>
 
-_A v černém plášti zahalená žena,  
+A v černém plášti zahalená žena,  
 se vztekem, s jakým vyrazila již  
-zášť Gigantů, ve Flegře rozkacená,_
+zášť Gigantů, ve Flegře rozkacená,
 
 </section>
 
 <section>
 
-_šla vpřed a řekla: „Ženo, honosíš  
+šla vpřed a řekla: „Ženo, honosíš  
 se mládím, krásou, v žilách život zpívá —  
-a konec svého žití nevidíš._
+a konec svého žití nevidíš.
 
 </section>
 
 <section>
 
-_Já jsem ta, jíž ‚Ta nevhodná a divá‘  
+Já jsem ta, jíž ‚Ta nevhodná a divá‘  
 říkají vaše hluché, slepé hlavy,  
-v kterých se noc už před soumrakem stmívá._
+v kterých se noc už před soumrakem stmívá.
 
 </section>
 
 <section>
 
-_Já přivedla ke konci řecké davy  
+Já přivedla ke konci řecké davy  
 i trojské, Římany pak naposled,  
-mečem, jenž bodá, seká bez únavy,_
+mečem, jenž bodá, seká bez únavy,
 
 </section>
 
 <section>
 
-_a barbary a cizí — další sled.  
+a barbary a cizí — další sled.  
 Dorazím, když mě nikdo nečeká,  
-přetrhnout marných plánů bezpočet._
+přetrhnout marných plánů bezpočet.
 
 </section>
 
 <section>
 
-_Blaží vás nyní život člověka.  
+Blaží vás nyní život člověka.  
 Než k sladkosti vám hořkost Štěstěna  
-dá vypít, já už letím zdaleka —“_
+dá vypít, já už letím zdaleka —“
 
 </section>
 
 <section>
 
-_„Nad nimi žádná moc ti svěřena  
+„Nad nimi žádná moc ti svěřena  
 není. Mně vládneš jenom nad tělem,“  
-odpověděla paní vznešená._
+odpověděla paní vznešená.
 
 </section>
 
 <section>
 
-_„Víc raníš toho, kdo tu životem  
+„Víc raníš toho, kdo tu životem  
 sám na mém pozemském životě visí.  
-Já přijmu milost, až opustím zem.“_
+Já přijmu milost, až opustím zem.“
 
 </section>
 
 <section>
 
-_Jak ten, kdo před očima div má, kdysi  
+Jak ten, kdo před očima div má, kdysi  
 dřív nevídaný, a co nevnímal,  
-teď postřehne a z údivu se vzkřísí,_
+teď postřehne a z údivu se vzkřísí,
 
 </section>
 
 <section>
 
-_hleděla šelma. Ještě chvíli dál  
+hleděla šelma. Ještě chvíli dál  
 váhala. Potom: „Poznávám je hned,“  
-řekla, „vím dobře, kdy můj zub je ťal.“_
+řekla, „vím dobře, kdy můj zub je ťal.“
 
 </section>
 
 <section>
 
-_Pak méně kalné, temné napohled  
+Pak méně kalné, temné napohled  
 pozvedla oči: „Vedeš krásné řady,  
-leč slyšela jsi kdy, co je můj jed?_
+leč slyšela jsi kdy, co je můj jed?
 
 </section>
 
 <section>
 
-_Mohu tě přinutit. Dej na mé rady  
+Mohu tě přinutit. Dej na mé rady  
 raději po dobrém! Je lepší hnout  
-se z cesty stáří, strastem ve všem všady._
+se z cesty stáří, strastem ve všem všady.
 
 </section>
 
 <section>
 
-_Jsem ochotná tu čest ti poskytnout,  
+Jsem ochotná tu čest ti poskytnout,  
 již jiným nedávám. Projdeš ten vchod  
-beze strachu a bez bolestných pout.“ —_
+beze strachu a bez bolestných pout.“ —
 
 </section>
 
 <section>
 
-_„Jak Pán chce, který z nebe řídí chod  
+„Jak Pán chce, který z nebe řídí chod  
 světa a určuje mu běh a tok,  
-co činíš jiným, mně je také vhod.“_
+co činíš jiným, mně je také vhod.“
 
 </section>
 
 <section>
 
-_Tak odpověděla. A krok co krok,  
+Tak odpověděla. A krok co krok,  
 hle, mrtvých plný celý kraj se tměl —  
-víc jmen, než zvládne próza, rozměr slok._
+víc jmen, než zvládne próza, rozměr slok.
 
 </section>
 
 <section>
 
-_Z Indie, z Maroka i ze Španěl,  
+Z Indie, z Maroka i ze Španěl,  
 z Číny — už plné údolí i svahy —  
-přes mnoho časů veliký dav šel._
+přes mnoho časů veliký dav šel.
 
 </section>
 
 <section>
 
-_Ti „šťastnými“ nazvaní příliš záhy,  
+Ti „šťastnými“ nazvaní příliš záhy,  
 císaři, papežové, vládci zemí:  
-teď každý žebrák, ubožák a nahý._
+teď každý žebrák, ubožák a nahý.
 
 </section>
 
 <section>
 
-_Kde jsou teď bohatství a pocty, gemy,  
+Kde jsou teď bohatství a pocty, gemy,  
 koruny, žezla, vavřín na věnec,  
-mitry a purpur, skvoucí nade všemi?_
+mitry a purpur, skvoucí nade všemi?
 
 </section>
 
 <section>
 
-_Bloud skládá naději v smrtelnou věc  
+Bloud skládá naději v smrtelnou věc  
 (kdo neskládá?), až vidí, jak se mění  
-v podvedeného — právem nakonec._
+v podvedeného — právem nakonec.
 
 </section>
 
 <section>
 
-_Slepí, nač je vám tolik plahočení?  
+Slepí, nač je vám tolik plahočení?  
 Všichni se vrátíte k své matce věčné.  
-A vaše jméno? Stěží k nalezení._
+A vaše jméno? Stěží k nalezení.
 
 </section>
 
 <section>
 
-_Co z tisíce dřin bylo užitečné?  
+Co z tisíce dřin bylo užitečné?  
 Nebyla všecko marnost nad marnosti?  
-Kdo chápe vaše snahy, ať mi řekne!_
+Kdo chápe vaše snahy, ať mi řekne!
 
 </section>
 
 <section>
 
-_K čemu je dobré držet v poplatnosti  
+K čemu je dobré držet v poplatnosti  
 a pod jhem cizí země, cizí rody,  
-jež do zkázy se ženou s horlivostí?_
+jež do zkázy se ženou s horlivostí?
 
 </section>
 
 <section>
 
-_Po marných bojích, plných nástrah, škody,  
+Po marných bojích, plných nástrah, škody,  
 když za krev získáš poklady, lán zemí,  
-je sladší skýva chleba, doušek vody,_
+je sladší skýva chleba, doušek vody,
 
 </section>
 
 <section>
 
-_dřevo a sklo než zlato a než gemy.  
+dřevo a sklo než zlato a než gemy.  
 Dlouhá řeč… Z úvah vrátit se je vhod  
-k té první, která nahodila se mi._
+k té první, která nahodila se mi.
 
 </section>
 
 <section>
 
-_Poslední hodina se pro život  
+Poslední hodina se pro život  
 tak krátký a tak slavný přiblížila.  
-S ní děsivý práh, plný nejistot._
+S ní děsivý práh, plný nejistot.
 
 </section>
 
 <section>
 
-_Přišla se podívat i ušlechtilá  
+Přišla se podívat i ušlechtilá  
 družina jiných, dosud živých žen,  
-jestli by Smrt snad lítost pocítila._
+jestli by Smrt snad lítost pocítila.
 
 </section>
 
 <section>
 
-_Ten hlouček chtěl tu také shromážděn  
+Ten hlouček chtěl tu také shromážděn  
 vidět a zvážit konec, který z nás  
-každý vzít musí — ale jednou jen._
+každý vzít musí — ale jednou jen.
 
 </section>
 
 <section>
 
-_Krajanky, přítelkyně… Smrt se zas  
+Krajanky, přítelkyně… Smrt se zas  
 zvedla: Svou rukou vytrhla jí hned  
-ze zářné hlavy jeden zlatý vlas._
+ze zářné hlavy jeden zlatý vlas.
 
 </section>
 
 <section>
 
-_Odňala zemi nejkrásnější květ:  
+Odňala zemi nejkrásnější květ:  
 Ne v zášti — chtěla ukázat dost síly,  
-že i v tom nejvyšším podrobí svět._
+že i v tom nejvyšším podrobí svět.
 
 </section>
 
 <section>
 
-_Nářky a slzy bez konce se lily,  
+Nářky a slzy bez konce se lily,  
 a jen ty její oči suché stály,  
-jež na léta můj žár, zpěv roznítily._
+jež na léta můj žár, zpěv roznítily.
 
 </section>
 
 <section>
 
-_A mezi tolika vzdechy a žaly  
+A mezi tolika vzdechy a žaly  
 jediná sedla mlčky, usměvavá,  
-sklízet už žeň, již počestné dny daly._
+sklízet už žeň, již počestné dny daly.
 
 </section>
 
 <section>
 
-_„Jdi v míru, smrtelná bohyně pravá,“  
+„Jdi v míru, smrtelná bohyně pravá,“  
 jí řekly. Byla jí — leč nezměnila  
-Smrt, jež dbá neúprosně svého práva._
+Smrt, jež dbá neúprosně svého práva.
 
 </section>
 
 <section>
 
-_Co bude z nich, když ona žár, mráz byla  
+Co bude z nich, když ona žár, mráz byla  
 v horečkách za pár nocí tolikrát?  
-Naději lidská — klamná, pošetilá!_
+Naději lidská — klamná, pošetilá!
 
 </section>
 
 <section>
 
-_Déšť mnoha slz v lítosti na zem pad  
+Déšť mnoha slz v lítosti na zem pad  
 pro duši, která je tak vznešená.  
-Kdo viděl, ví; kdo slyšíš, uč se znát!_
+Kdo viděl, ví; kdo slyšíš, uč se znát!
 
 </section>
 
 <section>
 
-_Šestého dubna, kdysi blažená  
+Šestého dubna, kdysi blažená  
 hodina zrána… teď mě zničila.  
-Jak mění sloh života Štěstěna!_
+Jak mění sloh života Štěstěna!
 
 </section>
 
 <section>
 
-_Kdo na otroctví víc kdy vysílá  
+Kdo na otroctví víc kdy vysílá  
 nářků a na smrt než já na svobodu  
-a na život! Kéž mne smrt zhladila!_
+a na život! Kéž mne smrt zhladila!
 
 </section>
 
 <section>
 
-_Mne měla smrt hnát podle roku zrodu  
+Mne měla smrt hnát podle roku zrodu  
 dřív ze světa, když dřív jsem přišel sem,  
-ne vznešenost brát světu bez důvodu._
+ne vznešenost brát světu bez důvodu.
 
 </section>
 
 <section>
 
-_Bez míry byla bolest kolkolem.  
+Bez míry byla bolest kolkolem.  
 Bojím se vzpomínat. Má o tom hlas  
-zpívat? Strach má před veršem, před rýmem._
+zpívat? Strach má před veršem, před rýmem.
 
 </section>
 
 <section>
 
-_„Jsou mrtvy ctnost, půvab a krása krás,“  
+„Jsou mrtvy ctnost, půvab a krása krás,“  
 nad cudným ložem řekly zarmouceně  
-ty krásné paní. „Co se stane z nás?_
+ty krásné paní. „Co se stane z nás?
 
 </section>
 
 <section>
 
-_Kdo uzří ještě dokonalost v ženě?  
+Kdo uzří ještě dokonalost v ženě?  
 Kdo uslyší hovor, jenž moudrost sil,  
-a zpěv, jenž zněl andělsky utěšeně?“_
+a zpěv, jenž zněl andělsky utěšeně?“
 
 </section>
 
 <section>
 
-_Duch paninu krásnou hruď opustil,  
+Duch paninu krásnou hruď opustil,  
 aby v něm její ctnost jak v poustce žila:  
-Rozjasnil nebe tam, kde našel cíl._
+Rozjasnil nebe tam, kde našel cíl.
 
 </section>
 
 <section>
 
-_Zjevit se víc už neopovážila  
+Zjevit se víc už neopovážila  
 nepřátel rota, z níž vždy hrůza žhnula,  
-dokavad Smrt svůj útok neskončila._
+dokavad Smrt svůj útok neskončila.
 
 </section>
 
 <section>
 
-_Ztich pláč a strach; pozorně pohled pnula  
+Ztich pláč a strach; pozorně pohled pnula  
 k ní každá z žen, jež přišly na ta místa. —  
-Jistá — když naděje v svět pominula —_
+Jistá — když naděje v svět pominula —
 
 </section>
 
 <section>
 
-_ne jako plamen, který síla chystá  
+ne jako plamen, který síla chystá  
 se zhasit, leč plamen, jenž sám se stráví,  
-odešla v míru klidná duše čistá._
+odešla v míru klidná duše čistá.
 
 </section>
 
 <section>
 
-_Tak jako když ubývá ohni stravy  
+Tak jako když ubývá ohni stravy  
 a vytrácí se sladký jasný svit…  
-Až do konce měla své vzácné mravy._
+Až do konce měla své vzácné mravy.
 
 </section>
 
 <section>
 
-_Ne zsinalá — bělejší než je svit  
+Ne zsinalá — bělejší než je svit  
 vloček, když v bezvětří vrch zasněžily;  
-byla jak znavená, když najde klid._
+byla jak znavená, když najde klid.
 
 </section>
 
 <section>
 
-_Téměř jak kdyby oči sladce snily,  
+Téměř jak kdyby oči sladce snily,  
 když duch už vysvlečený z těla září:  
-zemřít to nazývají pošetilí._
+zemřít to nazývají pošetilí.
 
 </section>
 
 <section>
 
-_Smrt krásná zdála se v té krásné tváři._
+Smrt krásná zdála se v té krásné tváři.
 
 </section>

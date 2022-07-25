@@ -1,39 +1,37 @@
 ---
-title: ''
-contentType: prose
+title: "V\_nejpustších polích sám jdu v\_myšlenkách\\."
+contentType: poetry
 ---
 
 <section>
 
-V nejpustších polích sám jdu v myšlenkách.
-
-_Kraj měří kroky — volné, zpomalené.  
+Kraj měří kroky — volné, zpomalené.  
 Prchaje mám oči tam zacílené,  
-kde otisk lidských stop nenese prach._
+kde otisk lidských stop nenese prach.
 
 </section>
 
 <section>
 
-_Záchrany bych už jinak nedosáh.  
+Záchrany bych už jinak nedosáh.  
 Vše ve mně bylo by pak odhalené:  
 Když radost pohasla, tu k činům žene,  
-že druzí čtou, jak já jsem zevnitř zprah._
+že druzí čtou, jak já jsem zevnitř zprah.
 
 </section>
 
 <section>
 
-_Tak myslím si, že vědí hory, stráně,  
+Tak myslím si, že vědí hory, stráně,  
 řeky a lesy dnes, z jakého kovu  
-je skut můj život, skrytý ostatním._
+je skut můj život, skrytý ostatním.
 
 </section>
 
 <section>
 
-_Přesto tak drsné cesty, pusté pláně  
+Přesto tak drsné cesty, pusté pláně  
 nenajdu, aby nepřicházel znovu  
-rozprávět Amor se mnou a já s ním._
+rozprávět Amor se mnou a já s ním.
 
 </section>

@@ -1,6 +1,6 @@
 ---
 title: —NA SMRTPANÍ LAURY
-contentType: prose
+contentType: poetry
 ---
 
 

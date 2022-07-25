@@ -1,39 +1,37 @@
 ---
-title: ''
-contentType: prose
+title: Ten slavíček tak sladce oplakává
+contentType: poetry
 ---
 
 <section>
 
-Ten slavíček tak sladce oplakává
-
-_snad mládata, snad družku drahou vším,  
+snad mládata, snad družku drahou vším,  
 až kraj i nebe plní píseň lkavá  
-průzračným sterým tónem slitovným._
+průzračným sterým tónem slitovným.
 
 </section>
 
 <section>
 
-_Celou noc, zdá se, doprovod mi hrává —  
+Celou noc, zdá se, doprovod mi hrává —  
 zlý osud připomíná. Sobě smím  
 jen vinu dát za vše, co oplakávám.  
-Já věřil: smrt nevládne bohyním._
+Já věřil: smrt nevládne bohyním.
 
 </section>
 
 <section>
 
-_Kdo si je jistý, jak se lehko šálí!  
+Kdo si je jistý, jak se lehko šálí!  
 Kdo pomyslil, že světlo očí, záři  
-nad slunce jasnou, země ve tmě zkalí!_
+nad slunce jasnou, země ve tmě zkalí!
 
 </section>
 
 <section>
 
-_Teď vidím, co chce tvrdě sudba dravá.  
+Teď vidím, co chce tvrdě sudba dravá.  
 Nauč se zaživa, se slzou v tváři:  
-Nic dole zde netěší, nezůstává._
+Nic dole zde netěší, nezůstává.
 
 </section>

@@ -1,13 +1,11 @@
 ---
-title: ''
-contentType: prose
+title: Když údělem mých slok
+contentType: poetry
 ---
 
 <section>
 
-Když údělem mých slok
-
-_je mluvit, jak mě nutí touha žhavá,  
+je mluvit, jak mě nutí touha žhavá,  
 jež nutila mě vzdychat bez ustání,  
 Amor, jenž pobodává,  
 ať řídí jako průvodce můj krok  
@@ -20,13 +18,13 @@ Ani můj verš (já trnu a mám strach),
 ač dřív to dokázal,  
 neutlumí ten požár v myšlenkách.  
 Ne — v zvuku slov div už jsem neroztál,  
-jako by člověk z ledu v slunci stál._
+jako by člověk z ledu v slunci stál.
 
 </section>
 
 <section>
 
-_Zprvu jsem uvěřil,  
+Zprvu jsem uvěřil,  
 že v slovech najde moje neskonalá  
 touha snad krátký klid, příměří časem.  
 Ta naděje mi dala  
@@ -40,13 +38,13 @@ Dřív třímal uzdu; teď nestaví hráz.
 Kéž Láska aspoň dá mi  
 tak mluvit, aby — dojde-li můj hlas  
 kdy k uším sladké nepřítelky, paní —  
-ne mně je naklonil, leč slitování._
+ne mně je naklonil, leč slitování.
 
 </section>
 
 <section>
 
-_Pravím: Jestliže kdysi,  
+Pravím: Jestliže kdysi,  
 když oheň pravé cti žhnul myslemi,  
 někteří tu i onde trmáceli  
 se pilně po zemi,  
@@ -60,13 +58,13 @@ mi není třeba přejít, změnit zem…
 K nim běžím, když se chvěji,  
 vždy jsou mi ve všem spásným pramenem.  
 V stavu, kdy předčasně si sám smrt přeji,  
-jen u nich hledám pomoc v beznaději._
+jen u nich hledám pomoc v beznaději.
 
 </section>
 
 <section>
 
-_Jak v noci hlavu stočí  
+Jak v noci hlavu stočí  
 lodivod vysílený vichřicí  
 za dvěma světly, jež vždy z pólu svítí,  
 tak pro mne jen ty oči  
@@ -77,21 +75,21 @@ můj zrak, jak Amor učí, tu a tam,
 než to, co laskavě mi vskutku daly…  
 Pro vše, čím jsem, já malý,  
 jen v nich svou míru ustavičně mám.  
-Od prvních popatření_
+Od prvních popatření
 
 </section>
 
 <section>
 
-_krok k dobrému nenajdu bez nich sám.  
+krok k dobrému nenajdu bez nich sám.  
 Vznes jsem je nad všecko, co duše cení;  
-má vlastní hodnota mi ničím není._
+má vlastní hodnota mi ničím není.
 
 </section>
 
 <section>
 
-_Nikdy bych nedoved  
+Nikdy bych nedoved  
 představit si ten účinek, říc jasně,  
 co jejich pohled v srdci vyvolává.  
 Před ním se tratí, hasne  
@@ -105,13 +103,13 @@ moh hledět, jak v těch očích Láska vládne,
 tak blízko stát bych chtěl!  
 Z hvězd by se v kruzích netočily žádné,  
 na nic bych včetně sebe nemyslel,  
-hleděl a víčky téměř nezachvěl!_
+hleděl a víčky téměř nezachvěl!
 
 </section>
 
 <section>
 
-_Než to, co lze, chci spíš  
+Než to, co lze, chci spíš  
 — běda! — to, čeho srdce nedosáhne,  
 a žiji touhou bez naděje dál.  
 Jen uzel, kterým stáhne  
@@ -125,14 +123,14 @@ odrazit poraněné srdce znova.
 Já zesinám pak tím  
 a nevím sám, kde moje krev se schová,  
 a nezůstanu, čím jsem byl, a vím:  
-Amor mě zabil tímhle zraněním._
+Amor mě zabil tímhle zraněním.
 
 </section>
 
 <section>
 
-_Kancóno, cítím, zemdlévá mi pero  
+Kancóno, cítím, zemdlévá mi pero  
 dlouhým a sladkým rozprávěním; vím,  
-že já v své samomluvě nezemdlím._
+že já v své samomluvě nezemdlím.
 
 </section>

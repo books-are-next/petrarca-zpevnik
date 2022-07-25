@@ -1,6 +1,6 @@
 ---
 title: —TRIUMF ČASU
-contentType: prose
+contentType: poetry
 ---
 
 

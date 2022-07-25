@@ -1,13 +1,11 @@
 ---
-title: ''
-contentType: prose
+title: Že kratičké je žití
+contentType: poetry
 ---
 
 <section>
 
-Že kratičké je žití
-
-_a duch před plánem básně v rozechvění,  
+a duch před plánem básně v rozechvění,  
 na ducha, na život bych málo dal;  
 doufám však v pochopení  
 tam, kam tak toužím, tam, kde musí míti  
@@ -20,13 +18,13 @@ myšlenky, ušlechtilost získá tím;
 teď milostnými křídly  
 zvedám se nad vším nízkým myšlením,  
 vzpínám je a jdu říci, co mi sídlí  
-v srdci — a už v něm dávno v skrytu bydlí._
+v srdci — a už v něm dávno v skrytu bydlí.
 
 </section>
 
 <section>
 
-_Já postřeh dobře: Skrovná  
+Já postřeh dobře: Skrovná  
 slova mé chvály nepostačí vám;  
 nejsem však v ničem schopen odpírat  
 touze, již v sobě mám  
@@ -40,13 +38,13 @@ aby se dotklo vás, že jsem tak malý.
 Ta bázeň kdyby z čiv  
 žár nevyhnala, když mě příliš pálí,  
 rád zhynu. Když jsem u vás, kdykoliv,  
-spíš bych chtěl zemřít než být bez vás živ._
+spíš bych chtěl zemřít než být bez vás živ.
 
 </section>
 
 <section>
 
-_Nerozmělním se v prach —  
+Nerozmělním se v prach —  
 pro mocný oheň předmět příliš křehký?  
 Není mou zásluhou, že žiji dál.  
 Strach způsobí to lehký,  
@@ -60,13 +58,13 @@ Být zde je zkáza, útěk pomoc není.
 Leč kdyby větší strach  
 mě nebrzdil, po konci bez prodlení  
 bych odhodlaně sáh v zlých útrapách:  
-a vinna je ta, která nedbá, ach!_
+a vinna je ta, která nedbá, ach!
 
 </section>
 
 <section>
 
-_Strázně, proč svádíte  
+Strázně, proč svádíte  
 z cesty můj krok, že co říct nechci, říkám?  
 Pusťte mě, kam mě žene moje přání!  
 Na vás už nenaříkám,  
@@ -80,13 +78,13 @@ v moci, již nasbíral z vás — získal vámi.
 Blažené, šťastné tak…  
 Jen škoda, že se nevidíte samy!  
 Leč jak se na mne soustředí váš zrak,  
-čím jste, vy na mně poznáváte pak._
+čím jste, vy na mně poznáváte pak.
 
 </section>
 
 <section>
 
-_Kdyby vám známé byly  
+Kdyby vám známé byly  
 ty vaše neuvěřitelné krásy,  
 božské, jak zná je jenom, kdo je vidí,  
 co radosti by asi  
@@ -100,13 +98,13 @@ dáváte, čeho nejsem nikdy syt?
 Proč nic nevede vás  
 častěji shlédnout, jak jsem Láskou zbit?  
 A proč mi odnímáte zas a zas  
-dobro, jež někdy duši znát dá čas?_
+dobro, jež někdy duši znát dá čas?
 
 </section>
 
 <section>
 
-_Říkám, že leckdy vaší  
+Říkám, že leckdy vaší  
 milostí v duši, v jejích kořenech  
 neobvyklou a novou sladkost cítím.  
 Zbaví mě břemen všech  
@@ -120,13 +118,13 @@ závist a ve mně pýchu vyvolala.
 Leč takový je svět:  
 Největším smíchem chví chuť pláče stálá.  
 Odvraťte se už, oči, zhaste vznět,  
-ať mohu sám o sobě přemýšlet!_
+ať mohu sám o sobě přemýšlet!
 
 </section>
 
 <section>
 
-_Myšlenka láskyplná,  
+Myšlenka láskyplná,  
 již nosím v srdci, se mi odhalila  
 ve vás a zaplašila všecky jiné  
 radosti. Slova, díla  
@@ -140,14 +138,14 @@ myšlenky nepřehnou, zůstanou ve mně.
 Když někdy schopnost mám  
 krásný plod zrodit, ve vás klíčí sémě.  
 Jsem téměř zprahlá půda sebou sám.  
-Vy pěstíte — zásluha patří vám._
+Vy pěstíte — zásluha patří vám.
 
 </section>
 
 <section>
 
-_Kancóno, netišíš, leč vzněcuješ  
+Kancóno, netišíš, leč vzněcuješ  
 řeč o nich, jež mi duši odnímají.  
-Buď jistá však: Další zpěv se v ní tají._
+Buď jistá však: Další zpěv se v ní tají.
 
 </section>

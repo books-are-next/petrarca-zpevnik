@@ -1,39 +1,37 @@
 ---
-title: ''
-contentType: prose
+title: "Zlomen laur svěží i\_sloup kolonád,"
+contentType: poetry
 ---
 
 <section>
 
-Zlomen laur svěží i sloup kolonád,
-
-_jež skýtaly mdlé mysli stín a klid.  
+jež skýtaly mdlé mysli stín a klid.  
 Nedoufám, že mi může nahradit  
-Jih, Sever, Západ, Východ díl těch ztrát._
+Jih, Sever, Západ, Východ díl těch ztrát.
 
 </section>
 
 <section>
 
-_Tebou mi, Smrti, dvojí poklad vzat,  
+Tebou mi, Smrti, dvojí poklad vzat,  
 jenž dával blaze žít a pyšně jít.  
 Může to zem, trůn říše nahradit?  
-Šperk Orientu a moc zlata dát?_
+Šperk Orientu a moc zlata dát?
 
 </section>
 
 <section>
 
-_Leč jestli je to osudem tak dáno,  
+Leč jestli je to osudem tak dáno,  
 co mohu mít než smutnou duši, vzhled,  
-tvář skloněnou, oči, z nichž slzy kanou?_
+tvář skloněnou, oči, z nichž slzy kanou?
 
 </section>
 
 <section>
 
-_Živote náš, tak krásný napohled,  
+Živote náš, tak krásný napohled,  
 jak lehce ztratíš za jediné ráno,  
-co klopotně získáváš tolik let!_
+co klopotně získáváš tolik let!
 
 </section>
