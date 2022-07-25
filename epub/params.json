@@ -96,8 +96,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Jacob Burckhardt - Italská renesanční kultura"
+            "title": "",
+            "children": []
           },
           {
             "filename": "zpevnik_006.md",
@@ -122,8 +122,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Jacob Burckhardt - Italská renesanční kultura"
+            "title": "",
+            "children": []
           },
           {
             "filename": "zpevnik_008.md",
@@ -146,9 +146,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Voi ch‘ ascoltate in rime sparse il suono ..."
+                "hiddenTitle": true,
+                "title": "Voi ch‘ ascoltate in rime sparse il suono ...",
+                "children": []
               },
               {
                 "filename": "zpevnik_010.md",
@@ -159,9 +159,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Čtenáři, až v mých rýmech zaslechneš "
+                "hiddenTitle": true,
+                "title": "Čtenáři, až v mých rýmech zaslechneš ",
+                "children": []
               },
               {
                 "filename": "zpevnik_011.md",
@@ -172,9 +172,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": true,
-                "children": [],
-                "title": "Gaspare Gozzi - Gazzetta veneta"
+                "hiddenTitle": false,
+                "title": "",
+                "children": []
               },
               {
                 "filename": "zpevnik_012.md",
@@ -185,9 +185,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Odhalit závoj v slunci nebo v stínu "
+                "hiddenTitle": true,
+                "title": "Odhalit závoj v slunci nebo v stínu ",
+                "children": []
               },
               {
                 "filename": "zpevnik_013.md",
@@ -198,9 +198,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Ubohé oči, otáčím vás zpět"
+                "hiddenTitle": true,
+                "title": "Ubohé oči, otáčím vás zpět",
+                "children": []
               },
               {
                 "filename": "zpevnik_014.md",
@@ -211,9 +211,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Jde stařeček, vlasy jak sníh, je bílý,"
+                "hiddenTitle": true,
+                "title": "Jde stařeček, vlasy jak sníh, je bílý,",
+                "children": []
               },
               {
                 "filename": "zpevnik_015.md",
@@ -224,9 +224,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": true,
-                "children": [],
-                "title": "Dante - Ráj, zpěv XXXI"
+                "hiddenTitle": false,
+                "title": "",
+                "children": []
               },
               {
                 "filename": "zpevnik_016.md",
@@ -237,9 +237,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Pro všecky tvory, které hostí země"
+                "hiddenTitle": true,
+                "title": "Pro všecky tvory, které hostí země",
+                "children": []
               },
               {
                 "filename": "zpevnik_017.md",
@@ -250,9 +250,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Čím spěji blíž k chvíli, kdy krajní den"
+                "hiddenTitle": true,
+                "title": "Čím spěji blíž k chvíli, kdy krajní den",
+                "children": []
               },
               {
                 "filename": "zpevnik_018.md",
@@ -263,9 +263,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "V nejpustších polích sám jdu v myšlenkách."
+                "hiddenTitle": true,
+                "title": "V nejpustších polích sám jdu v myšlenkách.",
+                "children": []
               },
               {
                 "filename": "zpevnik_019.md",
@@ -276,9 +276,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": true,
-                "children": [],
-                "title": "Citáty - Tibullus & Petrarca"
+                "hiddenTitle": false,
+                "title": "",
+                "children": []
               },
               {
                 "filename": "zpevnik_020.md",
@@ -289,9 +289,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Diana milenci se nelíbila"
+                "hiddenTitle": true,
+                "title": "Diana milenci se nelíbila",
+                "children": []
               },
               {
                 "filename": "zpevnik_021.md",
@@ -302,9 +302,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Vznešený duchu, který řídíš údy,"
+                "hiddenTitle": true,
+                "title": "Vznešený duchu, který řídíš údy,",
+                "children": []
               },
               {
                 "filename": "zpevnik_022.md",
@@ -316,8 +316,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Jacob Burckhardt - Italská renesanční kultura"
+                "title": "",
+                "children": []
               },
               {
                 "filename": "zpevnik_023.md",
@@ -328,9 +328,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Nebeský Otče, po ztracených dnech,"
+                "hiddenTitle": true,
+                "title": "Nebeský Otče, po ztracených dnech,",
+                "children": []
               },
               {
                 "filename": "zpevnik_024.md",
@@ -341,9 +341,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Zrak jste k mé nové barvě obrátila,"
+                "hiddenTitle": true,
+                "title": "Zrak jste k mé nové barvě obrátila,",
+                "children": []
               },
               {
                 "filename": "zpevnik_025.md",
@@ -354,9 +354,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": true,
-                "children": [],
-                "title": "Dopis Giacomu Colonnovi"
+                "hiddenTitle": false,
+                "title": "",
+                "children": []
               },
               {
                 "filename": "zpevnik_026.md",
@@ -367,9 +367,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Vzduch plný par a dotěravá mlha,"
+                "hiddenTitle": true,
+                "title": "Vzduch plný par a dotěravá mlha,",
+                "children": []
               },
               {
                 "filename": "zpevnik_027.md",
@@ -380,9 +380,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": true,
-                "children": [],
-                "title": "Jacob Burckhardt - Italská renesanční kultura"
+                "hiddenTitle": false,
+                "title": "",
+                "children": []
               },
               {
                 "filename": "zpevnik_028.md",
@@ -393,9 +393,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Že kratičké je žití"
+                "hiddenTitle": true,
+                "title": "Že kratičké je žití",
+                "children": []
               },
               {
                 "filename": "zpevnik_029.md",
@@ -406,9 +406,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": true,
-                "children": [],
-                "title": "Jean Lemaire De Belges - O shodě obou jazyků"
+                "hiddenTitle": false,
+                "title": "",
+                "children": []
               },
               {
                 "filename": "zpevnik_030.md",
@@ -419,9 +419,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Vidím, má vzácná paní,"
+                "hiddenTitle": true,
+                "title": "Vidím, má vzácná paní,",
+                "children": []
               },
               {
                 "filename": "zpevnik_031.md",
@@ -432,9 +432,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": true,
-                "children": [],
-                "title": "Joachim Du Bellay - Proti petrarkistům"
+                "hiddenTitle": false,
+                "title": "",
+                "children": []
               },
               {
                 "filename": "zpevnik_032.md",
@@ -445,9 +445,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Když údělem mých slok"
+                "hiddenTitle": true,
+                "title": "Když údělem mých slok",
+                "children": []
               },
               {
                 "filename": "zpevnik_033.md",
@@ -458,9 +458,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": true,
-                "children": [],
-                "title": "Milota Zdirad Polák - Cesta do Itálie, 1820–22"
+                "hiddenTitle": false,
+                "title": "",
+                "children": []
               },
               {
                 "filename": "zpevnik_034.md",
@@ -471,9 +471,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Toho, kdo pevně rozhod se hnát život"
+                "hiddenTitle": true,
+                "title": "Toho, kdo pevně rozhod se hnát život",
+                "children": []
               },
               {
                 "filename": "zpevnik_035.md",
@@ -484,9 +484,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": true,
-                "children": [],
-                "title": "Žalm 38,5"
+                "hiddenTitle": false,
+                "title": "",
+                "children": []
               },
               {
                 "filename": "zpevnik_036.md",
@@ -497,9 +497,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Pod tíží dávných pout už tak jsem zmdlel"
+                "hiddenTitle": true,
+                "title": "Pod tíží dávných pout už tak jsem zmdlel",
+                "children": []
               },
               {
                 "filename": "zpevnik_037.md",
@@ -510,9 +510,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": true,
-                "children": [],
-                "title": "Evangelium sv. Matouše 11,28"
+                "hiddenTitle": false,
+                "title": "",
+                "children": []
               },
               {
                 "filename": "zpevnik_038.md",
@@ -523,9 +523,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Rozvíval kdysi vánek zlaté vlasy"
+                "hiddenTitle": true,
+                "title": "Rozvíval kdysi vánek zlaté vlasy",
+                "children": []
               },
               {
                 "filename": "zpevnik_040.md",
@@ -536,9 +536,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": true,
-                "children": [],
-                "title": "To, co cítí Heloisa pro Abelarda ..."
+                "hiddenTitle": false,
+                "title": "",
+                "children": []
               },
               {
                 "filename": "zpevnik_039.md",
@@ -549,9 +549,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Překrásná žena, jižs tak miloval,"
+                "hiddenTitle": true,
+                "title": "Překrásná žena, jižs tak miloval,",
+                "children": []
               },
               {
                 "filename": "zpevnik_041.md",
@@ -562,9 +562,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "To okno, v kterém jedno slunce svítí,"
+                "hiddenTitle": true,
+                "title": "To okno, v kterém jedno slunce svítí,",
+                "children": []
               },
               {
                 "filename": "zpevnik_042.md",
@@ -575,9 +575,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Hannibal zvítězil a nedoved"
+                "hiddenTitle": true,
+                "title": "Hannibal zvítězil a nedoved",
+                "children": []
               },
               {
                 "filename": "zpevnik_043.md",
@@ -588,9 +588,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": true,
-                "children": [],
-                "title": "Listy Stefanovi Colonnovi mladšímu"
+                "hiddenTitle": false,
+                "title": "",
+                "children": []
               },
               {
                 "filename": "zpevnik_044.md",
@@ -601,9 +601,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Jak nový andílek se obezřelá"
+                "hiddenTitle": true,
+                "title": "Jak nový andílek se obezřelá",
+                "children": []
               },
               {
                 "filename": "zpevnik_045.md",
@@ -614,9 +614,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Teď vidíš, Amore: mladinká paní"
+                "hiddenTitle": true,
+                "title": "Teď vidíš, Amore: mladinká paní",
+                "children": []
               },
               {
                 "filename": "zpevnik_046.md",
@@ -627,9 +627,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Svite svěžích sladkých vod,"
+                "hiddenTitle": true,
+                "title": "Svite svěžích sladkých vod,",
+                "children": []
               },
               {
                 "filename": "zpevnik_047.md",
@@ -641,8 +641,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Georg Wilhelm Friedrich Hegel - Estetika"
+                "title": "",
+                "children": []
               },
               {
                 "filename": "zpevnik_048.md",
@@ -653,9 +653,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Má Itálie, třeba slova marná"
+                "hiddenTitle": true,
+                "title": "Má Itálie, třeba slova marná",
+                "children": []
               },
               {
                 "filename": "zpevnik_049.md",
@@ -667,8 +667,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Dopis benátskému dóžeti Andreovi Dandolovi za bojů Benátek s Janovem"
+                "title": "",
+                "children": []
               },
               {
                 "filename": "zpevnik_050.md",
@@ -679,9 +679,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Z myšlenky k myšlence, z hor k horám sám"
+                "hiddenTitle": true,
+                "title": "Z myšlenky k myšlence, z hor k horám sám",
+                "children": []
               },
               {
                 "filename": "zpevnik_051.md",
@@ -692,9 +692,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Mír nenacházím, k válce síla není."
+                "hiddenTitle": true,
+                "title": "Mír nenacházím, k válce síla není.",
+                "children": []
               },
               {
                 "filename": "zpevnik_052.md",
@@ -705,9 +705,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Dští oheň z nebes, děvko, na tvůj vlas."
+                "hiddenTitle": true,
+                "title": "Dští oheň z nebes, děvko, na tvůj vlas.",
+                "children": []
               },
               {
                 "filename": "zpevnik_053.md",
@@ -718,9 +718,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Lakotný Bábel pytel zlořádu,"
+                "hiddenTitle": true,
+                "title": "Lakotný Bábel pytel zlořádu,",
+                "children": []
               },
               {
                 "filename": "zpevnik_054.md",
@@ -731,9 +731,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Studnice bolesti, hospodo zlosti,"
+                "hiddenTitle": true,
+                "title": "Studnice bolesti, hospodo zlosti,",
+                "children": []
               },
               {
                 "filename": "zpevnik_055.md",
@@ -745,8 +745,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Listy"
+                "title": "",
+                "children": []
               },
               {
                 "filename": "zpevnik_056.md",
@@ -757,9 +757,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Čas od času není tak odmítavá"
+                "hiddenTitle": true,
+                "title": "Čas od času není tak odmítavá",
+                "children": []
               },
               {
                 "filename": "zpevnik_057.md",
@@ -770,9 +770,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "„Co přijde, duše? Mluv, abych to znal!"
+                "hiddenTitle": true,
+                "title": "„Co přijde, duše? Mluv, abych to znal!",
+                "children": []
               },
               {
                 "filename": "zpevnik_058.md",
@@ -783,9 +783,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Nyní, kdy mlčí vítr, nebe, zem"
+                "hiddenTitle": true,
+                "title": "Nyní, kdy mlčí vítr, nebe, zem",
+                "children": []
               },
               {
                 "filename": "zpevnik_059.md",
@@ -797,8 +797,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Vergilius - Aeneis"
+                "title": "",
+                "children": []
               },
               {
                 "filename": "zpevnik_060.md",
@@ -809,9 +809,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Jakmile bílá noha v svěží trávě"
+                "hiddenTitle": true,
+                "title": "Jakmile bílá noha v svěží trávě",
+                "children": []
               },
               {
                 "filename": "zpevnik_061.md",
@@ -822,9 +822,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Jdu v nehostinném, divokém, zlém lese,"
+                "hiddenTitle": true,
+                "title": "Jdu v nehostinném, divokém, zlém lese,",
+                "children": []
               },
               {
                 "filename": "zpevnik_062.md",
@@ -836,8 +836,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "List kardinálu Giovannimu Colonnovi "
+                "title": "",
+                "children": []
               },
               {
                 "filename": "zpevnik_063.md",
@@ -848,9 +848,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Má loď zapomenutí plná pluje"
+                "hiddenTitle": true,
+                "title": "Má loď zapomenutí plná pluje",
+                "children": []
               },
               {
                 "filename": "zpevnik_064.md",
@@ -861,9 +861,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Komůrko, tys mě kdysi uchránila"
+                "hiddenTitle": true,
+                "title": "Komůrko, tys mě kdysi uchránila",
+                "children": []
               },
               {
                 "filename": "zpevnik_065.md",
@@ -874,9 +874,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Neznají tolik tvorů mořské vlny"
+                "hiddenTitle": true,
+                "title": "Neznají tolik tvorů mořské vlny",
+                "children": []
               },
               {
                 "filename": "zpevnik_066.md",
@@ -888,8 +888,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Francesco De Sanctis - Kritika Petrarky"
+                "title": "",
+                "children": []
               },
               {
                 "filename": "zpevnik_067.md",
@@ -900,7 +900,7 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
+                "hiddenTitle": true,
                 "title": "Na smrt paní Laury",
                 "children": []
               },
@@ -913,9 +913,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Co já mám dělat? Co teď, lásko má?"
+                "hiddenTitle": true,
+                "title": "Co já mám dělat? Co teď, lásko má?",
+                "children": []
               },
               {
                 "filename": "zpevnik_069.md",
@@ -927,8 +927,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Pertrarkův vlastnoruční zápis v jeho kodexu Vergilia"
+                "title": "Pertrarkův vlastnoruční zápis v jeho kodexu Vergilia",
+                "children": []
               },
               {
                 "filename": "zpevnik_070.md",
@@ -939,9 +939,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Zlomen laur svěží i sloup kolonád,"
+                "hiddenTitle": true,
+                "title": "Zlomen laur svěží i sloup kolonád,",
+                "children": []
               },
               {
                 "filename": "zpevnik_071.md",
@@ -952,9 +952,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Život nám utíká a nezastaví"
+                "hiddenTitle": true,
+                "title": "Život nám utíká a nezastaví",
+                "children": []
               },
               {
                 "filename": "zpevnik_072.md",
@@ -966,8 +966,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Georg Wilhelm Friedrich Hegel - Estetika"
+                "title": "\n",
+                "children": []
               },
               {
                 "filename": "zpevnik_073.md",
@@ -978,9 +978,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Když nářek ptáků nebo sladký šum"
+                "hiddenTitle": true,
+                "title": "Když nářek ptáků nebo sladký šum",
+                "children": []
               },
               {
                 "filename": "zpevnik_074.md",
@@ -991,9 +991,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Ty oči, o nichž jsem tak vroucné psal,"
+                "hiddenTitle": true,
+                "title": "Ty oči, o nichž jsem tak vroucné psal,",
+                "children": []
               },
               {
                 "filename": "zpevnik_075.md",
@@ -1004,9 +1004,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Vznesla mě mysl tam, kde ona byla,"
+                "hiddenTitle": true,
+                "title": "Vznesla mě mysl tam, kde ona byla,",
+                "children": []
               },
               {
                 "filename": "zpevnik_076.md",
@@ -1017,9 +1017,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": true,
-                "children": [],
-                "title": "Bernard z Clairvaux - O rozjímání"
+                "hiddenTitle": false,
+                "title": "\n",
+                "children": []
               },
               {
                 "filename": "zpevnik_077.md",
@@ -1030,9 +1030,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Ten slavíček tak sladce oplakává"
+                "hiddenTitle": true,
+                "title": "Ten slavíček tak sladce oplakává",
+                "children": []
               },
               {
                 "filename": "zpevnik_078.md",
@@ -1043,9 +1043,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": true,
-                "children": [],
-                "title": "Vergilius - Zpěvy rolnické"
+                "hiddenTitle": false,
+                "title": "",
+                "children": []
               },
               {
                 "filename": "zpevnik_079.md",
@@ -1056,9 +1056,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Lásko, když ve mně kvetla"
+                "hiddenTitle": true,
+                "title": "Lásko, když ve mně kvetla",
+                "children": []
               },
               {
                 "filename": "zpevnik_080.md",
@@ -1069,9 +1069,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Amor mě držel jednadvacet let,"
+                "hiddenTitle": true,
+                "title": "Amor mě držel jednadvacet let,",
+                "children": []
               },
               {
                 "filename": "zpevnik_081.md",
@@ -1082,9 +1082,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "Jdu, oplakávám svoje prošlé časy."
+                "hiddenTitle": true,
+                "title": "Jdu, oplakávám svoje prošlé časy.",
+                "children": []
               },
               {
                 "filename": "zpevnik_082.md",
@@ -1095,9 +1095,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": true,
-                "children": [],
-                "title": "Natalino Sapegno - Francesco Petrarca"
+                "hiddenTitle": false,
+                "title": "",
+                "children": []
               }
             ]
           },
@@ -1122,7 +1122,7 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
+                "hiddenTitle": true,
                 "title": "Triumf smrti (První kapitola)",
                 "children": []
               },
@@ -1135,9 +1135,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": true,
-                "children": [],
-                "title": "Jan Kollár - Cestopis I"
+                "hiddenTitle": false,
+                "title": "",
+                "children": []
               },
               {
                 "filename": "zpevnik_086.md",
@@ -1161,7 +1161,7 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
+                "hiddenTitle": true,
                 "title": "Triumf času (Závěr)",
                 "children": []
               },
@@ -1174,9 +1174,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": true,
-                "children": [],
-                "title": "Salvatore Quasimodo - Současná poezie"
+                "hiddenTitle": false,
+                "title": "",
+                "children": []
               }
             ]
           },
@@ -1893,6 +1893,6 @@
       "user": "books-are-next",
       "repo": "petrarca-zpevnik"
     },
-    "generatedAt": 1658739010513
+    "generatedAt": 1658742886532
   }
 }
