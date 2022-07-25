@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Z myšlenky k myšlence, z hor k horám sám
+_Z myšlenky k myšlence, z hor k horám sám_
 
 jdu veden Láskou; cestou prošlapanou  
 se odmítám dát pro klid svého žití.  

@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Komůrko, tys mě kdysi uchránila
+_Komůrko, tys mě kdysi uchránila_
 
 jak přístav z všech mých těžkých bouří denních,  
 nyní jsi pramenem slz po setmění,  

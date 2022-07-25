@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Pod tíží dávných pout už tak jsem zmdlel
+_Pod tíží dávných pout už tak jsem zmdlel_
 
 ze všech svých vin a mravů v bezbožnosti,  
 že zmást se v cestě strach mám víc než dosti:  

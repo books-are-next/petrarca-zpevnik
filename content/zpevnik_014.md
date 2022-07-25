@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Jde stařeček, vlasy jak sníh, je bílý,
+_Jde stařeček, vlasy jak sníh, je bílý,_
 
 ze sladkých míst, kde věk svůj naplnil,  
 od rodinky, které jen strach už zbyl,  

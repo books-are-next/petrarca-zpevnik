@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Vznesla mě mysl tam, kde ona byla,
+_Vznesla mě mysl tam, kde ona byla,_
 
 již hledám, nenajdu už po vší zemi.  
 Zas jsem ji viděl v třetím kruhu s všemi,  

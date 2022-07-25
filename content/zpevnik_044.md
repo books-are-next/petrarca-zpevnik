@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Jak nový andílek se obezřelá
+_Jak nový andílek se obezřelá_
 
 na křídlech snesla na zelený břeh,  
 kam osud procházkou mě zaved právě.  

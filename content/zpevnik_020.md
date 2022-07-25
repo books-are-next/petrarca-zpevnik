@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Diana milenci se nelíbila
+_Diana milenci se nelíbila_
 
 víc, když ji nečekaně viděl stát  
 v ledové vodě — celá nahá byla —,  

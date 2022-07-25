@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Jdu v nehostinném, divokém, zlém lese,
+_Jdu v nehostinném, divokém, zlém lese,_
 
 zrádném i pro korouhve v plné zbrani.  
 A jistě jdu. Strach nic mi nenahání,  

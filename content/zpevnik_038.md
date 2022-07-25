@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Rozvíval kdysi vánek zlaté vlasy
+_Rozvíval kdysi vánek zlaté vlasy_
 
 a v tisíc sladkých uzlů zaplétal;  
 nad všechnu míru v krásných očích plál  

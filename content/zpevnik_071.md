@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Život nám utíká a nezastaví
+_Život nám utíká a nezastaví_
 
 se hodinku. Smrt kráčí bez ustání,  
 dnešek a včerejšek jsou věčné štvaní  

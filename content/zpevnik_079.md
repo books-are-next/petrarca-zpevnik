@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Lásko, když ve mně kvetla
+_Lásko, když ve mně kvetla_
 
 naděje v milost, víra vrchovatá,  
 ta, v kterou doufal jsem, mi byla vzata.

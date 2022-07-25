@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Čtenáři, až v mých rýmech zaslechneš
+_Čtenáři, až v mých rýmech zaslechneš_
 
 hlas vzdechů, jež jsem v srdci hřál a střeh  
 v svých pošetilých prvních mladých snech,  

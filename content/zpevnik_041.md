@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-To okno, v kterém jedno slunce svítí,
+_To okno, v kterém jedno slunce svítí,_
 
 kdy se mu chce, a druhé za poledne,  
 a to, jež — sotva severák se zvedne  

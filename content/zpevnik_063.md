@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Má loď zapomenutí plná pluje
+_Má loď zapomenutí plná pluje_
 
 po drsném moři zimní půlnocí tu  
 mezi vír Charybdy a Skyllu v skrytu.  

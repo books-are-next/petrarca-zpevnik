@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Překrásná žena, jižs tak miloval,
+_Překrásná žena, jižs tak miloval,_
 
 až překotně se od nás odloučila  
 a na nebe, jak doufám, vystoupila:  

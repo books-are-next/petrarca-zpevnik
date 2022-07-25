@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-Studnice bolesti, hospodo zlosti,
+_Studnice bolesti, hospodo zlosti,_
 
 kurie kacířství a omylů sta!  
 Dřív Roma, dnes spoušť Babylónu pustá,  
