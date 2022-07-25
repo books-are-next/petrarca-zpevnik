@@ -1,5 +1,6 @@
 ---
 title: Lásko, když ve mně kvetla
+hiddenTitle: true
 contentType: poetry
 ---
 

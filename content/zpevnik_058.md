@@ -1,5 +1,6 @@
 ---
 title: Nyní, kdy mlčí vítr, nebe, zem
+hiddenTitle: true
 contentType: poetry
 ---
 

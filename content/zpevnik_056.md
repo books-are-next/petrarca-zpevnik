@@ -1,5 +1,6 @@
 ---
 title: Čas od času není tak odmítavá
+hiddenTitle: true
 contentType: poetry
 ---
 

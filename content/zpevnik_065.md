@@ -1,5 +1,6 @@
 ---
 title: Neznají tolik tvorů mořské vlny
+hiddenTitle: true
 contentType: poetry
 ---
 

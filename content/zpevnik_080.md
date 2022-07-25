@@ -1,5 +1,6 @@
 ---
 title: Amor mě držel jednadvacet let,
+hiddenTitle: true
 contentType: poetry
 ---
 

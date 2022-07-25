@@ -1,5 +1,6 @@
 ---
 title: Pro všecky tvory, které hostí země
+hiddenTitle: true
 contentType: poetry
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Vidím, má vzácná paní,
+hiddenTitle: true
 contentType: poetry
 ---
 

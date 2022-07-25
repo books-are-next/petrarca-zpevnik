@@ -1,5 +1,6 @@
 ---
 title: Ten slavíček tak sladce oplakává
+hiddenTitle: true
 contentType: poetry
 ---
 

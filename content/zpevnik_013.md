@@ -1,5 +1,6 @@
 ---
 title: Ubohé oči, otáčím vás zpět
+hiddenTitle: true
 contentType: poetry
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 'Teď vidíš, Amore: mladinká paní'
+hiddenTitle: true
 contentType: poetry
 ---
 

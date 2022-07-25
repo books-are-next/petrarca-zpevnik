@@ -1,5 +1,6 @@
 ---
 title: Nebeský Otče, po ztracených dnech,
+hiddenTitle: true
 contentType: poetry
 ---
 

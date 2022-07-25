@@ -1,5 +1,6 @@
 ---
 title: "Vzduch plný par a\_dotěravá mlha,"
+hiddenTitle: true
 contentType: poetry
 ---
 

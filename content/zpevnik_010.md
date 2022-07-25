@@ -1,5 +1,6 @@
 ---
 title: "Čtenáři, až v\_mých rýmech zaslechneš"
+hiddenTitle: true
 contentType: poetry
 ---
 

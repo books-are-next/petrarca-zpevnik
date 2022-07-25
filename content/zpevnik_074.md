@@ -1,5 +1,6 @@
 ---
 title: "Ty oči, o\_nichž jsem tak vroucné psal,"
+hiddenTitle: true
 contentType: poetry
 ---
 

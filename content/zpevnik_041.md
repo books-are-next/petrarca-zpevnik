@@ -1,5 +1,6 @@
 ---
 title: "To okno, v\_kterém jedno slunce svítí,"
+hiddenTitle: true
 contentType: poetry
 ---
 

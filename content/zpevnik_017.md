@@ -1,5 +1,6 @@
 ---
 title: "Čím spěji blíž k\_chvíli, kdy krajní den"
+hiddenTitle: true
 contentType: poetry
 ---
 

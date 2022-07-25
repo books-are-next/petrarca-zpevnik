@@ -1,5 +1,6 @@
 ---
 title: "V\_nejpustších polích sám jdu v\_myšlenkách\\."
+hiddenTitle: true
 contentType: poetry
 ---
 

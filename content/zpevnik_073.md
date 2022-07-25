@@ -1,5 +1,6 @@
 ---
 title: Když nářek ptáků nebo sladký šum
+hiddenTitle: true
 contentType: poetry
 ---
 

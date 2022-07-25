@@ -1,5 +1,6 @@
 ---
 title: Komůrko, tys mě kdysi uchránila
+hiddenTitle: true
 contentType: poetry
 ---
 

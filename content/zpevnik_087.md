@@ -1,5 +1,6 @@
 ---
 title: /Závěr/
+hiddenTitle: true
 contentType: poetry
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Vznesla mě mysl tam, kde ona byla,
+hiddenTitle: true
 contentType: poetry
 ---
 
