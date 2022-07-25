@@ -106,14 +106,8 @@ readingOrder:
 tocBase:
   - id: section-1
     children:
-      - link: zpevnik_005.html
-        title: Jacob Burckhardt - Italská renesanční kultura
-        hiddenTitle: false
       - link: zpevnik_006.html
         title: Francesco Petrarca Potomkům
-        hiddenTitle: false
-      - link: zpevnik_007.html
-        title: Jacob Burckhardt - Italská renesanční kultura
         hiddenTitle: false
       - link: zpevnik_008.html
         title: ZPĚVNÍK — Na život paní Laury
@@ -121,227 +115,164 @@ tocBase:
         children:
           - link: zpevnik_009.html
             title: Voi ch‘ ascoltate in rime sparse il suono ...
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_010.html
             title: 'Čtenáři, až v mých rýmech zaslechneš '
-            hiddenTitle: false
-          - link: zpevnik_011.html
-            title: Gaspare Gozzi - Gazzetta veneta
             hiddenTitle: true
           - link: zpevnik_012.html
             title: 'Odhalit závoj v slunci nebo v stínu '
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_013.html
             title: Ubohé oči, otáčím vás zpět
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_014.html
             title: Jde stařeček, vlasy jak sníh, je bílý,
-            hiddenTitle: false
-          - link: zpevnik_015.html
-            title: Dante - Ráj, zpěv XXXI
             hiddenTitle: true
           - link: zpevnik_016.html
             title: Pro všecky tvory, které hostí země
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_017.html
             title: Čím spěji blíž k chvíli, kdy krajní den
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_018.html
             title: V nejpustších polích sám jdu v myšlenkách.
-            hiddenTitle: false
-          - link: zpevnik_019.html
-            title: Citáty - Tibullus & Petrarca
             hiddenTitle: true
           - link: zpevnik_020.html
             title: Diana milenci se nelíbila
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_021.html
             title: Vznešený duchu, který řídíš údy,
-            hiddenTitle: false
-          - link: zpevnik_022.html
-            title: Jacob Burckhardt - Italská renesanční kultura
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_023.html
             title: Nebeský Otče, po ztracených dnech,
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_024.html
             title: Zrak jste k mé nové barvě obrátila,
-            hiddenTitle: false
-          - link: zpevnik_025.html
-            title: Dopis Giacomu Colonnovi
             hiddenTitle: true
           - link: zpevnik_026.html
             title: Vzduch plný par a dotěravá mlha,
-            hiddenTitle: false
-          - link: zpevnik_027.html
-            title: Jacob Burckhardt - Italská renesanční kultura
             hiddenTitle: true
           - link: zpevnik_028.html
             title: Že kratičké je žití
-            hiddenTitle: false
-          - link: zpevnik_029.html
-            title: Jean Lemaire De Belges - O shodě obou jazyků
             hiddenTitle: true
           - link: zpevnik_030.html
             title: Vidím, má vzácná paní,
-            hiddenTitle: false
-          - link: zpevnik_031.html
-            title: Joachim Du Bellay - Proti petrarkistům
             hiddenTitle: true
           - link: zpevnik_032.html
             title: Když údělem mých slok
-            hiddenTitle: false
-          - link: zpevnik_033.html
-            title: Milota Zdirad Polák - Cesta do Itálie, 1820–22
             hiddenTitle: true
           - link: zpevnik_034.html
             title: Toho, kdo pevně rozhod se hnát život
-            hiddenTitle: false
-          - link: zpevnik_035.html
-            title: Žalm 38,5
             hiddenTitle: true
           - link: zpevnik_036.html
             title: Pod tíží dávných pout už tak jsem zmdlel
-            hiddenTitle: false
-          - link: zpevnik_037.html
-            title: Evangelium sv. Matouše 11,28
             hiddenTitle: true
           - link: zpevnik_038.html
             title: Rozvíval kdysi vánek zlaté vlasy
-            hiddenTitle: false
-          - link: zpevnik_040.html
-            title: To, co cítí Heloisa pro Abelarda ...
             hiddenTitle: true
           - link: zpevnik_039.html
             title: Překrásná žena, jižs tak miloval,
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_041.html
             title: To okno, v kterém jedno slunce svítí,
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_042.html
             title: Hannibal zvítězil a nedoved
-            hiddenTitle: false
-          - link: zpevnik_043.html
-            title: Listy Stefanovi Colonnovi mladšímu
             hiddenTitle: true
           - link: zpevnik_044.html
             title: Jak nový andílek se obezřelá
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_045.html
             title: 'Teď vidíš, Amore: mladinká paní'
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_046.html
             title: Svite svěžích sladkých vod,
-            hiddenTitle: false
-          - link: zpevnik_047.html
-            title: Georg Wilhelm Friedrich Hegel - Estetika
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_048.html
             title: Má Itálie, třeba slova marná
-            hiddenTitle: false
-          - link: zpevnik_049.html
-            title: >-
-              Dopis benátskému dóžeti Andreovi Dandolovi za bojů Benátek s
-              Janovem
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_050.html
             title: Z myšlenky k myšlence, z hor k horám sám
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_051.html
             title: Mír nenacházím, k válce síla není.
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_052.html
             title: Dští oheň z nebes, děvko, na tvůj vlas.
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_053.html
             title: Lakotný Bábel pytel zlořádu,
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_054.html
             title: Studnice bolesti, hospodo zlosti,
-            hiddenTitle: false
-          - link: zpevnik_055.html
-            title: Listy
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_056.html
             title: Čas od času není tak odmítavá
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_057.html
             title: „Co přijde, duše? Mluv, abych to znal!
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_058.html
             title: Nyní, kdy mlčí vítr, nebe, zem
-            hiddenTitle: false
-          - link: zpevnik_059.html
-            title: Vergilius - Aeneis
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_060.html
             title: Jakmile bílá noha v svěží trávě
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_061.html
             title: Jdu v nehostinném, divokém, zlém lese,
-            hiddenTitle: false
-          - link: zpevnik_062.html
-            title: 'List kardinálu Giovannimu Colonnovi '
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_063.html
             title: Má loď zapomenutí plná pluje
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_064.html
             title: Komůrko, tys mě kdysi uchránila
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_065.html
             title: Neznají tolik tvorů mořské vlny
-            hiddenTitle: false
-          - link: zpevnik_066.html
-            title: Francesco De Sanctis - Kritika Petrarky
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_067.html
             title: Na smrt paní Laury
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_068.html
             title: Co já mám dělat? Co teď, lásko má?
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_069.html
             title: Pertrarkův vlastnoruční zápis v jeho kodexu Vergilia
             hiddenTitle: true
           - link: zpevnik_070.html
             title: Zlomen laur svěží i sloup kolonád,
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_071.html
             title: Život nám utíká a nezastaví
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_072.html
-            title: Georg Wilhelm Friedrich Hegel - Estetika
+            title: |+
+
             hiddenTitle: true
           - link: zpevnik_073.html
             title: Když nářek ptáků nebo sladký šum
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_074.html
             title: Ty oči, o nichž jsem tak vroucné psal,
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_075.html
             title: Vznesla mě mysl tam, kde ona byla,
-            hiddenTitle: false
-          - link: zpevnik_076.html
-            title: Bernard z Clairvaux - O rozjímání
             hiddenTitle: true
+          - link: zpevnik_076.html
+            title: |+
+
+            hiddenTitle: false
           - link: zpevnik_077.html
             title: Ten slavíček tak sladce oplakává
-            hiddenTitle: false
-          - link: zpevnik_078.html
-            title: Vergilius - Zpěvy rolnické
             hiddenTitle: true
           - link: zpevnik_079.html
             title: Lásko, když ve mně kvetla
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_080.html
             title: Amor mě držel jednadvacet let,
-            hiddenTitle: false
+            hiddenTitle: true
           - link: zpevnik_081.html
             title: Jdu, oplakávám svoje prošlé časy.
-            hiddenTitle: false
-          - link: zpevnik_082.html
-            title: Natalino Sapegno - Francesco Petrarca
             hiddenTitle: true
         listType: plain
       - link: zpevnik_083.html
@@ -350,18 +281,12 @@ tocBase:
         children:
           - link: zpevnik_084.html
             title: Triumf smrti (První kapitola)
-            hiddenTitle: false
-          - link: zpevnik_085.html
-            title: Jan Kollár - Cestopis I
             hiddenTitle: true
           - link: zpevnik_086.html
             title: — TRIUMF ČASU
             hiddenTitle: false
           - link: zpevnik_087.html
             title: Triumf času (Závěr)
-            hiddenTitle: false
-          - link: zpevnik_088.html
-            title: Salvatore Quasimodo - Současná poezie
             hiddenTitle: true
         listType: plain
       - link: zpevnik_089.html

@@ -1,5 +1,6 @@
 ---
 title: "Zrak jste k\_mé nové barvě obrátila,"
+hiddenTitle: true
 contentType: poetry
 ---
 

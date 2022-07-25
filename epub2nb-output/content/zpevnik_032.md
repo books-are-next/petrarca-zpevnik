@@ -1,5 +1,6 @@
 ---
 title: Když údělem mých slok
+hiddenTitle: true
 contentType: poetry
 ---
 

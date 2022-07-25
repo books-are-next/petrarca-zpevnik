@@ -1,5 +1,6 @@
 ---
 title: Že kratičké je žití
+hiddenTitle: true
 contentType: poetry
 ---
 

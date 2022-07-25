@@ -1,5 +1,6 @@
 ---
 title: "Odhalit závoj v\_slunci nebo v\_stínu"
+hiddenTitle: true
 contentType: poetry
 ---
 

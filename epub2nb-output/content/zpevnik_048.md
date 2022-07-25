@@ -1,5 +1,6 @@
 ---
 title: Má Itálie, třeba slova marná
+hiddenTitle: true
 contentType: poetry
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: „Co přijde, duše? Mluv, abych to znal!
+hiddenTitle: true
 contentType: poetry
 ---
 

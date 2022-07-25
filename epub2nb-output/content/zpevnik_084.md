@@ -1,5 +1,6 @@
 ---
 title: /První kapitola/
+hiddenTitle: true
 contentType: poetry
 ---
 

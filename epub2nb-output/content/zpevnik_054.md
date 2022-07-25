@@ -1,5 +1,6 @@
 ---
 title: Studnice bolesti, hospodo zlosti,
+hiddenTitle: true
 contentType: poetry
 ---
 

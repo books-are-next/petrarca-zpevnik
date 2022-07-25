@@ -1,5 +1,6 @@
 ---
 title: Diana milenci se nelíbila
+hiddenTitle: true
 contentType: poetry
 ---
 

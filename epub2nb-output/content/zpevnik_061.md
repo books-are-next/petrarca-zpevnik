@@ -1,5 +1,6 @@
 ---
 title: "Jdu v\_nehostinném, divokém, zlém lese,"
+hiddenTitle: true
 contentType: poetry
 ---
 

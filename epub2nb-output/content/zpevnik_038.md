@@ -1,5 +1,6 @@
 ---
 title: Rozvíval kdysi vánek zlaté vlasy
+hiddenTitle: true
 contentType: poetry
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Mír nenacházím, k\_válce síla není\\."
+hiddenTitle: true
 contentType: poetry
 ---
 

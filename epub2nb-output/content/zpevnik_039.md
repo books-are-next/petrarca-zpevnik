@@ -1,5 +1,6 @@
 ---
 title: Překrásná žena, jižs tak miloval,
+hiddenTitle: true
 contentType: poetry
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Z\_myšlenky k\_myšlence, z\_hor k\_horám sám"
+hiddenTitle: true
 contentType: poetry
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Jdu, oplakávám svoje prošlé časy\.
+hiddenTitle: true
 contentType: poetry
 ---
 

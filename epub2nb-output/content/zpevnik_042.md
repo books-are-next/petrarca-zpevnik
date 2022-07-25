@@ -1,5 +1,6 @@
 ---
 title: "Hannibal zvítězil a\_nedoved"
+hiddenTitle: true
 contentType: poetry
 ---
 

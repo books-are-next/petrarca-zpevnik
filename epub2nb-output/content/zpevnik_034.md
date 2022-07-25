@@ -1,5 +1,6 @@
 ---
 title: Toho, kdo pevně rozhod se hnát život
+hiddenTitle: true
 contentType: poetry
 ---
 

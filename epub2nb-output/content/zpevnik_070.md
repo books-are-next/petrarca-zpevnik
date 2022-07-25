@@ -1,5 +1,6 @@
 ---
 title: "Zlomen laur svěží i\_sloup kolonád,"
+hiddenTitle: true
 contentType: poetry
 ---
 

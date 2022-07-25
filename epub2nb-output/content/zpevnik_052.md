@@ -1,5 +1,6 @@
 ---
 title: "Dští oheň z\_nebes, děvko, na tvůj vlas\\."
+hiddenTitle: true
 contentType: poetry
 ---
 

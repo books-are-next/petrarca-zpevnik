@@ -1,5 +1,6 @@
 ---
 title: Pod tíží dávných pout už tak jsem zmdlel
+hiddenTitle: true
 contentType: poetry
 ---
 

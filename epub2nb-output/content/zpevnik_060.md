@@ -1,5 +1,6 @@
 ---
 title: "Jakmile bílá noha v\_svěží trávě"
+hiddenTitle: true
 contentType: poetry
 ---
 

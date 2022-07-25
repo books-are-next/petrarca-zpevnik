@@ -1,5 +1,6 @@
 ---
 title: Má loď zapomenutí plná pluje
+hiddenTitle: true
 contentType: poetry
 ---
 

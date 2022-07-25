@@ -1,5 +1,6 @@
 ---
 title: Vznešený duchu, který řídíš údy,
+hiddenTitle: true
 contentType: poetry
 ---
 

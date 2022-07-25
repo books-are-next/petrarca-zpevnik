@@ -1,5 +1,6 @@
 ---
 title: Jak nový andílek se obezřelá
+hiddenTitle: true
 contentType: poetry
 ---
 

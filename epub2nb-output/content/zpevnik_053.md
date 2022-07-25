@@ -1,5 +1,6 @@
 ---
 title: Lakotný Bábel pytel zlořádu,
+hiddenTitle: true
 contentType: poetry
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Svite svěžích sladkých vod,
+hiddenTitle: true
 contentType: poetry
 ---
 

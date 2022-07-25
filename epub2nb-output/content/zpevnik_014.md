@@ -1,5 +1,6 @@
 ---
 title: Jde stařeček, vlasy jak sníh, je bílý,
+hiddenTitle: true
 contentType: poetry
 ---
 

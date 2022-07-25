@@ -1,5 +1,6 @@
 ---
 title: "Život nám utíká a\_nezastaví"
+hiddenTitle: true
 contentType: poetry
 ---
 
