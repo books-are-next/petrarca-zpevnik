@@ -1,10 +1,12 @@
 ---
-title: 'Teď vidíš, Amore: mladinká paní'
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Teď vidíš, Amore: mladinká paní
 
 tvou vládu nectí, pro mne nemá cit,  
 dva nepřátele má — a cítí klid.

@@ -1,10 +1,12 @@
 ---
-title: Diana milenci se nelíbila
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Diana milenci se nelíbila
 
 víc, když ji nečekaně viděl stát  
 v ledové vodě — celá nahá byla —,  

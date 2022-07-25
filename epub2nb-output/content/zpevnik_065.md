@@ -1,10 +1,12 @@
 ---
-title: Neznají tolik tvorů mořské vlny
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Neznají tolik tvorů mořské vlny
 
 a v týnu nebes nad okruhem luny  
 tolik hvězd není nikdy vidět v noci,  

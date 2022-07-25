@@ -1,10 +1,12 @@
 ---
-title: Překrásná žena, jižs tak miloval,
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Překrásná žena, jižs tak miloval,
 
 až překotně se od nás odloučila  
 a na nebe, jak doufám, vystoupila:  

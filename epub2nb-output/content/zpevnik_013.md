@@ -1,10 +1,12 @@
 ---
-title: Ubohé oči, otáčím vás zpět
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Ubohé oči, otáčím vás zpět
 
 k tváři, jež vám vše další zabila.  
 Láska vám hodila  

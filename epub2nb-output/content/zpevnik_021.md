@@ -1,10 +1,12 @@
 ---
-title: Vznešený duchu, který řídíš údy,
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Vznešený duchu, který řídíš údy,
 
 do nichž se vtělil k zemské pouti host  
 nad jiné platný — bystrý, moudrý muž,  

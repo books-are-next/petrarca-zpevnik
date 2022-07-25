@@ -1,10 +1,12 @@
 ---
-title: "Z\_myšlenky k\_myšlence, z\_hor k\_horám sám"
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Z myšlenky k myšlence, z hor k horám sám
 
 jdu veden Láskou; cestou prošlapanou  
 se odmítám dát pro klid svého žití.  

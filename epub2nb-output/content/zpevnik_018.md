@@ -1,10 +1,12 @@
 ---
-title: "V\_nejpustších polích sám jdu v\_myšlenkách\\."
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+V nejpustších polích sám jdu v myšlenkách.
 
 Kraj měří kroky — volné, zpomalené.  
 Prchaje mám oči tam zacílené,  

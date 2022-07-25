@@ -1,10 +1,12 @@
 ---
-title: Má Itálie, třeba slova marná
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Má Itálie, třeba slova marná
 
 jsou na smrtelné rány,  
 jichž sta z tvých krásných údů na mne zírá,  

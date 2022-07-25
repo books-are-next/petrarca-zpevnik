@@ -1,10 +1,12 @@
 ---
-title: "Život nám utíká a\_nezastaví"
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Život nám utíká a nezastaví
 
 se hodinku. Smrt kráčí bez ustání,  
 dnešek a včerejšek jsou věčné štvaní  

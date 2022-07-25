@@ -1,10 +1,12 @@
 ---
-title: "Dští oheň z\_nebes, děvko, na tvůj vlas\\."
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Dští oheň z nebes, děvko, na tvůj vlas.
 
 Jedla jsi bukvice, z řek vodu pila —  
 a teď sis lesk a zisky naloupila,  

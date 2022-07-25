@@ -1,10 +1,12 @@
 ---
-title: Nyní, kdy mlčí vítr, nebe, zem
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Nyní, kdy mlčí vítr, nebe, zem
 
 a zvěř a ptáky na uzdě má sen,  
 noc hvězdný vůz posílá kroužit ven  

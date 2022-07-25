@@ -1,10 +1,12 @@
 ---
-title: "Zlomen laur svěží i\_sloup kolonád,"
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Zlomen laur svěží i sloup kolonád,
 
 jež skýtaly mdlé mysli stín a klid.  
 Nedoufám, že mi může nahradit  

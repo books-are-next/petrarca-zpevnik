@@ -1,10 +1,12 @@
 ---
-title: Ten slavíček tak sladce oplakává
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Ten slavíček tak sladce oplakává
 
 snad mládata, snad družku drahou vším,  
 až kraj i nebe plní píseň lkavá  

@@ -1,10 +1,12 @@
 ---
-title: Když nářek ptáků nebo sladký šum
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Když nářek ptáků nebo sladký šum
 
 haluzí, jimiž letní vánek kývá,  
 je slyšet a když z řeky ke břehům  

@@ -1,10 +1,12 @@
 ---
-title: "Odhalit závoj v\_slunci nebo v\_stínu"
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Odhalit závoj v slunci nebo v stínu
 
 neviděl jsem vás, paní,  
 sotva jste postřehla mé horování,  

@@ -1,10 +1,12 @@
 ---
-title: "Zrak jste k\_mé nové barvě obrátila,"
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Zrak jste k mé nové barvě obrátila,
 
 k té, která smrt nám připomíná všem.  
 Soucit vás jal. Blažícím pozdravem  

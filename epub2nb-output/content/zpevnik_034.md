@@ -1,10 +1,12 @@
 ---
-title: Toho, kdo pevně rozhod se hnát život
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Toho, kdo pevně rozhod se hnát život
 
 přes proradnou pláň vln a přes útesy,  
 od smrti dělí jenom malá bárka  

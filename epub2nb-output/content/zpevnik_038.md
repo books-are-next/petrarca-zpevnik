@@ -1,10 +1,12 @@
 ---
-title: Rozvíval kdysi vánek zlaté vlasy
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Rozvíval kdysi vánek zlaté vlasy
 
 a v tisíc sladkých uzlů zaplétal;  
 nad všechnu míru v krásných očích plál  

@@ -1,10 +1,12 @@
 ---
-title: "Mír nenacházím, k\_válce síla není\\."
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Mír nenacházím, k válce síla není.
 
 A bojím se a doufám, žhnu, jsem led.  
 Nad nebe vzlétám, ležím na té zemi;  

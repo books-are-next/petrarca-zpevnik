@@ -1,10 +1,12 @@
 ---
-title: Lásko, když ve mně kvetla
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Lásko, když ve mně kvetla
 
 naděje v milost, víra vrchovatá,  
 ta, v kterou doufal jsem, mi byla vzata.

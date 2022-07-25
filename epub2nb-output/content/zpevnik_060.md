@@ -1,10 +1,12 @@
 ---
-title: "Jakmile bílá noha v\_svěží trávě"
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Jakmile bílá noha v svěží trávě
 
 počestně vede sladké kroky k cíli,  
 ctnost v kvítí kolem rozpuká a sílí,  

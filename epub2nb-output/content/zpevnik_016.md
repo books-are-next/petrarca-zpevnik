@@ -1,10 +1,12 @@
 ---
-title: Pro všecky tvory, které hostí země
+title: ''
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
+
+Pro všecky tvory, které hostí země
 
 — krom některých, co nenávidí slunce —  
 čas hmoždit se je, dokavad je den.  
