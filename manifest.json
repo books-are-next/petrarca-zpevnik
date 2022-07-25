@@ -8,14 +8,10 @@
   "edition": "Poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "petrarca-zpevnik-fda5045",
-  "revision": "fda5045",
+  "identifier": "petrarca-zpevnik-5942f62",
+  "revision": "5942f62",
   "readingOrder": [
     "promo.html",
-    "zpevnik_001.html",
-    "zpevnik_002.html",
-    "zpevnik_003.html",
-    "zpevnik_004.html",
     "zpevnik_005.html",
     "zpevnik_006.html",
     "zpevnik_007.html",
@@ -50,8 +46,8 @@
     "zpevnik_036.html",
     "zpevnik_037.html",
     "zpevnik_038.html",
-    "zpevnik_039.html",
     "zpevnik_040.html",
+    "zpevnik_039.html",
     "zpevnik_041.html",
     "zpevnik_042.html",
     "zpevnik_043.html",
@@ -103,11 +99,11 @@
     "zpevnik_089.html",
     "zpevnik_090.html",
     "zpevnik_091.html",
-    "zpevnik_092.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Jul 25 2022 08:51:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658739094098
+    "date": "Mon Jul 25 2022 09:56:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658742972759
   },
   "documents": [
     {
@@ -119,88 +115,8 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "zpevnik_001.html",
-      "toc": []
-    },
-    {
-      "title": "Zpěvník",
-      "file": "zpevnik_001.html",
-      "words": 1,
-      "chars": 0,
-      "ideas": 1,
-      "role": "chapter",
-      "order": 1,
-      "prev": "promo.html",
-      "next": "zpevnik_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Zpěvník",
-      "file": "zpevnik_002.html",
-      "words": 1,
-      "chars": 0,
-      "ideas": 1,
-      "role": "chapter",
-      "order": 2,
-      "prev": "zpevnik_001.html",
-      "next": "zpevnik_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Zpěvník",
-      "file": "zpevnik_003.html",
-      "words": 9,
-      "chars": 64,
-      "ideas": 4,
-      "role": "chapter",
-      "order": 3,
-      "prev": "zpevnik_002.html",
-      "next": "zpevnik_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Zpěvník",
-      "file": "zpevnik_004.html",
-      "words": 89,
-      "chars": 603,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 4,
-      "prev": "zpevnik_003.html",
       "next": "zpevnik_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Zpěvník",
@@ -209,8 +125,8 @@
       "chars": 458,
       "ideas": 5,
       "role": "chapter",
-      "order": 5,
-      "prev": "zpevnik_004.html",
+      "order": 1,
+      "prev": "promo.html",
       "next": "zpevnik_006.html",
       "toc": [
         {
@@ -229,7 +145,7 @@
       "chars": 16693,
       "ideas": 25,
       "role": "chapter",
-      "order": 6,
+      "order": 2,
       "prev": "zpevnik_005.html",
       "next": "zpevnik_007.html",
       "toc": [
@@ -249,7 +165,7 @@
       "chars": 974,
       "ideas": 4,
       "role": "chapter",
-      "order": 7,
+      "order": 3,
       "prev": "zpevnik_006.html",
       "next": "zpevnik_008.html",
       "toc": [
@@ -269,7 +185,7 @@
       "chars": 26,
       "ideas": 1,
       "role": "chapter",
-      "order": 8,
+      "order": 4,
       "prev": "zpevnik_007.html",
       "next": "zpevnik_009.html",
       "toc": [
@@ -289,7 +205,7 @@
       "chars": 542,
       "ideas": 14,
       "role": "chapter",
-      "order": 9,
+      "order": 5,
       "prev": "zpevnik_008.html",
       "next": "zpevnik_010.html",
       "toc": [
@@ -309,7 +225,7 @@
       "chars": 516,
       "ideas": 14,
       "role": "chapter",
-      "order": 10,
+      "order": 6,
       "prev": "zpevnik_009.html",
       "next": "zpevnik_011.html",
       "toc": [
@@ -329,7 +245,7 @@
       "chars": 634,
       "ideas": 4,
       "role": "chapter",
-      "order": 11,
+      "order": 7,
       "prev": "zpevnik_010.html",
       "next": "zpevnik_012.html",
       "toc": [
@@ -349,7 +265,7 @@
       "chars": 472,
       "ideas": 14,
       "role": "chapter",
-      "order": 12,
+      "order": 8,
       "prev": "zpevnik_011.html",
       "next": "zpevnik_013.html",
       "toc": [
@@ -369,7 +285,7 @@
       "chars": 422,
       "ideas": 14,
       "role": "chapter",
-      "order": 13,
+      "order": 9,
       "prev": "zpevnik_012.html",
       "next": "zpevnik_014.html",
       "toc": [
@@ -389,7 +305,7 @@
       "chars": 499,
       "ideas": 14,
       "role": "chapter",
-      "order": 14,
+      "order": 10,
       "prev": "zpevnik_013.html",
       "next": "zpevnik_015.html",
       "toc": [
@@ -409,7 +325,7 @@
       "chars": 264,
       "ideas": 10,
       "role": "chapter",
-      "order": 15,
+      "order": 11,
       "prev": "zpevnik_014.html",
       "next": "zpevnik_016.html",
       "toc": [
@@ -429,7 +345,7 @@
       "chars": 1385,
       "ideas": 39,
       "role": "chapter",
-      "order": 16,
+      "order": 12,
       "prev": "zpevnik_015.html",
       "next": "zpevnik_017.html",
       "toc": [
@@ -449,7 +365,7 @@
       "chars": 504,
       "ideas": 14,
       "role": "chapter",
-      "order": 17,
+      "order": 13,
       "prev": "zpevnik_016.html",
       "next": "zpevnik_018.html",
       "toc": [
@@ -469,7 +385,7 @@
       "chars": 485,
       "ideas": 14,
       "role": "chapter",
-      "order": 18,
+      "order": 14,
       "prev": "zpevnik_017.html",
       "next": "zpevnik_019.html",
       "toc": [
@@ -489,7 +405,7 @@
       "chars": 260,
       "ideas": 8,
       "role": "chapter",
-      "order": 19,
+      "order": 15,
       "prev": "zpevnik_018.html",
       "next": "zpevnik_020.html",
       "toc": [
@@ -509,7 +425,7 @@
       "chars": 291,
       "ideas": 9,
       "role": "chapter",
-      "order": 20,
+      "order": 16,
       "prev": "zpevnik_019.html",
       "next": "zpevnik_021.html",
       "toc": [
@@ -529,7 +445,7 @@
       "chars": 3482,
       "ideas": 105,
       "role": "chapter",
-      "order": 21,
+      "order": 17,
       "prev": "zpevnik_020.html",
       "next": "zpevnik_022.html",
       "toc": [
@@ -549,7 +465,7 @@
       "chars": 592,
       "ideas": 4,
       "role": "chapter",
-      "order": 22,
+      "order": 18,
       "prev": "zpevnik_021.html",
       "next": "zpevnik_023.html",
       "toc": [
@@ -569,7 +485,7 @@
       "chars": 493,
       "ideas": 14,
       "role": "chapter",
-      "order": 23,
+      "order": 19,
       "prev": "zpevnik_022.html",
       "next": "zpevnik_024.html",
       "toc": [
@@ -589,7 +505,7 @@
       "chars": 494,
       "ideas": 14,
       "role": "chapter",
-      "order": 24,
+      "order": 20,
       "prev": "zpevnik_023.html",
       "next": "zpevnik_025.html",
       "toc": [
@@ -609,7 +525,7 @@
       "chars": 543,
       "ideas": 4,
       "role": "chapter",
-      "order": 25,
+      "order": 21,
       "prev": "zpevnik_024.html",
       "next": "zpevnik_026.html",
       "toc": [
@@ -629,7 +545,7 @@
       "chars": 1291,
       "ideas": 39,
       "role": "chapter",
-      "order": 26,
+      "order": 22,
       "prev": "zpevnik_025.html",
       "next": "zpevnik_027.html",
       "toc": [
@@ -649,7 +565,7 @@
       "chars": 876,
       "ideas": 6,
       "role": "chapter",
-      "order": 27,
+      "order": 23,
       "prev": "zpevnik_026.html",
       "next": "zpevnik_028.html",
       "toc": [
@@ -669,7 +585,7 @@
       "chars": 3384,
       "ideas": 108,
       "role": "chapter",
-      "order": 28,
+      "order": 24,
       "prev": "zpevnik_027.html",
       "next": "zpevnik_029.html",
       "toc": [
@@ -689,7 +605,7 @@
       "chars": 171,
       "ideas": 5,
       "role": "chapter",
-      "order": 29,
+      "order": 25,
       "prev": "zpevnik_028.html",
       "next": "zpevnik_030.html",
       "toc": [
@@ -709,7 +625,7 @@
       "chars": 2425,
       "ideas": 78,
       "role": "chapter",
-      "order": 30,
+      "order": 26,
       "prev": "zpevnik_029.html",
       "next": "zpevnik_031.html",
       "toc": [
@@ -729,7 +645,7 @@
       "chars": 505,
       "ideas": 18,
       "role": "chapter",
-      "order": 31,
+      "order": 27,
       "prev": "zpevnik_030.html",
       "next": "zpevnik_032.html",
       "toc": [
@@ -749,7 +665,7 @@
       "chars": 2864,
       "ideas": 93,
       "role": "chapter",
-      "order": 32,
+      "order": 28,
       "prev": "zpevnik_031.html",
       "next": "zpevnik_033.html",
       "toc": [
@@ -769,7 +685,7 @@
       "chars": 3186,
       "ideas": 5,
       "role": "chapter",
-      "order": 33,
+      "order": 29,
       "prev": "zpevnik_032.html",
       "next": "zpevnik_034.html",
       "toc": [
@@ -789,7 +705,7 @@
       "chars": 1405,
       "ideas": 39,
       "role": "chapter",
-      "order": 34,
+      "order": 30,
       "prev": "zpevnik_033.html",
       "next": "zpevnik_035.html",
       "toc": [
@@ -809,7 +725,7 @@
       "chars": 109,
       "ideas": 6,
       "role": "chapter",
-      "order": 35,
+      "order": 31,
       "prev": "zpevnik_034.html",
       "next": "zpevnik_036.html",
       "toc": [
@@ -829,7 +745,7 @@
       "chars": 506,
       "ideas": 14,
       "role": "chapter",
-      "order": 36,
+      "order": 32,
       "prev": "zpevnik_035.html",
       "next": "zpevnik_037.html",
       "toc": [
@@ -849,7 +765,7 @@
       "chars": 221,
       "ideas": 12,
       "role": "chapter",
-      "order": 37,
+      "order": 33,
       "prev": "zpevnik_036.html",
       "next": "zpevnik_038.html",
       "toc": [
@@ -869,34 +785,14 @@
       "chars": 500,
       "ideas": 14,
       "role": "chapter",
-      "order": 38,
+      "order": 34,
       "prev": "zpevnik_037.html",
-      "next": "zpevnik_039.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Rozvíval kdysi vánek zlaté vlasy",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Překrásná žena, jižs tak miloval,",
-      "file": "zpevnik_039.html",
-      "words": 88,
-      "chars": 469,
-      "ideas": 14,
-      "role": "chapter",
-      "order": 39,
-      "prev": "zpevnik_038.html",
       "next": "zpevnik_040.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Překrásná žena, jižs tak miloval,",
+          "name": "Rozvíval kdysi vánek zlaté vlasy",
           "id": null,
           "children": []
         }
@@ -909,14 +805,34 @@
       "chars": 541,
       "ideas": 3,
       "role": "chapter",
-      "order": 40,
-      "prev": "zpevnik_039.html",
-      "next": "zpevnik_041.html",
+      "order": 35,
+      "prev": "zpevnik_038.html",
+      "next": "zpevnik_039.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Překrásná žena, jižs tak miloval,",
+      "file": "zpevnik_039.html",
+      "words": 88,
+      "chars": 469,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 36,
+      "prev": "zpevnik_040.html",
+      "next": "zpevnik_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Překrásná žena, jižs tak miloval,",
           "id": null,
           "children": []
         }
@@ -929,8 +845,8 @@
       "chars": 497,
       "ideas": 14,
       "role": "chapter",
-      "order": 41,
-      "prev": "zpevnik_040.html",
+      "order": 37,
+      "prev": "zpevnik_039.html",
       "next": "zpevnik_042.html",
       "toc": [
         {
@@ -949,7 +865,7 @@
       "chars": 467,
       "ideas": 14,
       "role": "chapter",
-      "order": 42,
+      "order": 38,
       "prev": "zpevnik_041.html",
       "next": "zpevnik_043.html",
       "toc": [
@@ -969,7 +885,7 @@
       "chars": 615,
       "ideas": 14,
       "role": "chapter",
-      "order": 43,
+      "order": 39,
       "prev": "zpevnik_042.html",
       "next": "zpevnik_044.html",
       "toc": [
@@ -989,7 +905,7 @@
       "chars": 260,
       "ideas": 8,
       "role": "chapter",
-      "order": 44,
+      "order": 40,
       "prev": "zpevnik_043.html",
       "next": "zpevnik_045.html",
       "toc": [
@@ -1009,7 +925,7 @@
       "chars": 305,
       "ideas": 9,
       "role": "chapter",
-      "order": 45,
+      "order": 41,
       "prev": "zpevnik_044.html",
       "next": "zpevnik_046.html",
       "toc": [
@@ -1029,7 +945,7 @@
       "chars": 1673,
       "ideas": 68,
       "role": "chapter",
-      "order": 46,
+      "order": 42,
       "prev": "zpevnik_045.html",
       "next": "zpevnik_047.html",
       "toc": [
@@ -1049,7 +965,7 @@
       "chars": 449,
       "ideas": 4,
       "role": "chapter",
-      "order": 47,
+      "order": 43,
       "prev": "zpevnik_046.html",
       "next": "zpevnik_048.html",
       "toc": [
@@ -1069,7 +985,7 @@
       "chars": 3594,
       "ideas": 122,
       "role": "chapter",
-      "order": 48,
+      "order": 44,
       "prev": "zpevnik_047.html",
       "next": "zpevnik_049.html",
       "toc": [
@@ -1089,7 +1005,7 @@
       "chars": 1263,
       "ideas": 5,
       "role": "chapter",
-      "order": 49,
+      "order": 45,
       "prev": "zpevnik_048.html",
       "next": "zpevnik_050.html",
       "toc": [
@@ -1109,7 +1025,7 @@
       "chars": 2403,
       "ideas": 72,
       "role": "chapter",
-      "order": 50,
+      "order": 46,
       "prev": "zpevnik_049.html",
       "next": "zpevnik_051.html",
       "toc": [
@@ -1129,7 +1045,7 @@
       "chars": 487,
       "ideas": 14,
       "role": "chapter",
-      "order": 51,
+      "order": 47,
       "prev": "zpevnik_050.html",
       "next": "zpevnik_052.html",
       "toc": [
@@ -1149,7 +1065,7 @@
       "chars": 515,
       "ideas": 14,
       "role": "chapter",
-      "order": 52,
+      "order": 48,
       "prev": "zpevnik_051.html",
       "next": "zpevnik_053.html",
       "toc": [
@@ -1169,7 +1085,7 @@
       "chars": 471,
       "ideas": 14,
       "role": "chapter",
-      "order": 53,
+      "order": 49,
       "prev": "zpevnik_052.html",
       "next": "zpevnik_054.html",
       "toc": [
@@ -1189,7 +1105,7 @@
       "chars": 481,
       "ideas": 14,
       "role": "chapter",
-      "order": 54,
+      "order": 50,
       "prev": "zpevnik_053.html",
       "next": "zpevnik_055.html",
       "toc": [
@@ -1209,7 +1125,7 @@
       "chars": 1151,
       "ideas": 10,
       "role": "chapter",
-      "order": 55,
+      "order": 51,
       "prev": "zpevnik_054.html",
       "next": "zpevnik_056.html",
       "toc": [
@@ -1229,7 +1145,7 @@
       "chars": 461,
       "ideas": 16,
       "role": "chapter",
-      "order": 56,
+      "order": 52,
       "prev": "zpevnik_055.html",
       "next": "zpevnik_057.html",
       "toc": [
@@ -1249,7 +1165,7 @@
       "chars": 500,
       "ideas": 14,
       "role": "chapter",
-      "order": 57,
+      "order": 53,
       "prev": "zpevnik_056.html",
       "next": "zpevnik_058.html",
       "toc": [
@@ -1269,7 +1185,7 @@
       "chars": 480,
       "ideas": 14,
       "role": "chapter",
-      "order": 58,
+      "order": 54,
       "prev": "zpevnik_057.html",
       "next": "zpevnik_059.html",
       "toc": [
@@ -1289,7 +1205,7 @@
       "chars": 396,
       "ideas": 10,
       "role": "chapter",
-      "order": 59,
+      "order": 55,
       "prev": "zpevnik_058.html",
       "next": "zpevnik_060.html",
       "toc": [
@@ -1309,7 +1225,7 @@
       "chars": 502,
       "ideas": 14,
       "role": "chapter",
-      "order": 60,
+      "order": 56,
       "prev": "zpevnik_059.html",
       "next": "zpevnik_061.html",
       "toc": [
@@ -1329,7 +1245,7 @@
       "chars": 503,
       "ideas": 14,
       "role": "chapter",
-      "order": 61,
+      "order": 57,
       "prev": "zpevnik_060.html",
       "next": "zpevnik_062.html",
       "toc": [
@@ -1349,7 +1265,7 @@
       "chars": 393,
       "ideas": 3,
       "role": "chapter",
-      "order": 62,
+      "order": 58,
       "prev": "zpevnik_061.html",
       "next": "zpevnik_063.html",
       "toc": [
@@ -1369,7 +1285,7 @@
       "chars": 500,
       "ideas": 14,
       "role": "chapter",
-      "order": 63,
+      "order": 59,
       "prev": "zpevnik_062.html",
       "next": "zpevnik_064.html",
       "toc": [
@@ -1389,7 +1305,7 @@
       "chars": 500,
       "ideas": 14,
       "role": "chapter",
-      "order": 64,
+      "order": 60,
       "prev": "zpevnik_063.html",
       "next": "zpevnik_065.html",
       "toc": [
@@ -1409,7 +1325,7 @@
       "chars": 1335,
       "ideas": 39,
       "role": "chapter",
-      "order": 65,
+      "order": 61,
       "prev": "zpevnik_064.html",
       "next": "zpevnik_066.html",
       "toc": [
@@ -1429,7 +1345,7 @@
       "chars": 1376,
       "ideas": 4,
       "role": "chapter",
-      "order": 66,
+      "order": 62,
       "prev": "zpevnik_065.html",
       "next": "zpevnik_067.html",
       "toc": [
@@ -1449,7 +1365,7 @@
       "chars": 18,
       "ideas": 1,
       "role": "chapter",
-      "order": 67,
+      "order": 63,
       "prev": "zpevnik_066.html",
       "next": "zpevnik_068.html",
       "toc": [
@@ -1469,7 +1385,7 @@
       "chars": 2446,
       "ideas": 82,
       "role": "chapter",
-      "order": 68,
+      "order": 64,
       "prev": "zpevnik_067.html",
       "next": "zpevnik_069.html",
       "toc": [
@@ -1489,7 +1405,7 @@
       "chars": 676,
       "ideas": 5,
       "role": "chapter",
-      "order": 69,
+      "order": 65,
       "prev": "zpevnik_068.html",
       "next": "zpevnik_070.html",
       "toc": [
@@ -1509,7 +1425,7 @@
       "chars": 475,
       "ideas": 14,
       "role": "chapter",
-      "order": 70,
+      "order": 66,
       "prev": "zpevnik_069.html",
       "next": "zpevnik_071.html",
       "toc": [
@@ -1529,7 +1445,7 @@
       "chars": 476,
       "ideas": 14,
       "role": "chapter",
-      "order": 71,
+      "order": 67,
       "prev": "zpevnik_070.html",
       "next": "zpevnik_072.html",
       "toc": [
@@ -1549,7 +1465,7 @@
       "chars": 620,
       "ideas": 5,
       "role": "chapter",
-      "order": 72,
+      "order": 68,
       "prev": "zpevnik_071.html",
       "next": "zpevnik_073.html",
       "toc": [
@@ -1569,7 +1485,7 @@
       "chars": 472,
       "ideas": 14,
       "role": "chapter",
-      "order": 73,
+      "order": 69,
       "prev": "zpevnik_072.html",
       "next": "zpevnik_074.html",
       "toc": [
@@ -1589,7 +1505,7 @@
       "chars": 493,
       "ideas": 14,
       "role": "chapter",
-      "order": 74,
+      "order": 70,
       "prev": "zpevnik_073.html",
       "next": "zpevnik_075.html",
       "toc": [
@@ -1609,7 +1525,7 @@
       "chars": 494,
       "ideas": 14,
       "role": "chapter",
-      "order": 75,
+      "order": 71,
       "prev": "zpevnik_074.html",
       "next": "zpevnik_076.html",
       "toc": [
@@ -1629,7 +1545,7 @@
       "chars": 208,
       "ideas": 4,
       "role": "chapter",
-      "order": 76,
+      "order": 72,
       "prev": "zpevnik_075.html",
       "next": "zpevnik_077.html",
       "toc": [
@@ -1649,7 +1565,7 @@
       "chars": 474,
       "ideas": 14,
       "role": "chapter",
-      "order": 77,
+      "order": 73,
       "prev": "zpevnik_076.html",
       "next": "zpevnik_078.html",
       "toc": [
@@ -1669,7 +1585,7 @@
       "chars": 307,
       "ideas": 8,
       "role": "chapter",
-      "order": 78,
+      "order": 74,
       "prev": "zpevnik_077.html",
       "next": "zpevnik_079.html",
       "toc": [
@@ -1689,7 +1605,7 @@
       "chars": 330,
       "ideas": 12,
       "role": "chapter",
-      "order": 79,
+      "order": 75,
       "prev": "zpevnik_078.html",
       "next": "zpevnik_080.html",
       "toc": [
@@ -1709,7 +1625,7 @@
       "chars": 498,
       "ideas": 14,
       "role": "chapter",
-      "order": 80,
+      "order": 76,
       "prev": "zpevnik_079.html",
       "next": "zpevnik_081.html",
       "toc": [
@@ -1729,7 +1645,7 @@
       "chars": 492,
       "ideas": 14,
       "role": "chapter",
-      "order": 81,
+      "order": 77,
       "prev": "zpevnik_080.html",
       "next": "zpevnik_082.html",
       "toc": [
@@ -1749,7 +1665,7 @@
       "chars": 2035,
       "ideas": 8,
       "role": "chapter",
-      "order": 82,
+      "order": 78,
       "prev": "zpevnik_081.html",
       "next": "zpevnik_083.html",
       "toc": [
@@ -1769,7 +1685,7 @@
       "chars": 20,
       "ideas": 1,
       "role": "chapter",
-      "order": 83,
+      "order": 79,
       "prev": "zpevnik_082.html",
       "next": "zpevnik_084.html",
       "toc": [
@@ -1789,7 +1705,7 @@
       "chars": 5887,
       "ideas": 173,
       "role": "chapter",
-      "order": 84,
+      "order": 80,
       "prev": "zpevnik_083.html",
       "next": "zpevnik_085.html",
       "toc": [
@@ -1809,7 +1725,7 @@
       "chars": 1916,
       "ideas": 6,
       "role": "chapter",
-      "order": 85,
+      "order": 81,
       "prev": "zpevnik_084.html",
       "next": "zpevnik_086.html",
       "toc": [
@@ -1829,7 +1745,7 @@
       "chars": 12,
       "ideas": 1,
       "role": "chapter",
-      "order": 86,
+      "order": 82,
       "prev": "zpevnik_085.html",
       "next": "zpevnik_087.html",
       "toc": [
@@ -1849,7 +1765,7 @@
       "chars": 1272,
       "ideas": 38,
       "role": "chapter",
-      "order": 87,
+      "order": 83,
       "prev": "zpevnik_086.html",
       "next": "zpevnik_088.html",
       "toc": [
@@ -1869,7 +1785,7 @@
       "chars": 496,
       "ideas": 3,
       "role": "chapter",
-      "order": 88,
+      "order": 84,
       "prev": "zpevnik_087.html",
       "next": "zpevnik_089.html",
       "toc": [
@@ -1889,7 +1805,7 @@
       "chars": 1081,
       "ideas": 4,
       "role": "chapter",
-      "order": 89,
+      "order": 85,
       "prev": "zpevnik_088.html",
       "next": "zpevnik_090.html",
       "toc": [
@@ -1909,7 +1825,7 @@
       "chars": 14501,
       "ideas": 130,
       "role": "chapter",
-      "order": 90,
+      "order": 86,
       "prev": "zpevnik_089.html",
       "next": "zpevnik_091.html",
       "toc": [
@@ -1929,9 +1845,9 @@
       "chars": 10016,
       "ideas": 13,
       "role": "chapter",
-      "order": 91,
+      "order": 87,
       "prev": "zpevnik_090.html",
-      "next": "zpevnik_092.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1943,20 +1859,20 @@
       ]
     },
     {
-      "title": "Zpěvník",
-      "file": "zpevnik_092.html",
-      "words": 57,
-      "chars": 368,
-      "ideas": 14,
-      "role": "chapter",
-      "order": 92,
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 142,
+      "chars": 939,
+      "ideas": 18,
+      "role": "about",
+      "order": null,
       "prev": "zpevnik_091.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -1965,14 +1881,14 @@
   ],
   "totals": {
     "all": {
-      "words": 20414,
-      "chars": 116848,
-      "ideas": 1988
+      "words": 20398,
+      "chars": 116747,
+      "ideas": 1978
     },
     "chapters": {
-      "words": 20408,
-      "chars": 116809,
-      "ideas": 1983
+      "words": 20251,
+      "chars": 115774,
+      "ideas": 1956
     }
   }
 }
