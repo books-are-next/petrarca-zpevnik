@@ -21,5 +21,7 @@ milostným mrazením rozchvět se daří.
 <section>
 
 * * *
+
 [^1]: Rozuměj: dá Lauře.
+
 </section>
