@@ -8,8 +8,8 @@
   "edition": "Poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "petrarca-zpevnik-01c96b8",
-  "revision": "01c96b8",
+  "identifier": "petrarca-zpevnik-40fddc4",
+  "revision": "40fddc4",
   "readingOrder": [
     "promo.html",
     "zpevnik_005.html",
@@ -102,8 +102,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:55:23 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150923585
+    "date": "Mon Oct 10 2022 15:47:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416851251
   },
   "documents": [
     {
@@ -1862,7 +1862,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 140,
-      "chars": 939,
+      "chars": 940,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -1882,7 +1882,7 @@
   "totals": {
     "all": {
       "words": 20396,
-      "chars": 116748,
+      "chars": 116749,
       "ideas": 1976
     },
     "chapters": {
